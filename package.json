@@ -1,0 +1,37 @@
+{
+  "name": "nora-voice-secretary",
+  "version": "1.0.0",
+  "description": "Landing B2B para una secretaria de voz conectada con ElevenLabs.",
+  "type": "module",
+  "scripts": {
+    "dev": "node --use-system-ca --watch-path=server --watch-path=src/data.js --watch-path=.env.local --watch-preserve-output server/index.js",
+    "build": "vite build",
+    "check:visual": "node scripts/visual-check.mjs",
+    "preview": "node --use-system-ca server/index.js --production --port 4176",
+    "start": "node --use-system-ca server/index.js --production",
+    "test": "npm run test:unit && npm run build",
+    "test:unit": "node --test tests/*.test.mjs"
+  },
+  "private": true,
+  "dependencies": {
+    "@elevenlabs/react": "^1.10.0",
+    "@fontsource/dm-sans": "^5.2.8",
+    "@fontsource/ibm-plex-mono": "^5.2.7",
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.6.1",
+    "compression": "^1.8.1",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.5.2",
+    "framer-motion": "^12.42.2",
+    "lucide-react": "^1.24.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "three": "^0.185.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.3",
+    "playwright-core": "^1.61.1",
+    "vite": "^8.1.4"
+  }
+}
