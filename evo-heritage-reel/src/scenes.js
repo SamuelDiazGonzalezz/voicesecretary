@@ -433,8 +433,9 @@ export function buildMerch(ctx) {
   const printGeo = new THREE.PlaneGeometry(0.54, 0.54, 30, 30);
   printGeo.translate(0, 0.02, depth / 2 + 0.037);
   bend(printGeo, 0.22);
-  const printMat = new THREE.MeshStandardMaterial({ map: ctx.prints[0], transparent: true, roughness: 0.75, polygonOffset: true, polygonOffsetFactor: -2 });
-  const print = new THREE.Mesh(printGeo, printMat);
+  // la tapa extruida no tiene vértices interiores (no se curva igual que el estampado): se dibuja encima sin test de profundidad; al girar de espaldas se descarta por ser FrontSide
+  const printMat = new THREE.MeshStandardMaterial({ map: ctx.prints[0], transparent: true, roughness: 0.75, depthTest: false });
+  const print = new THREE.Mesh(printGeo, printMat); print.renderOrder = 5;
   const teeG = new THREE.Group(); teeG.add(tee, collar, print); scene.add(teeG);
 
   scene.add(new THREE.HemisphereLight('#ffffff', '#d8cfbf', 1.1));
