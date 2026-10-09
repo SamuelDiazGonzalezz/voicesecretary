@@ -74,9 +74,22 @@ Revisé cada versión con hojas de contacto de fotogramas (y el audio con espect
 6. **Audio v1.** El espectrograma confirmaba la sincronía: pitidos a 0 / 0,5 / 1 s, arranque a 1,05 s, el silbido del turbo dibujando los cambios de marcha. El balance de stems mostró el motor al ralentí demasiado alto bajo la música del revelado; lo bajé a 0,45 con un golpe de gas en el beat 4,5.
 7. **v6 – Escenas claras.** Aparecía un halo blanco central en el lineup, el merch y el logo porque el suelo claro superaba 1,0 y activaba el bloom. Subí el umbral a 1,6 en esas escenas. El estampado se cortaba por la curvatura del bisel de la camiseta, así que reduje el plano de impresión.
 8. **Rendimiento.** Perfilado a 4K: unos 11–13 s/frame de render en SwiftShader y menos de 0,5 s de PNG. Lo resolví con `render-parallel.mjs`: 3 Chromium con trozos contiguos, cada uno con su segmento casi sin pérdida (CRF 8), y una concatenación final con audio (CRF 17, `-tune film` para conservar el grano).
+9. **Revisión del máster 4K.** Extraje 12 fotogramas del MP4 final. Dos problemas:
+   - El estampado "A FONDO" seguía recortado. Causa real: la tapa extruida de la camiseta no tiene vértices interiores, así que no se curva como el plano del estampado, que se metía por detrás. Lo dibujé sin test de profundidad (al girar de espaldas se descarta igual por ser FrontSide), re-renderizé **solo los frames 450–510** y los empalmé en el máster.
+   - El máster pesaba 350 MB (el grano dispara el bitrate) y GitHub no admite archivos de más de 100 MB. Lo codifiqué en dos pasadas a ~32 Mbps, por encima de lo que YouTube recomienda para 4K30, y quedó en 81 MB. Verifiqué la decodificación completa: 600 frames y 20,000 s de vídeo y audio.
 
 ---
 
 ## 4. Tiempo total
 
-__TIEMPO__
+**≈ 2 h 35 min de reloj** (20:20 → 22:55 UTC, en una sola sesión):
+
+| Fase | Tiempo |
+|---|---|
+| Análisis de referencias, stack y storyboard | ~10 min |
+| Código: timeline, coche, 5 escenas, overlay, post, render offline | ~20 min |
+| Iteraciones visuales v1–v6 (hojas de contacto, A/B de contornos) y audio (espectrograma, stems) | ~25 min |
+| Render 4K final (600 frames, 3 Chromium en paralelo, ~25 s/frame por worker) | ~90 min, en paralelo con DECISIONES.md y README |
+| Revisión del máster, re-render parcial, empalme y codificación de entrega | ~25 min |
+
+Más de la mitad del tiempo fue cómputo de render por CPU (SwiftShader, sin GPU). Con una GPU real, el mismo código renderiza en pocos minutos.
