@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>GACMARK — Showreel</title>
+<style>
+  @font-face { font-family: 'Bodoni'; font-weight: 800; src: url(fonts/bodoni-moda-latin-800-normal.woff2) format('woff2'); }
+  @font-face { font-family: 'Bodoni'; font-weight: 900; src: url(fonts/bodoni-moda-latin-900-normal.woff2) format('woff2'); }
+  @font-face { font-family: 'Bodoni'; font-weight: 500; font-style: italic; src: url(fonts/bodoni-moda-latin-500-italic.woff2) format('woff2'); }
+  html, body { margin: 0; background: #000; color: #ddd; font: 13px Inter, sans-serif; }
+  canvas { display: block; }
+  body.preview canvas { width: min(100vw, calc((100vh - 60px) * var(--ar))); height: auto; margin: 0 auto; }
+  #ui { display: none; gap: 10px; align-items: center; padding: 10px 16px; }
+  body.preview #ui { display: flex; }
+  #ui input[type=range] { flex: 1; }
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div id="ui">
+  <button id="play">▶︎</button>
+  <input id="scrub" type="range" min="0" max="50" step="0.001" value="0">
+  <span id="tc">0.000 s</span>
+  <audio id="music" src="../out/music.wav" preload="auto"></audio>
+</div>
+<script src="showreel.js"></script>
+</body>
+</html>
