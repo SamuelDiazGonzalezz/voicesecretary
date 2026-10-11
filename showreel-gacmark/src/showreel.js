@@ -1077,7 +1077,7 @@ function sMontage(g, t) {
   bgDark(g, W / 2, H / 2, 1);
   dust(g, t, 0.12 + 0.3 * seg(tau, 3.5, 4.3), 1);
   // palabra gigante en contorno por negra
-  const k = Math.min(6, Math.floor(tau / BEAT));
+  const k = clamp(Math.floor(tau / BEAT), 0, 6);
   if (tau < 4.375) {
     const ws = fitSize(g, [MONT_WORDS[k]], 340 * U, W * 0.94, 900);
     kin(g, { text: MONT_WORDS[k], x: W / 2, y: H / 2 + ws * 0.36, size: ws, weight: 900, t: tau, in: k * BEAT, st: 0.012, dur: 0.25, align: 'center', mode: 'scale', from: 1.25, stroke: true, color: 'rgba(242,238,231,0.28)', lw: 2 * U });
@@ -1094,7 +1094,7 @@ function sMontage(g, t) {
   }
   cards.sort((A, B) => proj(cam, [B.P.x, B.P.y, B.P.z])[3] - proj(cam, [A.P.x, A.P.y, A.P.z])[3]);
   const drawCenter = () => {
-    const f = tau / BEAT, kk = Math.floor(f), fr = f - kk;
+    const f = Math.max(0, tau) / BEAT, kk = Math.floor(f), fr = f - kk;
     const A = SH[SERVICES[kk % 6].icon], B = SH[SERVICES[(kk + 1) % 6].icon];
     const s = 92 * U * (1 - col) * (1 + 0.25 * Math.exp(-fr * 6));
     g.save();
