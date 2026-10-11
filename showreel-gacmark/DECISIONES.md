@@ -98,10 +98,12 @@ La progresión es Dm–B♭–F–C a medio tiempo (ritmo lento, como pedía el 
    - La cámara de la web centraba el grupo en pantalla en vez de orbitarlo en su sitio. Añadí un pivote de proyección.
    - Los contadores salían emborronados por el desenfoque de movimiento. Ahora se cuantizan al cuadro.
 4. **Tercera tanda**: verificación en vertical 9:16. El layout responsive funcionó sin cambios específicos.
-5. **Render final** de los dos formatos, con 4 procesos en paralelo, a unos 0,9 s por cuadro y proceso.
+5. **Primer render completo**: se cayó en el cuadro ~2380 (39,7 s). Durante la transición al montaje, `tau` es negativo y el índice de palabra valía −1. Lo arreglé acotando el índice y añadí `render/check.mjs`, que evalúa `seek(t)` en los 3.000 cuadros a baja resolución en los dos formatos para cazar excepciones antes de lanzar un render largo. Resultado: 0 errores.
+6. **Render final** de los dos formatos, con 4 procesos en paralelo, a unos 0,9 s por cuadro y proceso. Lo verifiqué con ffprobe (H.264 a 60/1 fps, AAC, 50,000 s) y revisando fotogramas del MP4.
 
 ## 4. Tiempo total
-- **Diseño, código y música**: unos 25 minutos.
-- **Iteraciones sobre fotogramas de prueba**: unos 10 minutos.
-- **Render de los dos vídeos** (2 × 3.000 cuadros con 5 subcuadros cada uno): ver el registro en `out/render_*.log`, unos 20 minutos por formato.
-- **Total aproximado**: alrededor de 1 h 15 min de reloj, desde el encargo hasta los dos MP4.
+Medido con las marcas de tiempo de la sesión:
+- **Diseño, código y música**: unos 20 min (13:15 → 13:30).
+- **Iteraciones sobre fotogramas de prueba y DECISIONES.md**: unos 10 min (13:30 → 13:40).
+- **Render**: el primer intento falló a los 6 min. Después, 1920×1080 tardó unos 37 min (13:43 → 14:20) y 1080×1920 unos 34 min (14:20 → 14:54).
+- **Total**: **1 h 40 min** de reloj. Unos 35 min fueron de trabajo activo y el resto, máquina renderizando.
