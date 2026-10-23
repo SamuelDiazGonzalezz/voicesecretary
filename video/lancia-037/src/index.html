@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Lancia Rally 037</title>
+<style>
+  html, body { margin: 0; background: #0B0C0F; }
+  canvas { display: block; width: 100vw; height: auto; max-width: calc(100vh * 9 / 16); margin: 0 auto; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1080" height="1920"></canvas>
+<script type="module">
+  import { init, seek } from './scenes.js';
+  import { DURATION } from './timeline.js';
+
+  const fonts = [
+    ['Barlow Condensed', 'BarlowCondensed-SemiBoldItalic.ttf', { style: 'italic', weight: '600' }],
+    ['Barlow Condensed', 'BarlowCondensed-ExtraBoldItalic.ttf', { style: 'italic', weight: '800' }],
+    ['Barlow Condensed', 'BarlowCondensed-BlackItalic.ttf', { style: 'italic', weight: '900' }],
+    ['Barlow', 'Barlow-Medium.ttf', { weight: '500' }],
+    ['Barlow', 'Barlow-SemiBold.ttf', { weight: '600' }],
+    ['Barlow', 'Barlow-Bold.ttf', { weight: '700' }],
+  ];
+  const images = { salon: 'salon.jpg', pista: 'pista.jpg', stand: 'stand-martini.jpg', motor: 'motor-maqueta.jpg' };
+
+  const loadImg = (src) => new Promise((ok, ko) => { const i = new Image(); i.onload = () => ok(i); i.onerror = ko; i.src = src; });
+
+  window.ready = (async () => {
+    await Promise.all(fonts.map(async ([family, file, desc]) => {
+      const f = new FontFace(family, `url(../assets/fonts/${file})`, desc);
+      await f.load();
+      document.fonts.add(f);
+    }));
+    const assets = {};
+    for (const [k, file] of Object.entries(images)) assets[k] = await loadImg(`../build/img/${file}`);
+    init(assets);
+    const canvas = document.getElementById('c');
+    window.seek = (t) => seek(canvas, t);
+    window.canvas = canvas;
+    seek(canvas, 0);
+    // Vista previa en navegador: reproduce en bucle si se abre sin ?still.
+    if (!location.search.includes('still')) {
+      const t0 = performance.now();
+      const loop = () => { seek(canvas, ((performance.now() - t0) / 1000) % DURATION); requestAnimationFrame(loop); };
+      requestAnimationFrame(loop);
+    }
+    return true;
+  })();
+</script>
+</body>
+</html>

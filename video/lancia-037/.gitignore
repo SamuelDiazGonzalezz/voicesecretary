@@ -1,0 +1,5 @@
+node_modules/
+build/
+out/*
+!out/lancia-037.mp4
+!out/hoja-de-contactos.jpg
