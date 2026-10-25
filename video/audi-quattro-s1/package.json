@@ -1,0 +1,17 @@
+{
+  "name": "audi-quattro-s1-spot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "images": "bash scripts/prepare-images.sh",
+    "music": "node audio/music.mjs",
+    "stills": "node scripts/render.mjs --stills",
+    "render": "node scripts/render.mjs",
+    "mix": "node scripts/mix.mjs",
+    "contact": "node scripts/contact-sheet.mjs",
+    "all": "npm run images && npm run music && npm run render && npm run mix && npm run contact"
+  },
+  "devDependencies": {
+    "playwright-core": "1.63.0"
+  }
+}

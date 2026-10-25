@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Audi Sport Quattro S1</title>
+<style>
+  html, body { margin: 0; background: #0D0D0F; }
+  canvas { display: block; width: 100vw; height: auto; max-height: 100vh; object-fit: contain; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1920" height="1080"></canvas>
+<script type="module">
+  import { init, seek } from './scenes.js';
+  import { DURATION } from './timeline.js';
+
+  const fonts = [
+    ['Archivo Expanded', 'ArchivoExpanded-ExtraBoldItalic.ttf', { style: 'italic', weight: '800' }],
+    ['Archivo Expanded', 'ArchivoExpanded-BlackItalic.ttf', { style: 'italic', weight: '900' }],
+    ['Archivo Expanded', 'ArchivoExpanded-ExtraBold.ttf', { weight: '800' }],
+    ['Archivo Expanded', 'ArchivoExpanded-Black.ttf', { weight: '900' }],
+    ['Archivo', 'Archivo-Medium.ttf', { weight: '500' }],
+    ['Archivo', 'Archivo-SemiBold.ttf', { weight: '600' }],
+    ['Archivo', 'Archivo-Bold.ttf', { weight: '700' }],
+  ];
+  // Imágenes del cliente; las opcionales pueden faltar y el montaje usa su alternativa.
+  const images = {
+    hero: 'hero.jpg', vano: 'vano.jpg', cutaway: 'cutaway.jpg', calle: 'quattro-calle.jpg', motor5c: 'motor-5c.jpg',
+    rally: 'rally-tierra.jpg', nocturna: 'nocturna.jpg', rohrl: 'rohrl.jpg', curva: 'curva.jpg', tramo: 'tramo.jpg',
+  };
+  const loadImg = (src) => new Promise((ok) => { const i = new Image(); i.onload = () => ok(i); i.onerror = () => ok(null); i.src = src; });
+
+  window.ready = (async () => {
+    await Promise.all(fonts.map(async ([family, file, desc]) => {
+      const f = new FontFace(family, `url(../assets/fonts/${file})`, desc);
+      await f.load();
+      document.fonts.add(f);
+    }));
+    const assets = {};
+    for (const [k, file] of Object.entries(images)) {
+      const im = await loadImg(`../build/img/${file}`);
+      if (im) assets[k] = im;
+    }
+    init(assets);
+    const canvas = document.getElementById('c');
+    window.seek = (t) => seek(canvas, t);
+    window.canvas = canvas;
+    seek(canvas, 0);
+    if (!location.search.includes('still')) {
+      const t0 = performance.now();
+      const loop = () => { seek(canvas, ((performance.now() - t0) / 1000) % DURATION); requestAnimationFrame(loop); };
+      requestAnimationFrame(loop);
+    }
+    return Object.keys(assets);
+  })();
+</script>
+</body>
+</html>
