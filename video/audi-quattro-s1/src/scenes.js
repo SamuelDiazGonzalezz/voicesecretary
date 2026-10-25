@@ -668,7 +668,7 @@ function drawMountain(t, t0, appear) {
 // 0 – 2,75 · En la era más salvaje de los rallys,
 function s01(t) {
   bg();
-  photo('curva', 0, 0, W, H, { zoom: lerp(1.18, 1.08, ease.out(prog(t, 0, 3))), fx: 0.5, fy: 0.45 }, { dark: 0.45, vig: 0.6, gray: true });
+  photo('curva', 0, 0, W, H, { zoom: lerp(1.25, 1.12, ease.out(prog(t, 0, 3))), fx: 0.4, fy: 0.3 }, { dark: 0.45, vig: 0.6, gray: true });
   tag(t, 'EN LA ERA MÁS SALVAJE', M, 740, 0.05);
   lines(t, ['de los rallys'], M, 870, 0, 128, 0.35);
 }
@@ -765,7 +765,7 @@ function s09(t) {
 // 29,75 – 34 · Metieron su sistema de tracción total quattro en un chasis de rally
 function s10(t) {
   bg();
-  photo('curva', 0, 0, W, H, { zoom: lerp(1.06, 1.16, prog(t, 29.5, 34.2)), fx: 0.5, fy: 0.4 }, { dark: 0.4, vig: 0.55, gray: has('curva') });
+  photo('curva', 0, 0, W, H, { zoom: lerp(1.06, 1.18, prog(t, 29.5, 34.2)), fx: 0.6, fy: 0.75 }, { dark: 0.4, vig: 0.55, gray: has('curva') });
   tag(t, 'TRACCIÓN TOTAL', M, 760, 29.9);
   lines(t, ['quattro'], M, 900, 0, 150, 30.6, { color: COLOR.yellow });
   label(ctx, 'en un chasis de rally', M, 970, COLOR.paper, prog(t, 32.4, 32.9), { size: 40, spacing: 0, weight: 600 });
@@ -782,9 +782,9 @@ function s11(t) {
 // 38,25 – 41,75 · el agarre sobre tierra y nieve es invencible.
 function s12(t) {
   bg();
-  photo('tramo', 0, 0, W, H, { zoom: lerp(1.2, 1.1, ease.out(prog(t, 38, 42))), fx: 0.45, fy: 0.7, dx: lerp(40, -40, prog(t, 38, 42)) }, { dark: 0.3, vig: 0.55 });
-  tag(t, 'SOBRE TIERRA Y NIEVE', M, 760, 38.4);
-  lines(t, ['Agarre invencible'], M, 880, 0, 120, 39.6);
+  photo('tramo', 900, 0, W - 900, H, { zoom: lerp(1.18, 1.06, ease.out(prog(t, 38, 42))), fx: 0.4, fy: 0.85 }, { vig: 0.3 });
+  tag(t, 'SOBRE TIERRA Y NIEVE', M, 430, 38.4);
+  lines(t, ['Agarre', 'invencible'], M, 570, 128, 130, 39.6, { maxW: 680 });
 }
 
 // 41,75 – 45,5 · De repente, la potencia pura ya no era el límite.
@@ -919,7 +919,7 @@ function s18(t) {
 function s19(t) {
   bg();
   if (has('nocturna')) {
-    photo('nocturna', 0, 0, W, H, { zoom: lerp(1.15, 1.25, prog(t, 67.5, 71)), fx: 0.25, fy: 0.4 }, { dark: 0.2, vig: 0.5 });
+    photo('nocturna', 0, 0, W, H, { zoom: lerp(1.12, 1.22, prog(t, 67.5, 71)), fx: 0.2, fy: 0.45 }, { dark: 0.42, vig: 0.6 });
   } else {
     photo('hero', 0, 0, W, H, { zoom: lerp(2.0, 2.2, prog(t, 67.5, 71)), fx: 0.12, fy: 0.36 }, { dark: 0.25, vig: 0.5 });
   }
@@ -988,10 +988,12 @@ function s23(t) {
 function s25(t) {
   bg();
   if (has('rohrl')) {
-    photo('rohrl', 0, 0, W, H, { zoom: lerp(1.05, 1.15, prog(t, 87.5, 91.7)), fx: 0.35, fy: 0.4 }, { dark: 0.35, vig: 0.55 });
-  } else {
-    photo('hero', 0, 0, W, H, { zoom: lerp(2.6, 2.8, prog(t, 87.5, 91.7)), fx: 0.47, fy: 0.42 }, { dark: 0.45, vig: 0.6 });
+    photo('rohrl', 900, 0, W - 900, H, { zoom: lerp(1.06, 1.14, prog(t, 87.5, 91.7)), fx: 0.12, fy: 0.4 }, { vig: 0.35 });
+    tag(t, 'CONDUCIR ESTO REQUERÍA', M, 430, 88.0);
+    lines(t, ['Habilidad', 'sobrehumana'], M, 570, 118, 110, 88.9, { maxW: 680 });
+    return;
   }
+  photo('hero', 0, 0, W, H, { zoom: lerp(2.6, 2.8, prog(t, 87.5, 91.7)), fx: 0.47, fy: 0.42 }, { dark: 0.45, vig: 0.6 });
   tag(t, 'CONDUCIR ESTO REQUERÍA', M, 760, 88.0);
   lines(t, ['habilidad', 'sobrehumana'], M, 870, 106, 100, 88.9);
 }
@@ -1025,7 +1027,7 @@ function s26(t) {
 const DRIVERS = [['Walter Röhrl', 97.0], ['Michèle Mouton', 98.3], ['Stig Blomqvist', 99.55]];
 function s27(t) {
   bg();
-  photo('rohrl', 960, 0, 960, H, { zoom: lerp(has('rohrl') ? 1.12 : 2.2, has('rohrl') ? 1.04 : 2.05, ease.out(prog(t, 95.3, 101.2))), fx: has('rohrl') ? 0.3 : 0.47, fy: 0.42 }, { dark: 0.2, vig: 0.4 });
+  photo('rohrl', 960, 0, 960, H, { zoom: lerp(has('rohrl') ? 1.7 : 2.2, has('rohrl') ? 1.55 : 2.05, ease.out(prog(t, 95.3, 101.2))), fx: has('rohrl') ? 0.18 : 0.47, fy: has('rohrl') ? 0.22 : 0.42 }, { dark: 0.2, vig: 0.4 });
   tag(t, 'PILOTOS LEGENDARIOS', M, 330, 95.7);
   DRIVERS.forEach(([name, t0], i) => {
     const y = 480 + i * 190;
@@ -1034,7 +1036,7 @@ function s27(t) {
       ctx.fillStyle = 'rgba(243,241,236,0.2)';
       ctx.fillRect(M, y - 120, 700 * line, 2);
     }
-    revealText(ctx, name, M, y, FONT.display(900, fitSize(ctx, 'Stig Blomqvist', (px) => FONT.display(900, px), 720, 84)), i === 0 ? COLOR.yellow : COLOR.paper, prog(t, t0, t0 + 0.7), { stagger: 0.02 });
+    revealText(ctx, name, M, y, FONT.display(900, Math.min(...DRIVERS.map(([n]) => fitSize(ctx, n, (px) => FONT.display(900, px), 700, 84)))), i === 0 ? COLOR.yellow : COLOR.paper, prog(t, t0, t0 + 0.7), { stagger: 0.02 });
   });
 }
 
@@ -1155,7 +1157,13 @@ function s35(t) {
 // 133,5 – 136,75 · El Audi Quattro S1 no solo ganó carreras;
 function s36(t) {
   bg();
-  photo('tramo', 0, 0, W, H, { zoom: lerp(1.25, 1.1, ease.outExpo(prog(t, 133.4, 137))), fx: 0.45, fy: 0.75 }, { dark: 0.3, vig: 0.55 });
+  if (has('tramo')) {
+    photo('tramo', 0, 0, W, H, { zoom: lerp(1.2, 1.06, ease.outExpo(prog(t, 133.4, 137))), fx: 0.5, fy: 0.97 }, { dark: 0.32, vig: 0.45 });
+    tag(t, 'EL AUDI QUATTRO S1', M, 200, 133.8);
+    lines(t, ['no solo ganó carreras'], M, 320, 0, 112, 134.4);
+    return;
+  }
+  photo('hero', 0, 0, W, H, { zoom: lerp(1.25, 1.1, ease.outExpo(prog(t, 133.4, 137))), fx: 0.45, fy: 0.75 }, { dark: 0.3, vig: 0.55 });
   tag(t, 'EL AUDI QUATTRO S1', M, 760, 133.8);
   lines(t, ['no solo ganó carreras'], M, 880, 0, 112, 134.4);
 }

@@ -117,27 +117,39 @@ Es el mismo motor DSP que escribí para el spot del Lancia: osciladores polyBLEP
 4. **Música.** Comprobé la curva de sonoridad por secciones (de −24 dB en la ruptura y el réquiem a −12 dB en los drops) y el pico tras el limitador.
 5. **v1, render completo, mezcla y hoja de contactos.** En la hoja vi que «Pilotos legendarios» usaba de alternativa la foto del vano motor junto a los nombres. La cambié por un recorte del habitáculo del S1, re-rendericé solo ese tramo (95–101,5 s), lo empalmé y recomprimí el máster a CRF 20 (53 MB) para que quepa en el repositorio.
 
+6. **v2, con las 5 fotos de competición del cliente.** Las coloqué en los planos que tenían reservados y reencuadré cada uno según la foto:
+   - **Tramo con polvo (vertical):** en «Agarre invencible» pasa a un plano partido, con la foto a la derecha y el titular sobre tinta. En el clímax va a sangre, encuadrada en el coche y el espectador, con velo para leer el texto.
+   - **Röhrl en el habitáculo:** su traje blanco caía justo donde iba el titular, así que «Habilidad sobrehumana» también pasa a plano partido. En «Pilotos legendarios» uso un primer plano de su cara para no repetir el encuadre.
+   - **Curva con público en blanco y negro:** tres encuadres distintos (la grada en la apertura, el coche en «quattro» y el plano completo en el réquiem del Grupo B).
+   - **Nocturna:** más velo para leer el titular sobre la carrocería.
+   - **Nombres de los pilotos:** «Michèle Mouton» se metía bajo la foto; ahora el cuerpo se calcula con el nombre más largo.
+
+   Revisé fotogramas sueltos de cada plano nuevo y volví a renderizar, mezclar y revisar la hoja de contactos.
+
 ## Tiempo total
 
-Unos 55 minutos desde el encargo hasta el máster v1:
+Unos 80 minutos en total:
 - 5 min de análisis del audio y del guion;
 - 20 min del motor gráfico y los 39 planos;
 - 10 min de la música y el diseño sonoro;
-- 20 min de render (9000 fotogramas) y mezcla.
+- 20 min del render y la mezcla de la v1;
+- 25 min de la v2 con las fotos nuevas, de los que 20 son de render.
 
-## Pendiente: las 5 fotos de competición
+Cada render completo son 9000 fotogramas, unos 18 minutos en este contenedor (4 núcleos).
 
-El cliente envió 5 fotos más mientras trabajaba (en tierra con polvo, en el RAC nocturno, Röhrl en el habitáculo, una curva con público en blanco y negro y un tramo con polvo y público), pero llegaron sin guardarse en disco. El montaje ya les tiene reservado su sitio:
+## Fotos por plano
 
-| Archivo esperado en `assets/img/` | Planos |
+| Foto del cliente | Planos |
 |---|---|
-| `rally-tierra.jpg` | «las leyes de la física», «Era una bala» |
-| `tramo-polvo.jpg` | «agarre invencible», «no solo ganó carreras» |
-| `curva-publico.jpg` | «la era más salvaje», «tracción total quattro», «Grupo B cancelado» |
-| `nocturna.jpg` | «kit aerodinámico salvaje» |
-| `rohrl-cockpit.jpg` | «habilidad sobrehumana», «pilotos legendarios» |
-
-Mientras no estén, cada plano usa una foto alternativa del cliente con otro encuadre. En cuanto lleguen, basta con `npm run images` y volver a renderizar.
+| S1 E2 «ROC» con cielo de tormenta | «monstruo definitivo», título, «S1 E2», «desproporcionada… pero letal», «Audi tuvo que mutar», cierre |
+| En tierra con polvo | «las leyes de la física», «Era una bala» |
+| Tramo con polvo y público | «Agarre invencible», «no solo ganó carreras» |
+| Curva con público (B/N) | «la era más salvaje», «quattro», «Grupo B cancelado» |
+| Nocturna | «kit aerodinámico salvaje» |
+| Röhrl en el habitáculo | «Habilidad sobrehumana», «Pilotos legendarios» |
+| Quattro de calle verde | «A principios de los 80», «Audi tuvo que mutar» |
+| Vano motor | «Bajo el capó de kevlar» |
+| Despiece | «aplastar el coche contra el suelo» |
 
 ## Notas sobre el contenido
 
