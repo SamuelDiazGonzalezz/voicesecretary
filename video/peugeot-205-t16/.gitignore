@@ -1,0 +1,7 @@
+node_modules/
+build/
+out/*
+!out/peugeot-205-t16.mp4
+!out/hoja-de-contactos.jpg
+!out/vo-map.json
+vo/take16.wav

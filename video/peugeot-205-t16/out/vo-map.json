@@ -1,0 +1,744 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 2.46,
+  "syl": 15,
+  "text": "Audi tenía la tracción total y la fuerza bruta."
+ },
+ {
+  "i": 1,
+  "start": 2.46,
+  "end": 6.57,
+  "syl": 22,
+  "text": "Lancia tenía el equilibrio y la agilidad de la tracción trasera."
+ },
+ {
+  "i": 2,
+  "start": 6.57,
+  "end": 9.98,
+  "syl": 17,
+  "text": "Parecía que la guerra del Grupo B era cosa de dos."
+ },
+ {
+  "i": 3,
+  "start": 10.44,
+  "end": 12.42,
+  "syl": 12,
+  "text": "Pero en Francia estaban observando,"
+ },
+ {
+  "i": 4,
+  "start": 12.67,
+  "end": 16.43,
+  "syl": 23,
+  "text": "tomando notas y preparando a un asesino con piel de utilitario."
+ },
+ {
+  "i": 5,
+  "start": 16.78,
+  "end": 19.46,
+  "syl": 15,
+  "text": "Un coche que no solo entraría en la batalla,"
+ },
+ {
+  "i": 6,
+  "start": 19.46,
+  "end": 26.67,
+  "syl": 46,
+  "text": "sino que aplastaría a los gigantes y se convertiría en la máquina definitiva y más exitosa de la era más peligrosa de los rallys."
+ },
+ {
+  "i": 7,
+  "start": 27.14,
+  "end": 31.71,
+  "syl": 23,
+  "text": "Hoy desentrañamos el mito del Peugeot 205 Turbo 16."
+ },
+ {
+  "i": 8,
+  "start": 32.4,
+  "end": 33.75,
+  "syl": 9,
+  "text": "A principios de los 80,"
+ },
+ {
+  "i": 9,
+  "start": 33.98,
+  "end": 35.99,
+  "syl": 14,
+  "text": "Peugeot estaba en problemas financieros."
+ },
+ {
+  "i": 10,
+  "start": 36.4,
+  "end": 40.39,
+  "syl": 30,
+  "text": "Necesitaban un golpe de efecto publicitario para vender su nuevo modelo de calle,"
+ },
+ {
+  "i": 11,
+  "start": 40.63,
+  "end": 41.77,
+  "syl": 6,
+  "text": "el 205."
+ },
+ {
+  "i": 12,
+  "start": 42.21,
+  "end": 42.92,
+  "syl": 4,
+  "text": "Para ello,"
+ },
+ {
+  "i": 13,
+  "start": 42.92,
+  "end": 47.38,
+  "syl": 25,
+  "text": "fundaron Peugeot Talbot Sport y pusieron al mando a un estratega brillante,"
+ },
+ {
+  "i": 14,
+  "start": 47.75,
+  "end": 51.73,
+  "syl": 24,
+  "text": "un hombre que años después haría invencible a Michael Schumacher en Ferrari:"
+ },
+ {
+  "i": 15,
+  "start": 52.21,
+  "end": 53.01,
+  "syl": 3,
+  "text": "Jean Todt."
+ },
+ {
+  "i": 16,
+  "start": 53.63,
+  "end": 56.37,
+  "syl": 14,
+  "text": "Todt recibió un cheque en blanco y una misión:"
+ },
+ {
+  "i": 17,
+  "start": 56.8,
+  "end": 57.39,
+  "syl": 2,
+  "text": "ganar."
+ },
+ {
+  "i": 18,
+  "start": 57.86,
+  "end": 59.11,
+  "syl": 9,
+  "text": "En lugar de precipitarse,"
+ },
+ {
+  "i": 19,
+  "start": 59.25,
+  "end": 61.07,
+  "syl": 9,
+  "text": "analizó a sus rivales."
+ },
+ {
+  "i": 20,
+  "start": 61.07,
+  "end": 62.77,
+  "syl": 12,
+  "text": "El Audi Quattro era rapidísimo,"
+ },
+ {
+  "i": 21,
+  "start": 63.05,
+  "end": 68.32,
+  "syl": 35,
+  "text": "pero su motor colgado por delante del eje delantero lo hacía subvirador y torpe en curvas cerradas."
+ },
+ {
+  "i": 22,
+  "start": 68.73,
+  "end": 72.01,
+  "syl": 20,
+  "text": "El Lancia 037 era ágil y de motor central,"
+ },
+ {
+  "i": 23,
+  "start": 72.24,
+  "end": 75.24,
+  "syl": 17,
+  "text": "pero con dos ruedas motrices sufría en nieve y barro."
+ },
+ {
+  "i": 24,
+  "start": 75.65,
+  "end": 78.96,
+  "syl": 15,
+  "text": "La solución de Todt era simple y diabólica:"
+ },
+ {
+  "i": 25,
+  "start": 78.96,
+  "end": 80.68,
+  "syl": 9,
+  "text": "unir lo mejor de ambos mundos."
+ },
+ {
+  "i": 26,
+  "start": 81.11,
+  "end": 82.11,
+  "syl": 6,
+  "text": "Querían tracción total,"
+ },
+ {
+  "i": 27,
+  "start": 82.11,
+  "end": 82.49,
+  "syl": 1,
+  "text": "sí,"
+ },
+ {
+  "i": 28,
+  "start": 82.49,
+  "end": 86.95,
+  "syl": 26,
+  "text": "pero con el motor en posición central para lograr el reparto de pesos perfecto."
+ },
+ {
+  "i": 29,
+  "start": 87.39,
+  "end": 90.66,
+  "syl": 15,
+  "text": "Nació así el 205 Turbo 16."
+ },
+ {
+  "i": 30,
+  "start": 91.12,
+  "end": 93.66,
+  "syl": 15,
+  "text": "Del coche de calle solo conservaba los faros,"
+ },
+ {
+  "i": 31,
+  "start": 93.83,
+  "end": 94.49,
+  "syl": 4,
+  "text": "la parrilla,"
+ },
+ {
+  "i": 32,
+  "start": 94.69,
+  "end": 96.37,
+  "syl": 9,
+  "text": "el parabrisas y las puertas."
+ },
+ {
+  "i": 33,
+  "start": 96.77,
+  "end": 98.48,
+  "syl": 8,
+  "text": "El resto era un monstruo."
+ },
+ {
+  "i": 34,
+  "start": 98.48,
+  "end": 103.9,
+  "syl": 32,
+  "text": "Construyeron un chasis tubular de acero y lo vistieron con paneles de kevlar y fibra de vidrio."
+ },
+ {
+  "i": 35,
+  "start": 104.25,
+  "end": 107.22,
+  "syl": 19,
+  "text": "Pero la verdadera magia estaba detrás de los asientos."
+ },
+ {
+  "i": 36,
+  "start": 107.66,
+  "end": 111.35,
+  "syl": 24,
+  "text": "Peugeot tomó un bloque motor de cuatro cilindros y 1.8 litros,"
+ },
+ {
+  "i": 37,
+  "start": 111.69,
+  "end": 116.36,
+  "syl": 25,
+  "text": "le acopló un enorme turbocompresor KKK y lo montó transversalmente."
+ },
+ {
+  "i": 38,
+  "start": 116.83,
+  "end": 117.74,
+  "syl": 5,
+  "text": "¿Por qué transversal?"
+ },
+ {
+  "i": 39,
+  "start": 118.2,
+  "end": 122.78,
+  "syl": 28,
+  "text": "Para dejar espacio a la caja de cambios y al sistema de tracción a las cuatro ruedas,"
+ },
+ {
+  "i": 40,
+  "start": 122.78,
+  "end": 126.28,
+  "syl": 21,
+  "text": "permitiendo que el coche fuera increíblemente corto y ratonero."
+ },
+ {
+  "i": 41,
+  "start": 126.7,
+  "end": 127.22,
+  "syl": 3,
+  "text": "Además,"
+ },
+ {
+  "i": 42,
+  "start": 127.38,
+  "end": 129.84,
+  "syl": 17,
+  "text": "todo el chasis trasero se abría como una almeja."
+ },
+ {
+  "i": 43,
+  "start": 130.29,
+  "end": 132.55,
+  "syl": 15,
+  "text": "Los mecánicos podían cambiar una caja de cambios,"
+ },
+ {
+  "i": 44,
+  "start": 132.55,
+  "end": 136.74,
+  "syl": 24,
+  "text": "embrague o correas en apenas 20 minutos durante una asistencia."
+ },
+ {
+  "i": 45,
+  "start": 137.13,
+  "end": 138.91,
+  "syl": 13,
+  "text": "Era un coche diseñado para ganar,"
+ },
+ {
+  "i": 46,
+  "start": 139.26,
+  "end": 140.0,
+  "syl": 6,
+  "text": "pero sobre todo,"
+ },
+ {
+  "i": 47,
+  "start": 140.16,
+  "end": 142.49,
+  "syl": 15,
+  "text": "diseñado para no perder tiempo en el taller."
+ },
+ {
+  "i": 48,
+  "start": 142.95,
+  "end": 143.95,
+  "syl": 6,
+  "text": "La primera versión,"
+ },
+ {
+  "i": 49,
+  "start": 144.12,
+  "end": 144.87,
+  "syl": 4,
+  "text": "la Evo 1,"
+ },
+ {
+  "i": 50,
+  "start": 145.1,
+  "end": 148.39,
+  "syl": 17,
+  "text": "entregaba unos \"modestos\" 350 caballos."
+ },
+ {
+  "i": 51,
+  "start": 148.39,
+  "end": 153.68,
+  "syl": 26,
+  "text": "El coche debutó en 1984 y el impacto fue inmediato."
+ },
+ {
+  "i": 52,
+  "start": 153.95,
+  "end": 158.27,
+  "syl": 24,
+  "text": "Ari Vatanen empezó a ganar tramos como si los demás fueran parados."
+ },
+ {
+  "i": 53,
+  "start": 158.27,
+  "end": 160.5,
+  "syl": 15,
+  "text": "Pero en el Grupo B no podías quedarte quieto."
+ },
+ {
+  "i": 54,
+  "start": 160.94,
+  "end": 162.53,
+  "syl": 8,
+  "text": "Audi sacó el Sport Quattro,"
+ },
+ {
+  "i": 55,
+  "start": 162.86,
+  "end": 164.92,
+  "syl": 13,
+  "text": "Lancia preparaba el Delta S4."
+ },
+ {
+  "i": 56,
+  "start": 165.41,
+  "end": 170.85,
+  "syl": 32,
+  "text": "Peugeot respondió en 1985 con el 205 T16 Evo 2."
+ },
+ {
+  "i": 57,
+  "start": 171.17,
+  "end": 173.07,
+  "syl": 10,
+  "text": "Visualmente era aterrador."
+ },
+ {
+  "i": 58,
+  "start": 173.43,
+  "end": 179.9,
+  "syl": 43,
+  "text": "Le instalaron un alerón trasero gigantesco y deflectores aerodinámicos en el morro para mantenerlo pegado al suelo,"
+ },
+ {
+  "i": 59,
+  "start": 180.25,
+  "end": 183.48,
+  "syl": 19,
+  "text": "porque el motor había recibido una inyección de esteroides."
+ },
+ {
+  "i": 60,
+  "start": 183.83,
+  "end": 189.49,
+  "syl": 34,
+  "text": "Ahora rozaba los 500 caballos de potencia con más de 2.5 bares de presión en el turbo."
+ },
+ {
+  "i": 61,
+  "start": 189.9,
+  "end": 199.13,
+  "syl": 51,
+  "text": "El \"lag\" o retraso del turbo era tan bestial que los pilotos tenían que acelerar a fondo un segundo antes de la curva para tener potencia a la salida."
+ },
+ {
+  "i": 62,
+  "start": 199.51,
+  "end": 205.17,
+  "syl": 35,
+  "text": "Era un misil balístico de menos de 910 kilos que requería reflejos de piloto de combate."
+ },
+ {
+  "i": 63,
+  "start": 205.68,
+  "end": 209.05,
+  "syl": 21,
+  "text": "Una máquina tan extrema necesitaba pilotos de otra pasta."
+ },
+ {
+  "i": 64,
+  "start": 209.53,
+  "end": 211.6,
+  "syl": 13,
+  "text": "Ari Vatanen era el talento puro,"
+ },
+ {
+  "i": 65,
+  "start": 211.89,
+  "end": 213.77,
+  "syl": 11,
+  "text": "volando de rasante en rasante."
+ },
+ {
+  "i": 66,
+  "start": 214.21,
+  "end": 222.37,
+  "syl": 47,
+  "text": "Parecía imbatible hasta que sufrió uno de los peores accidentes de la historia del Grupo B en Argentina en 1985,"
+ },
+ {
+  "i": 67,
+  "start": 222.37,
+  "end": 225.78,
+  "syl": 20,
+  "text": "dando incontables vueltas de campana a casi 200 por hora."
+ },
+ {
+  "i": 68,
+  "start": 226.13,
+  "end": 227.97,
+  "syl": 8,
+  "text": "Sobrevivió de milagro."
+ },
+ {
+  "i": 69,
+  "start": 227.97,
+  "end": 228.91,
+  "syl": 6,
+  "text": "Con Vatanen fuera,"
+ },
+ {
+  "i": 70,
+  "start": 229.09,
+  "end": 230.96,
+  "syl": 11,
+  "text": "el peso cayó en Timo Salonen."
+ },
+ {
+  "i": 71,
+  "start": 231.34,
+  "end": 233.99,
+  "syl": 17,
+  "text": "Salonen era el antítesis del atleta moderno:"
+ },
+ {
+  "i": 72,
+  "start": 234.34,
+  "end": 235.12,
+  "syl": 4,
+  "text": "regordete,"
+ },
+ {
+  "i": 73,
+  "start": 235.25,
+  "end": 237.67,
+  "syl": 14,
+  "text": "con gafas gruesas y fumador empedernido."
+ },
+ {
+  "i": 74,
+  "start": 238.06,
+  "end": 244.12,
+  "syl": 38,
+  "text": "Conducía con una sola mano en el volante de forma relajada mientras dominaba a una bestia de 500 caballos."
+ },
+ {
+  "i": 75,
+  "start": 244.53,
+  "end": 246.66,
+  "syl": 14,
+  "text": "Timo ganó el mundial del 85."
+ },
+ {
+  "i": 76,
+  "start": 247.11,
+  "end": 247.99,
+  "syl": 6,
+  "text": "Al año siguiente,"
+ },
+ {
+  "i": 77,
+  "start": 248.15,
+  "end": 250.7,
+  "syl": 14,
+  "text": "un joven Juha Kankkunen tomó el relevo,"
+ },
+ {
+  "i": 78,
+  "start": 250.98,
+  "end": 257.0,
+  "syl": 36,
+  "text": "volviendo a hacer campeón al Peugeot en 1986 tras una tensa batalla legal con Lancia."
+ },
+ {
+  "i": 79,
+  "start": 257.41,
+  "end": 263.06,
+  "syl": 36,
+  "text": "Peugeot dominó la era dorada llevándose dos mundiales de pilotos y dos de constructores consecutivos."
+ },
+ {
+  "i": 80,
+  "start": 263.43,
+  "end": 265.29,
+  "syl": 13,
+  "text": "Pero en 1986,"
+ },
+ {
+  "i": 81,
+  "start": 265.41,
+  "end": 268.18,
+  "syl": 16,
+  "text": "tras tragedias irreparables en Portugal y Córcega,"
+ },
+ {
+  "i": 82,
+  "start": 268.47,
+  "end": 270.47,
+  "syl": 9,
+  "text": "la FIA prohibió el Grupo B."
+ },
+ {
+  "i": 83,
+  "start": 270.91,
+  "end": 274.96,
+  "syl": 27,
+  "text": "Todos los fabricantes se quedaron con prototipos millonarios que ya no podían correr."
+ },
+ {
+  "i": 84,
+  "start": 274.96,
+  "end": 276.54,
+  "syl": 6,
+  "text": "¿Qué hizo Peugeot?"
+ },
+ {
+  "i": 85,
+  "start": 276.95,
+  "end": 280.49,
+  "syl": 19,
+  "text": "Jean Todt alargó el chasis del 205 T16,"
+ },
+ {
+  "i": 86,
+  "start": 280.75,
+  "end": 282.58,
+  "syl": 10,
+  "text": "le puso suspensiones más altas,"
+ },
+ {
+  "i": 87,
+  "start": 282.76,
+  "end": 284.75,
+  "syl": 12,
+  "text": "depósitos de gasolina gigantes,"
+ },
+ {
+  "i": 88,
+  "start": 285.09,
+  "end": 286.99,
+  "syl": 12,
+  "text": "y lo mandó a conquistar el desierto."
+ },
+ {
+  "i": 89,
+  "start": 287.41,
+  "end": 295.14,
+  "syl": 48,
+  "text": "El 205 T16 ganó el Rally París-Dakar en 1987 con Vatanen de vuelta al volante tras su recuperación,"
+ },
+ {
+  "i": 90,
+  "start": 295.14,
+  "end": 297.93,
+  "syl": 15,
+  "text": "y repitió victoria en el 88."
+ },
+ {
+  "i": 91,
+  "start": 298.33,
+  "end": 301.01,
+  "syl": 17,
+  "text": "E incluso le sobró tiempo para ir a Estados Unidos,"
+ },
+ {
+  "i": 92,
+  "start": 301.16,
+  "end": 302.4,
+  "syl": 5,
+  "text": "a Pikes Peak,"
+ },
+ {
+  "i": 93,
+  "start": 302.4,
+  "end": 305.48,
+  "syl": 18,
+  "text": "y plantar cara a los Audi en la subida a las nubes."
+ },
+ {
+  "i": 94,
+  "start": 305.48,
+  "end": 307.08,
+  "syl": 10,
+  "text": "El Audi Quattro trajo la idea,"
+ },
+ {
+  "i": 95,
+  "start": 307.39,
+  "end": 311.92,
+  "syl": 28,
+  "text": "el Lancia 037 fue el último destello romántico de la tracción trasera..."
+ },
+ {
+  "i": 96,
+  "start": 312.5,
+  "end": 317.0,
+  "syl": 24,
+  "text": "pero el Peugeot 205 T16 fue la perfección del Grupo B."
+ },
+ {
+  "i": 97,
+  "start": 317.49,
+  "end": 319.32,
+  "syl": 12,
+  "text": "La máquina de guerra definitiva."
+ },
+ {
+  "i": 98,
+  "start": 319.68,
+  "end": 322.4,
+  "syl": 17,
+  "text": "Un utilitario hipervitaminado que demostró que,"
+ },
+ {
+  "i": 99,
+  "start": 322.55,
+  "end": 323.33,
+  "syl": 3,
+  "text": "en los rallys,"
+ },
+ {
+  "i": 100,
+  "start": 323.62,
+  "end": 326.62,
+  "syl": 18,
+  "text": "el diseño inteligente siempre vence a la fuerza bruta."
+ },
+ {
+  "i": 101,
+  "start": 326.62,
+  "end": 328.63,
+  "syl": 11,
+  "text": "Si te ha gustado esta historia,"
+ },
+ {
+  "i": 102,
+  "start": 328.77,
+  "end": 330.31,
+  "syl": 7,
+  "text": "déjate un buen \"like\","
+ },
+ {
+  "i": 103,
+  "start": 330.31,
+  "end": 332.67,
+  "syl": 16,
+  "text": "suscríbete al canal y dime en los comentarios:"
+ },
+ {
+  "i": 104,
+  "start": 333.1,
+  "end": 335.46,
+  "syl": 14,
+  "text": "¿Cuál es para ti el mejor coche del Grupo B?"
+ },
+ {
+  "i": 105,
+  "start": 335.95,
+  "end": 337.45,
+  "syl": 10,
+  "text": "¡Nos vemos en el próximo tramo!"
+ }
+]
