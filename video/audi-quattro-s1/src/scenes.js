@@ -1192,23 +1192,39 @@ function s38(t) {
 }
 
 // 144,5 – 150 · Déjalo en los comentarios y suscríbete para más leyendas del motor.
-function s39(t) {
+function endCard(t) {
   bg();
   photo('hero', 960, 0, 960, H, { zoom: lerp(1.15, 1.05, ease.out(prog(t, 144.4, 150))), fx: 0.66, fy: 0.55 }, { dark: 0.2, vig: 0.4 });
   tag(t, 'AUDI SPORT', M, 330, 144.6, COLOR.yellow);
   const size = fitSize(ctx, 'Quattro S1', (px) => FONT.display(900, px), 700, 140);
   revealText(ctx, 'Quattro S1', M, 470, FONT.display(900, size), COLOR.paper, prog(t, 144.65, 145.3), { stagger: 0.03 });
   stripesH(ctx, 510, 16, prog(t, 144.6, 145.3), 0, { x0: M, x1: M + 700, bands: BANDS3 });
-  label(ctx, 'Más leyendas del motor', M, 640, DIM, prog(t, 145.4, 145.9), { size: 40, spacing: 0, weight: 600 });
-  // Botones genéricos con los colores del cliente.
-  const a = ease.outExpo(prog(t, 145.6, 146.1));
+  label(ctx, 'Más leyendas del motor', M, 640, DIM, prog(t, 145.2, 145.6), { size: 40, spacing: 0, weight: 600 });
+}
+
+// Tarjeta del canal: logotipo de EVO HERITAGE y botón genérico de suscripción.
+function channelCard(t) {
+  bg();
+  const lg = A.logo;
+  const la = ease.out(prog(t, 145.95, 146.7));
+  if (lg && la > 0) {
+    const w = 860, h = w * (lg.height / lg.width), s = lerp(0.94, 1, la);
+    ctx.save();
+    ctx.globalAlpha = la;
+    ctx.translate(W / 2, 430);
+    ctx.scale(s, s);
+    ctx.drawImage(lg, -w / 2, -h / 2, w, h);
+    ctx.restore();
+  }
+  label(ctx, 'MÁS LEYENDAS DEL MOTOR', W / 2, 960, DIM, prog(t, 147.0, 147.5), { size: 24, spacing: 8, weight: 700, align: 'center' });
+  const a = ease.outExpo(prog(t, 146.3, 146.75));
   if (a > 0) {
     const press = Math.sin(Math.PI * prog(t, 146.9, 147.2));
     ctx.save();
     ctx.globalAlpha = a;
     ctx.font = FONT.text(700, 40);
     const tw = ctx.measureText('Suscríbete').width;
-    const bw = tw + 110, bh = 96, bx = M, by = 720;
+    const bw = tw + 110, bh = 96, bx = W / 2 - bw / 2, by = 780;
     ctx.translate(bx + bw / 2, by + bh / 2);
     ctx.scale(lerp(0.92, 1, a) * (1 - 0.05 * press), lerp(0.92, 1, a) * (1 - 0.05 * press));
     ctx.fillStyle = COLOR.yellow;
@@ -1221,6 +1237,13 @@ function s39(t) {
     ctx.fillText('Suscríbete', 0, 2);
     ctx.restore();
   }
+}
+
+// 144,5 – 150 · cierre: título del coche y, al decir «suscríbete», la tarjeta del canal.
+function s39(t) {
+  if (t < 145.75) return endCard(t);
+  if (t < 146.25) return stripeWipe(ctx, prog(t, 145.75, 146.25), () => endCard(t), () => channelCard(t));
+  return channelCard(t);
 }
 
 // ---------------------------------------------------------------------------

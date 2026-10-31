@@ -469,6 +469,7 @@ engine(22.4, 25.4, (t) => 2600 + 5800 * (1 - Math.exp(-(t - 22.4) * 1.1)), { vel
 for (let i = 0; i < 10; i++) tick(19.3 + i * 0.09 * (1 + i * 0.12), 0.35, 1800 + i * 120);
 // Botón «Suscríbete».
 tick(44.15, 1, 1400); tick(44.17, 0.6, 2600);
+whoosh(43.15, 0.6, { vel: 0.9 });
 // Trazo de la planta del coche al inicio.
 whoosh(0.0, 1.1, { from: -0.4, to: 0.4, f0: 600, f1: 3000, peak: 0.4, vel: 0.35 });
 

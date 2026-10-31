@@ -138,3 +138,7 @@ La cita de Röhrl no está verificada palabra por palabra.
 - **Maqueta del motor:** obra de Dmitry Golosov (@twdmodelling), con motor de GPmodeling production.
 - **Locución:** ElevenLabs, voz «Juan», generada por el cliente (`vo/take.mp3`).
 - **Fuentes:** Barlow y Barlow Condensed, de Jeremy Tribby (SIL Open Font License).
+
+## Revisión: logotipo del canal en el cierre
+
+A petición del cliente, cuando la voz dice «suscríbete», una cortinilla con las bandas de la librea da paso a una tarjeta del canal: el logotipo de EVO HERITAGE centrado (con su fondo transparente original) y el botón genérico «Suscríbete» debajo. Solo se re-renderizan los últimos segundos y se empalman al render existente; la música añade un whoosh para la cortinilla. La entrada de logo al principio queda solo para los vídeos nuevos, como pidió el cliente.

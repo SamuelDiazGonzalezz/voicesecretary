@@ -9,3 +9,4 @@ up salon.jpg 1.5
 up pista.jpg 2
 up stand-martini.jpg 3
 up motor-maqueta.jpg 1.5
+cp assets/img/evo-heritage-logo.png build/img/logo.png

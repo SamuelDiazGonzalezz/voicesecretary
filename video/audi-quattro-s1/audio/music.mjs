@@ -520,6 +520,7 @@ for (let g = 0; g < 6; g++) { const t = 113.8 + g * 0.75; tick(t, 0.8, 1500); an
 for (let i = 0; i < 12; i++) tick(82.4 + (1 - Math.exp(-i / 4)) * 1.2, 0.4, 2400 + i * 60);
 for (let i = 0; i < 4; i++) tick(119.6 + i * 0.15, 0.6, 1800);
 tick(146.95, 1, 1400); tick(146.97, 0.6, 2600);
+whoosh(145.7, 0.6, { vel: 0.9 });
 // Trazos de las plantas técnicas.
 for (const t of [7.0, 17.9, 21.6, 33.9, 58.8, 91.4]) whoosh(t, 0.9, { from: -0.3, to: 0.3, f0: 600, f1: 3000, peak: 0.4, vel: 0.3 });
 

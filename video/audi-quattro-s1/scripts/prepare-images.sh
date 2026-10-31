@@ -23,3 +23,4 @@ prep nocturna.jpg nocturna.jpg "" 3
 prep rohrl-cockpit.jpg rohrl.jpg "" 2.6
 prep curva-publico.jpg curva.jpg "" 2.8
 prep tramo-polvo.jpg tramo.jpg "" 2
+cp assets/img/evo-heritage-logo.png build/img/logo.png

@@ -643,11 +643,9 @@ function pRey(t) {
 }
 
 // 41,5 – 45 · ¿Conocías esta leyenda de los rallys? ¡Suscríbete para más!
-function pEnd(t) {
+function endTitle(t) {
   bg();
-  const up = ease.inOut(prog(t, 43.35, 43.9)) * -90;
   ctx.save();
-  ctx.translate(0, up);
   const spread = lerp(10, 20, ease.out(prog(t, 41.6, 45)));
   revealText(ctx, 'LANCIA', M, 760, FONT.display(800, 104), COLOR.paper, prog(t, 41.6, 42.3), { stagger: 0.05, spacing: spread });
   const size = fitSize(ctx, 'RALLY 037', (px) => FONT.display(900, px), GRID.w, 250);
@@ -655,9 +653,23 @@ function pEnd(t) {
   stripesH(ctx, 1022, 44, prog(t, 41.5, 42.05), 0);
   label(ctx, 'LA LEYENDA DE LOS RALLYS', M, 1250, COLOR.blue, prog(t, 42.4, 42.9), { size: 34, spacing: 8, weight: 600 });
   ctx.restore();
+}
 
-  // Botón genérico de suscripción con los colores del cliente.
-  const a = ease.outExpo(prog(t, 43.55, 44.0));
+// Tarjeta del canal: logotipo de EVO HERITAGE y botón genérico de suscripción.
+function channelCard(t) {
+  bg();
+  const lg = A.logo;
+  const la = ease.out(prog(t, 43.45, 44.05));
+  if (lg && la > 0) {
+    const w = 960, h = w * (lg.height / lg.width), s = lerp(0.94, 1, la);
+    ctx.save();
+    ctx.globalAlpha = la;
+    ctx.translate(W / 2, 860);
+    ctx.scale(s, s);
+    ctx.drawImage(lg, -w / 2, -h / 2, w, h);
+    ctx.restore();
+  }
+  const a = ease.outExpo(prog(t, 43.65, 44.0));
   if (a > 0) {
     const press = Math.sin(Math.PI * prog(t, 44.15, 44.45));
     const s = lerp(0.92, 1, a) * (1 - 0.05 * press);
@@ -666,7 +678,7 @@ function pEnd(t) {
     ctx.font = FONT.text(700, 54);
     ctx.letterSpacing = '1px';
     const tw = ctx.measureText('Suscríbete').width;
-    const bw = tw + 140, bh = 128, bx = M, by = 1360;
+    const bw = tw + 140, bh = 128, bx = W / 2 - bw / 2, by = 1250;
     ctx.translate(bx + bw / 2, by + bh / 2);
     ctx.scale(s, s);
     ctx.fillStyle = press > 0.01 ? COLOR.navy : COLOR.red;
@@ -679,6 +691,13 @@ function pEnd(t) {
     ctx.fillText('Suscríbete', 0, 2);
     ctx.restore();
   }
+}
+
+// 41,5 – 45 · cierre: título y, al decir «suscríbete», la tarjeta del canal.
+function pEnd(t) {
+  if (t < 43.2) return endTitle(t);
+  if (t < 43.7) return stripeWipe(ctx, prog(t, 43.2, 43.7), () => endTitle(t), () => channelCard(t));
+  return channelCard(t);
 }
 
 // ---------------------------------------------------------------------------

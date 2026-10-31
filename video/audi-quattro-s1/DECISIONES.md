@@ -163,3 +163,7 @@ Las afirmaciones son del guion del cliente. Algunas se citan habitualmente con m
 - **Fotografías y despiece:** los proporcionó el cliente.
 - **Locución:** ElevenLabs, voz «Mario», generada por el cliente (`vo/take.mp3`).
 - **Fuentes:** Archivo, de Omnibus-Type (SIL Open Font License).
+
+## Revisión: logotipo del canal en el cierre
+
+A petición del cliente, cuando la voz dice «suscríbete», una cortinilla con las bandas de la librea da paso a una tarjeta del canal: el logotipo de EVO HERITAGE centrado (con su fondo transparente original) y el botón genérico «Suscríbete» debajo. Solo se re-renderizan los últimos segundos y se empalman al render existente; la música añade un whoosh para la cortinilla. La entrada de logo al principio queda solo para los vídeos nuevos, como pidió el cliente.
