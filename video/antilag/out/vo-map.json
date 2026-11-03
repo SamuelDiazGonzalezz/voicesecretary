@@ -1,0 +1,625 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 1.27,
+  "syl": 7,
+  "text": "Fuego por el escape."
+ },
+ {
+  "i": 1,
+  "start": 1.74,
+  "end": 4.29,
+  "syl": 19,
+  "text": "Explosiones que suenan como ráfagas de ametralladora."
+ },
+ {
+  "i": 2,
+  "start": 4.29,
+  "end": 5.8,
+  "syl": 7,
+  "text": "Para el espectador,"
+ },
+ {
+  "i": 3,
+  "start": 5.97,
+  "end": 7.2,
+  "syl": 8,
+  "text": "es puro espectáculo."
+ },
+ {
+  "i": 4,
+  "start": 7.68,
+  "end": 10.02,
+  "syl": 17,
+  "text": "Para los ingenieros de los años 80 y 90,"
+ },
+ {
+  "i": 5,
+  "start": 10.21,
+  "end": 12.3,
+  "syl": 14,
+  "text": "era la única forma de domar a la bestia."
+ },
+ {
+  "i": 6,
+  "start": 12.85,
+  "end": 14.48,
+  "syl": 15,
+  "text": "Este es el secreto mejor guardado de los rallys:"
+ },
+ {
+  "i": 7,
+  "start": 14.48,
+  "end": 15.53,
+  "syl": 7,
+  "text": "el sistema Anti-lag,"
+ },
+ {
+  "i": 8,
+  "start": 15.91,
+  "end": 17.35,
+  "syl": 10,
+  "text": "también conocido como \"Bang-Bang\"."
+ },
+ {
+  "i": 9,
+  "start": 17.67,
+  "end": 20.32,
+  "syl": 12,
+  "text": "No estaba ahí para hacer ruido;"
+ },
+ {
+  "i": 10,
+  "start": 20.32,
+  "end": 25.91,
+  "syl": 34,
+  "text": "era una solución científica radical a un problema que podía costarte la vida o el campeonato."
+ },
+ {
+  "i": 11,
+  "start": 26.13,
+  "end": 34.5,
+  "syl": 47,
+  "text": "Hoy vamos a abrir las entrañas de los motores turbo del Grupo B y del WRC para entender cómo lograron engañar a la física."
+ },
+ {
+  "i": 12,
+  "start": 34.5,
+  "end": 36.81,
+  "syl": 8,
+  "text": "Para entender la cura,"
+ },
+ {
+  "i": 13,
+  "start": 37.04,
+  "end": 38.5,
+  "syl": 10,
+  "text": "hay que entender la enfermedad:"
+ },
+ {
+  "i": 14,
+  "start": 38.91,
+  "end": 40.79,
+  "syl": 11,
+  "text": "el Turbo Lag o retraso del turbo."
+ },
+ {
+  "i": 15,
+  "start": 40.79,
+  "end": 42.36,
+  "syl": 7,
+  "text": "En los años 80,"
+ },
+ {
+  "i": 16,
+  "start": 42.36,
+  "end": 47.99,
+  "syl": 33,
+  "text": "para sacar 500 caballos de motores pequeños como el del Peugeot 205 T16,"
+ },
+ {
+  "i": 17,
+  "start": 48.28,
+  "end": 50.32,
+  "syl": 15,
+  "text": "necesitabas turbocompresores gigantescos."
+ },
+ {
+  "i": 18,
+  "start": 50.32,
+  "end": 54.38,
+  "syl": 22,
+  "text": "El problema es que un turbo funciona gracias a los gases de escape."
+ },
+ {
+  "i": 19,
+  "start": 54.38,
+  "end": 58.45,
+  "syl": 27,
+  "text": "Cuando el piloto pisaba el acelerador a fondo a la salida de una curva,"
+ },
+ {
+  "i": 20,
+  "start": 58.72,
+  "end": 63.98,
+  "syl": 35,
+  "text": "los gases tardaban un par de segundos en tener la fuerza suficiente para hacer girar la pesada turbina."
+ },
+ {
+  "i": 21,
+  "start": 63.98,
+  "end": 66.18,
+  "syl": 9,
+  "text": "Durante esos dos segundos,"
+ },
+ {
+  "i": 22,
+  "start": 66.39,
+  "end": 67.98,
+  "syl": 8,
+  "text": "el coche estaba muerto."
+ },
+ {
+  "i": 23,
+  "start": 68.52,
+  "end": 69.26,
+  "syl": 5,
+  "text": "Y de repente..."
+ },
+ {
+  "i": 24,
+  "start": 69.71,
+  "end": 71.48,
+  "syl": 12,
+  "text": "toda la potencia entraba de golpe,"
+ },
+ {
+  "i": 25,
+  "start": 71.61,
+  "end": 75.2,
+  "syl": 26,
+  "text": "empujándote hacia el barranco si no tenías el volante perfectamente recto."
+ },
+ {
+  "i": 26,
+  "start": 75.32,
+  "end": 77.73,
+  "syl": 13,
+  "text": "El momento crítico ocurre al frenar."
+ },
+ {
+  "i": 27,
+  "start": 77.73,
+  "end": 80.21,
+  "syl": 15,
+  "text": "El piloto levanta el pie del acelerador."
+ },
+ {
+  "i": 28,
+  "start": 80.21,
+  "end": 82.72,
+  "syl": 12,
+  "text": "La mariposa de admisión se cierra."
+ },
+ {
+  "i": 29,
+  "start": 83.19,
+  "end": 86.66,
+  "syl": 22,
+  "text": "El motor deja de quemar grandes cantidades de combustible y aire,"
+ },
+ {
+  "i": 30,
+  "start": 86.88,
+  "end": 89.92,
+  "syl": 20,
+  "text": "por lo que el flujo de gases de escape cae drásticamente."
+ },
+ {
+  "i": 31,
+  "start": 90.45,
+  "end": 91.16,
+  "syl": 5,
+  "text": "¿El resultado?"
+ },
+ {
+  "i": 32,
+  "start": 91.61,
+  "end": 92.73,
+  "syl": 7,
+  "text": "La turbina del turbo,"
+ },
+ {
+  "i": 33,
+  "start": 92.86,
+  "end": 95.42,
+  "syl": 18,
+  "text": "que giraba a más de 100.000 revoluciones por minuto,"
+ },
+ {
+  "i": 34,
+  "start": 95.73,
+  "end": 98.04,
+  "syl": 14,
+  "text": "pierde inercia y se frena casi por completo."
+ },
+ {
+  "i": 35,
+  "start": 98.04,
+  "end": 100.65,
+  "syl": 12,
+  "text": "La presión en el colector de admisión,"
+ },
+ {
+  "i": 36,
+  "start": 100.78,
+  "end": 101.99,
+  "syl": 8,
+  "text": "conocida como \"boost\","
+ },
+ {
+  "i": 37,
+  "start": 102.21,
+  "end": 102.88,
+  "syl": 5,
+  "text": "cae a cero."
+ },
+ {
+  "i": 38,
+  "start": 103.41,
+  "end": 104.46,
+  "syl": 8,
+  "text": "Al volver a acelerar,"
+ },
+ {
+  "i": 39,
+  "start": 104.7,
+  "end": 106.58,
+  "syl": 12,
+  "text": "el ciclo tiene que empezar de nuevo."
+ },
+ {
+  "i": 40,
+  "start": 107.19,
+  "end": 111.18,
+  "syl": 29,
+  "text": "Había que encontrar una forma de mantener esa turbina girando a máxima velocidad,"
+ },
+ {
+  "i": 41,
+  "start": 111.42,
+  "end": 113.52,
+  "syl": 14,
+  "text": "incluso cuando el piloto estaba frenando."
+ },
+ {
+  "i": 42,
+  "start": 114.05,
+  "end": 115.92,
+  "syl": 13,
+  "text": "Aquí entra la genialidad del Anti-lag."
+ },
+ {
+  "i": 43,
+  "start": 115.92,
+  "end": 118.55,
+  "syl": 13,
+  "text": "La idea es sencilla pero destructiva:"
+ },
+ {
+  "i": 44,
+  "start": 118.55,
+  "end": 121.61,
+  "syl": 17,
+  "text": "si el motor no está generando gases de escape,"
+ },
+ {
+  "i": 45,
+  "start": 121.86,
+  "end": 124.1,
+  "syl": 14,
+  "text": "vamos a crear una explosión fuera del motor."
+ },
+ {
+  "i": 46,
+  "start": 124.1,
+  "end": 126.37,
+  "syl": 11,
+  "text": "Cuando el piloto levanta el pie,"
+ },
+ {
+  "i": 47,
+  "start": 126.61,
+  "end": 128.18,
+  "syl": 9,
+  "text": "el sistema entra en acción."
+ },
+ {
+  "i": 48,
+  "start": 128.64,
+  "end": 135.82,
+  "syl": 49,
+  "text": "La centralita electrónica o un sistema mecánico en la era temprana del Grupo B ordena a los inyectores que sigan escupiendo gasolina,"
+ },
+ {
+  "i": 49,
+  "start": 136.07,
+  "end": 139.23,
+  "syl": 22,
+  "text": "y a una válvula bypass que siga dejando pasar aire limpio al motor."
+ },
+ {
+  "i": 50,
+  "start": 139.23,
+  "end": 141.42,
+  "syl": 9,
+  "text": "Pero aquí está el truco:"
+ },
+ {
+  "i": 51,
+  "start": 141.8,
+  "end": 144.98,
+  "syl": 20,
+  "text": "se retrasa brutalmente el momento de la chispa en la bujía,"
+ },
+ {
+  "i": 52,
+  "start": 145.26,
+  "end": 146.97,
+  "syl": 10,
+  "text": "a veces hasta 40 grados."
+ },
+ {
+  "i": 53,
+  "start": 146.97,
+  "end": 150.42,
+  "syl": 20,
+  "text": "En lugar de encender la mezcla cuando el pistón está arriba,"
+ },
+ {
+  "i": 54,
+  "start": 150.76,
+  "end": 154.37,
+  "syl": 22,
+  "text": "la bujía salta cuando la válvula de escape ya se está abriendo."
+ },
+ {
+  "i": 55,
+  "start": 154.99,
+  "end": 159.73,
+  "syl": 26,
+  "text": "Esa mezcla de aire y gasolina cruda viaja hacia el colector de escape,"
+ },
+ {
+  "i": 56,
+  "start": 159.73,
+  "end": 162.67,
+  "syl": 16,
+  "text": "que está a más de 800 grados centígrados."
+ },
+ {
+  "i": 57,
+  "start": 162.67,
+  "end": 164.1,
+  "syl": 11,
+  "text": "Al tocar ese metal incandescente,"
+ },
+ {
+  "i": 58,
+  "start": 164.31,
+  "end": 165.88,
+  "syl": 10,
+  "text": "o al recibir la chispa tardía,"
+ },
+ {
+  "i": 59,
+  "start": 166.15,
+  "end": 168.81,
+  "syl": 16,
+  "text": "la mezcla detona violentamente en el colector."
+ },
+ {
+  "i": 60,
+  "start": 169.08,
+  "end": 169.7,
+  "syl": 1,
+  "text": "¡BAM!"
+ },
+ {
+  "i": 61,
+  "start": 170.11,
+  "end": 175.19,
+  "syl": 28,
+  "text": "Esa enorme expansión de gases golpea las aspas de la turbina con una fuerza brutal."
+ },
+ {
+  "i": 62,
+  "start": 175.68,
+  "end": 180.11,
+  "syl": 26,
+  "text": "La turbina nunca se entera de que el piloto ha soltado el acelerador;"
+ },
+ {
+  "i": 63,
+  "start": 180.11,
+  "end": 183.96,
+  "syl": 25,
+  "text": "sigue girando a 120.000 vueltas gracias a estas explosiones continuas."
+ },
+ {
+  "i": 64,
+  "start": 184.38,
+  "end": 186.77,
+  "syl": 14,
+  "text": "Cuando el piloto vuelve a pisar a fondo,"
+ },
+ {
+  "i": 65,
+  "start": 186.77,
+  "end": 188.63,
+  "syl": 12,
+  "text": "la presión del turbo está al máximo."
+ },
+ {
+  "i": 66,
+  "start": 188.99,
+  "end": 189.73,
+  "syl": 3,
+  "text": "Cero lag."
+ },
+ {
+  "i": 67,
+  "start": 190.05,
+  "end": 191.24,
+  "syl": 9,
+  "text": "Aceleración instantánea."
+ },
+ {
+  "i": 68,
+  "start": 191.24,
+  "end": 200.31,
+  "syl": 53,
+  "text": "Y el subproducto visual de estas detonaciones no es otro que las llamas escupidas por el tubo de escape y el sonido atronador que bautizó al sistema."
+ },
+ {
+  "i": 69,
+  "start": 200.91,
+  "end": 204.26,
+  "syl": 18,
+  "text": "En la época del Peugeot 205 T16,"
+ },
+ {
+  "i": 70,
+  "start": 204.26,
+  "end": 206.38,
+  "syl": 15,
+  "text": "el sistema era rudimentario y salvaje,"
+ },
+ {
+  "i": 71,
+  "start": 206.7,
+  "end": 209.52,
+  "syl": 15,
+  "text": "lo que lo hacía casi incontrolable y muy tosco."
+ },
+ {
+  "i": 72,
+  "start": 209.88,
+  "end": 214.01,
+  "syl": 26,
+  "text": "Pero al llegar a la era dorada del Grupo A y los World Rally Cars en los 90,"
+ },
+ {
+  "i": 73,
+  "start": 214.31,
+  "end": 216.2,
+  "syl": 11,
+  "text": "la electrónica lo cambió todo."
+ },
+ {
+  "i": 74,
+  "start": 216.63,
+  "end": 220.19,
+  "syl": 23,
+  "text": "En coches como el Subaru Impreza WRC97,"
+ },
+ {
+  "i": 75,
+  "start": 220.44,
+  "end": 224.28,
+  "syl": 18,
+  "text": "las centralitas permitían mapas de Anti-lag ajustables."
+ },
+ {
+  "i": 76,
+  "start": 224.28,
+  "end": 232.69,
+  "syl": 58,
+  "text": "Los pilotos tenían botones en el salpicadero para regular la agresividad del sistema dependiendo de si corrían en el asfalto seco de Córcega o en el barro de Gales."
+ },
+ {
+  "i": 77,
+  "start": 233.04,
+  "end": 237.15,
+  "syl": 21,
+  "text": "El \"Bang-Bang\" pasó de ser un martillo a ser un bisturí de precisión."
+ },
+ {
+  "i": 78,
+  "start": 237.15,
+  "end": 240.37,
+  "syl": 15,
+  "text": "Pero desafiar a la física tiene un precio."
+ },
+ {
+  "i": 79,
+  "start": 240.81,
+  "end": 246.81,
+  "syl": 36,
+  "text": "Las explosiones constantes dentro de los colectores elevaban las temperaturas por encima de los 1.100 grados."
+ },
+ {
+  "i": 80,
+  "start": 247.21,
+  "end": 248.83,
+  "syl": 9,
+  "text": "Los colectores se rajaban,"
+ },
+ {
+  "i": 81,
+  "start": 249.14,
+  "end": 251.62,
+  "syl": 16,
+  "text": "y los turbos se derretían literalmente por dentro,"
+ },
+ {
+  "i": 82,
+  "start": 251.62,
+  "end": 255.57,
+  "syl": 22,
+  "text": "obligando a los mecánicos a reemplazarlos cada pocos tramos."
+ },
+ {
+  "i": 83,
+  "start": 255.95,
+  "end": 257.65,
+  "syl": 11,
+  "text": "Era una pesadilla logística,"
+ },
+ {
+  "i": 84,
+  "start": 258.03,
+  "end": 260.83,
+  "syl": 13,
+  "text": "pero el peaje a pagar por la gloria."
+ },
+ {
+  "i": 85,
+  "start": 260.83,
+  "end": 263.19,
+  "syl": 10,
+  "text": "El Anti-lag definió una era,"
+ },
+ {
+  "i": 86,
+  "start": 263.19,
+  "end": 269.61,
+  "syl": 38,
+  "text": "convirtió a los coches de rally en monstruos escupe-fuego y nos dejó la banda sonora más increíble de la historia del motor."
+ },
+ {
+  "i": 87,
+  "start": 270.08,
+  "end": 272.27,
+  "syl": 14,
+  "text": "¿Conocías la ciencia detrás de este sonido?"
+ },
+ {
+  "i": 88,
+  "start": 272.72,
+  "end": 275.4,
+  "syl": 15,
+  "text": "Suscríbete y nos vemos en la próxima curva."
+ }
+]
