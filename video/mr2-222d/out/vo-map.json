@@ -1,0 +1,667 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 2.43,
+  "syl": 15,
+  "text": "Cuando hablamos de la era dorada de los rallys,"
+ },
+ {
+  "i": 1,
+  "start": 2.43,
+  "end": 3.31,
+  "syl": 6,
+  "text": "los años 80,"
+ },
+ {
+  "i": 2,
+  "start": 3.61,
+  "end": 5.75,
+  "syl": 12,
+  "text": "siempre coronamos a los mismos reyes:"
+ },
+ {
+  "i": 3,
+  "start": 6.22,
+  "end": 6.7,
+  "syl": 2,
+  "text": "Audi,"
+ },
+ {
+  "i": 4,
+  "start": 6.94,
+  "end": 7.53,
+  "syl": 2,
+  "text": "Lancia,"
+ },
+ {
+  "i": 5,
+  "start": 7.73,
+  "end": 8.22,
+  "syl": 3,
+  "text": "Peugeot."
+ },
+ {
+  "i": 6,
+  "start": 8.64,
+  "end": 11.56,
+  "syl": 19,
+  "text": "Pero en los rincones más profundos y secretos de Europa,"
+ },
+ {
+  "i": 7,
+  "start": 11.56,
+  "end": 15.9,
+  "syl": 27,
+  "text": "se estaba gestando una máquina que amenazaba con hacerlos pedazos a todos."
+ },
+ {
+  "i": 8,
+  "start": 16.23,
+  "end": 17.55,
+  "syl": 7,
+  "text": "Un coche tan extremo,"
+ },
+ {
+  "i": 9,
+  "start": 17.55,
+  "end": 19.9,
+  "syl": 14,
+  "text": "tan violento y con un aspecto tan oscuro,"
+ },
+ {
+  "i": 10,
+  "start": 19.9,
+  "end": 24.73,
+  "syl": 29,
+  "text": "que la historia decidió encerrarlo bajo llave antes de que pudiera mancharse de barro."
+ },
+ {
+  "i": 11,
+  "start": 25.11,
+  "end": 28.29,
+  "syl": 19,
+  "text": "Lo bautizaron en los talleres como el \"Darth Vader\" de los rallys."
+ },
+ {
+  "i": 12,
+  "start": 28.29,
+  "end": 31.85,
+  "syl": 18,
+  "text": "Era el arma definitiva y secreta de Toyota."
+ },
+ {
+  "i": 13,
+  "start": 32.26,
+  "end": 36.01,
+  "syl": 20,
+  "text": "Esta es la historia del enigmático código 222D..."
+ },
+ {
+  "i": 14,
+  "start": 36.56,
+  "end": 39.28,
+  "syl": 15,
+  "text": "el monstruo que nunca dejaron salir de su jaula."
+ },
+ {
+  "i": 15,
+  "start": 40.26,
+  "end": 41.77,
+  "syl": 11,
+  "text": "A mediados de los años 80,"
+ },
+ {
+  "i": 16,
+  "start": 42.02,
+  "end": 44.66,
+  "syl": 11,
+  "text": "Toyota Team Europe (TTE),"
+ },
+ {
+  "i": 17,
+  "start": 44.66,
+  "end": 46.86,
+  "syl": 13,
+  "text": "liderado por el genio Ove Andersson,"
+ },
+ {
+  "i": 18,
+  "start": 46.86,
+  "end": 49.48,
+  "syl": 17,
+  "text": "era el rey indiscutible de las pruebas de resistencia."
+ },
+ {
+  "i": 19,
+  "start": 50.04,
+  "end": 54.1,
+  "syl": 23,
+  "text": "Su Celica Twin-Cam Turbo de tracción trasera era un tanque indestructible,"
+ },
+ {
+  "i": 20,
+  "start": 54.1,
+  "end": 56.3,
+  "syl": 13,
+  "text": "ganando el Rally Safari año tras año."
+ },
+ {
+  "i": 21,
+  "start": 56.3,
+  "end": 58.19,
+  "syl": 8,
+  "text": "Pero había un problema."
+ },
+ {
+  "i": 22,
+  "start": 58.79,
+  "end": 59.57,
+  "syl": 6,
+  "text": "En las retorcidas,"
+ },
+ {
+  "i": 23,
+  "start": 59.57,
+  "end": 62.19,
+  "syl": 15,
+  "text": "heladas y estrechas carreteras de Europa,"
+ },
+ {
+  "i": 24,
+  "start": 62.33,
+  "end": 65.73,
+  "syl": 23,
+  "text": "frente a la nueva generación de coches 4x4 con motor central,"
+ },
+ {
+  "i": 25,
+  "start": 66.14,
+  "end": 70.04,
+  "syl": 22,
+  "text": "el enorme Celica era un dinosaurio pesado y obsoleto."
+ },
+ {
+  "i": 26,
+  "start": 70.04,
+  "end": 72.37,
+  "syl": 17,
+  "text": "Toyota necesitaba una revolución absoluta."
+ },
+ {
+  "i": 27,
+  "start": 73.28,
+  "end": 74.95,
+  "syl": 12,
+  "text": "En 1985,"
+ },
+ {
+  "i": 28,
+  "start": 75.07,
+  "end": 78.73,
+  "syl": 18,
+  "text": "la FIA hizo un anuncio que cambiaría las reglas del juego:"
+ },
+ {
+  "i": 29,
+  "start": 79.04,
+  "end": 80.56,
+  "syl": 7,
+  "text": "nacería el Grupo S."
+ },
+ {
+  "i": 30,
+  "start": 80.56,
+  "end": 84.96,
+  "syl": 22,
+  "text": "Una categoría futurista que reemplazaría al salvaje Grupo B."
+ },
+ {
+  "i": 31,
+  "start": 85.38,
+  "end": 91.05,
+  "syl": 34,
+  "text": "Esta nueva liga exigiría construir solo 10 coches de calle para homologar el modelo de carreras,"
+ },
+ {
+  "i": 32,
+  "start": 91.18,
+  "end": 93.33,
+  "syl": 14,
+  "text": "a diferencia de los 200 del Grupo B."
+ },
+ {
+  "i": 33,
+  "start": 93.72,
+  "end": 98.85,
+  "syl": 28,
+  "text": "Esto daba carta blanca a los ingenieros para crear prototipos cien por cien espaciales,"
+ },
+ {
+  "i": 34,
+  "start": 98.85,
+  "end": 100.93,
+  "syl": 14,
+  "text": "sin preocuparse por la producción comercial."
+ },
+ {
+  "i": 35,
+  "start": 101.43,
+  "end": 105.22,
+  "syl": 21,
+  "text": "Toyota vio su oportunidad perfecta para dominar el mundo,"
+ },
+ {
+  "i": 36,
+  "start": 105.22,
+  "end": 108.93,
+  "syl": 19,
+  "text": "y dio luz verde inmediata al proyecto secreto 222D."
+ },
+ {
+  "i": 37,
+  "start": 109.95,
+  "end": 113.22,
+  "syl": 23,
+  "text": "Tomaron como base teórica el deportivo más ágil de la marca,"
+ },
+ {
+  "i": 38,
+  "start": 113.53,
+  "end": 116.22,
+  "syl": 17,
+  "text": "el Toyota MR2 de primera generación,"
+ },
+ {
+  "i": 39,
+  "start": 116.22,
+  "end": 117.26,
+  "syl": 6,
+  "text": "con su motor central."
+ },
+ {
+  "i": 40,
+  "start": 117.58,
+  "end": 121.91,
+  "syl": 27,
+  "text": "Pero del pequeño y simpático coche de calle solo quedó la silueta del techo,"
+ },
+ {
+  "i": 41,
+  "start": 122.07,
+  "end": 123.78,
+  "syl": 9,
+  "text": "el parabrisas y las puertas."
+ },
+ {
+  "i": 42,
+  "start": 124.06,
+  "end": 126.87,
+  "syl": 14,
+  "text": "El resto fue pura ingeniería paramilitar."
+ },
+ {
+  "i": 43,
+  "start": 127.78,
+  "end": 132.77,
+  "syl": 32,
+  "text": "Los ingenieros cortaron el MR2 por la mitad y diseñaron un chasis tubular a medida,"
+ },
+ {
+  "i": 44,
+  "start": 132.9,
+  "end": 134.33,
+  "syl": 9,
+  "text": "extremadamente rígido."
+ },
+ {
+  "i": 45,
+  "start": 134.66,
+  "end": 139.95,
+  "syl": 30,
+  "text": "Vistieron ese esqueleto con una carrocería de materiales compuestos absurdamente ancha,"
+ },
+ {
+  "i": 46,
+  "start": 139.95,
+  "end": 147.25,
+  "syl": 44,
+  "text": "con pasos de rueda gigantescos para albergar neumáticos de competición y un alerón trasero integrado tipo \"cola de pato\" brutal."
+ },
+ {
+  "i": 47,
+  "start": 147.66,
+  "end": 152.93,
+  "syl": 34,
+  "text": "La zaga entera se levantaba en una sola pieza para dejar al descubierto las entrañas de la bestia."
+ },
+ {
+  "i": 48,
+  "start": 153.19,
+  "end": 159.2,
+  "syl": 38,
+  "text": "El resultado visual era tan hostil y aerodinámicamente agresivo que los propios mecánicos e ingenieros,"
+ },
+ {
+  "i": 49,
+  "start": 159.35,
+  "end": 161.65,
+  "syl": 16,
+  "text": "al verlo pintado de un riguroso negro mate,"
+ },
+ {
+  "i": 50,
+  "start": 161.65,
+  "end": 165.86,
+  "syl": 18,
+  "text": "lo apodaron al instante como el \"Black Monster\" o \"Darth Vader\"."
+ },
+ {
+  "i": 51,
+  "start": 166.37,
+  "end": 168.09,
+  "syl": 10,
+  "text": "Era la encarnación del miedo,"
+ },
+ {
+  "i": 52,
+  "start": 168.47,
+  "end": 170.72,
+  "syl": 14,
+  "text": "un caza furtivo listo para el asfalto."
+ },
+ {
+  "i": 53,
+  "start": 171.32,
+  "end": 172.5,
+  "syl": 10,
+  "text": "Pero la verdadera locura,"
+ },
+ {
+  "i": 54,
+  "start": 172.69,
+  "end": 173.91,
+  "syl": 8,
+  "text": "el auténtico peligro,"
+ },
+ {
+  "i": 55,
+  "start": 174.1,
+  "end": 177.54,
+  "syl": 17,
+  "text": "palpitaba a centímetros de la nuca del piloto."
+ },
+ {
+  "i": 56,
+  "start": 177.54,
+  "end": 179.67,
+  "syl": 13,
+  "text": "Aunque probaron varias configuraciones,"
+ },
+ {
+  "i": 57,
+  "start": 179.67,
+  "end": 182.45,
+  "syl": 18,
+  "text": "incluyendo motores V6 y disposiciones transversales,"
+ },
+ {
+  "i": 58,
+  "start": 182.59,
+  "end": 186.76,
+  "syl": 22,
+  "text": "la especificación más extrema equipó el bloque 503E."
+ },
+ {
+  "i": 59,
+  "start": 187.34,
+  "end": 190.78,
+  "syl": 22,
+  "text": "Un legendario motor turbo de cuatro cilindros y 2.1 litros,"
+ },
+ {
+  "i": 60,
+  "start": 190.78,
+  "end": 199.83,
+  "syl": 46,
+  "text": "capaz de soportar presiones absurdas y que más tarde reinaría en los prototipos de las 24 Horas de Le Mans y en la IMSA americana."
+ },
+ {
+  "i": 61,
+  "start": 199.83,
+  "end": 200.64,
+  "syl": 4,
+  "text": "En teoría,"
+ },
+ {
+  "i": 62,
+  "start": 200.64,
+  "end": 205.44,
+  "syl": 30,
+  "text": "las reglas del futuro Grupo S limitarían la potencia a 300 caballos por seguridad."
+ },
+ {
+  "i": 63,
+  "start": 205.75,
+  "end": 207.39,
+  "syl": 10,
+  "text": "Pero los ingenieros de Toyota,"
+ },
+ {
+  "i": 64,
+  "start": 207.39,
+  "end": 210.69,
+  "syl": 19,
+  "text": "sabiendo que en competición es mejor que sobre a que falte,"
+ },
+ {
+  "i": 65,
+  "start": 210.82,
+  "end": 215.25,
+  "syl": 25,
+  "text": "probaron el 222D sin ningún tipo de restricciones en el turbocompresor."
+ },
+ {
+  "i": 66,
+  "start": 215.25,
+  "end": 220.94,
+  "syl": 32,
+  "text": "Estamos hablando de un chasis minúsculo que pesaba alrededor de 750 kilos,"
+ },
+ {
+  "i": 67,
+  "start": 220.94,
+  "end": 226.47,
+  "syl": 33,
+  "text": "acoplado a un sofisticado sistema de tracción total Xtrac regulable desde el habitáculo,"
+ },
+ {
+  "i": 68,
+  "start": 226.66,
+  "end": 233.28,
+  "syl": 41,
+  "text": "y propulsado por un motor que en sus picos de máxima presión generaba la demencial cifra de 750 caballos."
+ },
+ {
+  "i": 69,
+  "start": 233.28,
+  "end": 238.38,
+  "syl": 28,
+  "text": "Tenía una relación peso-potencia muy superior a la de un Fórmula 1 de la época."
+ },
+ {
+  "i": 70,
+  "start": 238.38,
+  "end": 245.38,
+  "syl": 39,
+  "text": "El coche era tan absurdamente rápido que los propios pilotos de prueba oficiales admitieron que era impredecible,"
+ },
+ {
+  "i": 71,
+  "start": 245.7,
+  "end": 246.41,
+  "syl": 4,
+  "text": "caprichoso;"
+ },
+ {
+  "i": 72,
+  "start": 246.68,
+  "end": 253.22,
+  "syl": 47,
+  "text": "una bestia hiperactiva que amenazaba con catapultarte fuera de la carretera si te equivocabas un milímetro con el acelerador."
+ },
+ {
+  "i": 73,
+  "start": 253.79,
+  "end": 257.46,
+  "syl": 25,
+  "text": "Pero el mundo nunca tuvo la oportunidad de verlo competir ni domarlo."
+ },
+ {
+  "i": 74,
+  "start": 258.01,
+  "end": 260.02,
+  "syl": 14,
+  "text": "En mayo de 1986,"
+ },
+ {
+  "i": 75,
+  "start": 260.34,
+  "end": 265.08,
+  "syl": 29,
+  "text": "el fatal accidente del Lancia de Henri Toivonen en el Tour de Córcega detuvo el tiempo."
+ },
+ {
+  "i": 76,
+  "start": 265.65,
+  "end": 266.02,
+  "syl": 2,
+  "text": "La FIA,"
+ },
+ {
+  "i": 77,
+  "start": 266.02,
+  "end": 267.96,
+  "syl": 11,
+  "text": "bajo una presión mediática brutal,"
+ },
+ {
+  "i": 78,
+  "start": 267.96,
+  "end": 272.96,
+  "syl": 29,
+  "text": "no solo prohibió el Grupo B de forma inmediata para 1987,"
+ },
+ {
+  "i": 79,
+  "start": 273.12,
+  "end": 277.91,
+  "syl": 30,
+  "text": "sino que erradicó y canceló el reglamento del Grupo S antes siquiera de que naciera."
+ },
+ {
+  "i": 80,
+  "start": 278.45,
+  "end": 279.77,
+  "syl": 9,
+  "text": "De la noche a la mañana,"
+ },
+ {
+  "i": 81,
+  "start": 279.77,
+  "end": 282.65,
+  "syl": 14,
+  "text": "el proyecto 222D se quedó huérfano."
+ },
+ {
+  "i": 82,
+  "start": 283.2,
+  "end": 292.27,
+  "syl": 56,
+  "text": "Millones de dólares en desarrollo y miles de horas de ingeniería fueron silenciados y encerrados para siempre bajo una lona en las instalaciones de Toyota en Colonia."
+ },
+ {
+  "i": 83,
+  "start": 292.83,
+  "end": 295.97,
+  "syl": 19,
+  "text": "Sobrevivieron muy pocos chasis de aquellas pruebas secretas;"
+ },
+ {
+  "i": 84,
+  "start": 296.47,
+  "end": 300.15,
+  "syl": 17,
+  "text": "un prototipo blanco y el mítico \"fantasma negro\"."
+ },
+ {
+  "i": 85,
+  "start": 300.15,
+  "end": 300.59,
+  "syl": 3,
+  "text": "Hoy en día,"
+ },
+ {
+  "i": 86,
+  "start": 300.72,
+  "end": 307.27,
+  "syl": 39,
+  "text": "descansa en los museos privados de Toyota y hace apariciones esporádicas en festivales como Goodwood,"
+ },
+ {
+  "i": 87,
+  "start": 307.27,
+  "end": 312.91,
+  "syl": 31,
+  "text": "donde su aullido y su diseño apocalíptico siguen erizando el vello de los puristas."
+ },
+ {
+  "i": 88,
+  "start": 312.91,
+  "end": 317.43,
+  "syl": 22,
+  "text": "El Toyota MR2 222D no es solo un prototipo;"
+ },
+ {
+  "i": 89,
+  "start": 317.65,
+  "end": 321.36,
+  "syl": 20,
+  "text": "es el mayor \"y si...\" de la historia del automovilismo mundial."
+ },
+ {
+  "i": 90,
+  "start": 321.36,
+  "end": 324.06,
+  "syl": 19,
+  "text": "El rey indiscutible de una era que nunca llegó a existir."
+ },
+ {
+  "i": 91,
+  "start": 324.06,
+  "end": 332.42,
+  "syl": 44,
+  "text": "¿Crees que este monstruo habría sido capaz de destronar al Peugeot 205 T16 o al Lancia Delta S4 en los tramos?"
+ },
+ {
+  "i": 92,
+  "start": 332.84,
+  "end": 334.14,
+  "syl": 9,
+  "text": "Déjalo en los comentarios,"
+ },
+ {
+  "i": 93,
+  "start": 334.33,
+  "end": 339.01,
+  "syl": 30,
+  "text": "dale un buen like al vídeo y suscríbete para descubrir más leyendas ocultas del motor."
+ },
+ {
+  "i": 94,
+  "start": 339.44,
+  "end": 341.11,
+  "syl": 10,
+  "text": "¡Nos vemos en el próximo tramo!"
+ }
+]
