@@ -109,7 +109,8 @@ En la mezcla la música va a −11 dB, comprimida con la voz como llave. El soni
    - **las plantas en perspectiva,** que se cortaban por abajo y quedaban bajo los titulares;
    - **el titular final de la Tommi Mäkinen Edition,** rojo sobre el coche rojo: ahora va arriba y en blanco.
 4. **Música:** en la primera versión la calma quedaba 18 dB por debajo de las rupturas y habría desaparecido bajo la voz. La subí hasta unos 12 dB de diferencia.
-5. **v1, render completo (21.540 fotogramas a 60 fps), mezcla y hoja de contactos del máster.**
+5. **v1, render completo (21.540 fotogramas a 60 fps).** El primer render se detuvo en 4:02. En el plano «A la rueda que más agarre tenía», la transición de cubo dibuja el plano entrante un instante antes de que empiece, con tiempo negativo, y el índice del patrón de agarre quedaba fuera de rango. Lo corregí y comprobé que no fallaba ningún instante desde 4:00 hasta el final, en pasos de 0,37 s. Renderizé solo ese tramo y lo empalmé con los cuatro primeros minutos.
+6. **Mezcla y hoja de contactos del máster.** El sonido del archivo queda unos 8 dB por debajo de la voz en la entrada.
 
 ## Tiempo total
 

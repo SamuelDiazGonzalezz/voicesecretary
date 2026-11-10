@@ -2077,7 +2077,7 @@ function sTraces(t, s0) {
 
 // La tracción a la rueda que más agarre tenía.
 function sGrip(t, s0, s1) {
-  const ph = Math.floor((t - s0) / 1.6) % 4;
+  const ph = Math.max(0, Math.floor((t - s0) / 1.6)) % 4;
   const grips = [[0.9, 0.4, 0.5, 0.3], [0.4, 0.5, 0.95, 0.3], [0.3, 0.9, 0.4, 0.5], [0.5, 0.3, 0.4, 0.9]][ph];
   const tq = grips.map((g) => (g === Math.max(...grips) ? 0.55 : 0.15));
   const L = toLayer('p', () => {
