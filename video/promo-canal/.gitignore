@@ -3,3 +3,5 @@ build/
 out/*
 !out/promo-evoheritage.mp4
 !out/hoja-de-contactos.jpg
+vo/take16.wav
+!out/vo-map.json
