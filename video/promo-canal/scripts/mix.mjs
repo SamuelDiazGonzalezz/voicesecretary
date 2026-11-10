@@ -24,7 +24,7 @@ ff(['-i', r('vo', 'take.mp3'), '-af',
 const clipWav = r('out', 'tmp', 'clip.wav');
 const at1 = Math.round(cut(1) * 1000), clipDur = cut(2) - cut(1) + 0.3;
 ff(['-i', r('build', 'clip-audio.wav'), '-filter_complex',
-  `[0:a]atrim=0:${clipDur},afade=t=in:d=0.05,afade=t=out:st=${clipDur - 0.35}:d=0.35,adelay=${at1}|${at1},volume=-3dB,`
+  `[0:a]atrim=0:${clipDur},afade=t=in:d=0.05,afade=t=out:st=${clipDur - 0.35}:d=0.35,adelay=${at1}|${at1},volume=-18dB,`
   + `apad=whole_dur=${DURATION},atrim=0:${DURATION}[c]`,
   '-map', '[c]', '-c:a', 'pcm_f32le', clipWav]);
 
