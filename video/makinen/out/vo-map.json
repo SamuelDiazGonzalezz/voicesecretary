@@ -1,0 +1,793 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 4.26,
+  "syl": 23,
+  "text": "En la historia del Campeonato Mundial de Rallys ha habido campeones,"
+ },
+ {
+  "i": 1,
+  "start": 4.26,
+  "end": 6.86,
+  "syl": 10,
+  "text": "ha habido leyendas y luego..."
+ },
+ {
+  "i": 2,
+  "start": 6.86,
+  "end": 8.4,
+  "syl": 9,
+  "text": "están los dioses de la grava."
+ },
+ {
+  "i": 3,
+  "start": 9.11,
+  "end": 11.04,
+  "syl": 14,
+  "text": "En la segunda mitad de los años 90,"
+ },
+ {
+  "i": 4,
+  "start": 11.19,
+  "end": 16.84,
+  "syl": 33,
+  "text": "el WRC fue un campo de batalla dominado por gigantes como Colin McRae y Carlos Sainz."
+ },
+ {
+  "i": 5,
+  "start": 17.45,
+  "end": 20.65,
+  "syl": 15,
+  "text": "Pero hubo un hombre que los doblegó a todos."
+ },
+ {
+  "i": 6,
+  "start": 20.65,
+  "end": 23.08,
+  "syl": 13,
+  "text": "Un granjero finlandés de pocas palabras,"
+ },
+ {
+  "i": 7,
+  "start": 23.08,
+  "end": 25.84,
+  "syl": 17,
+  "text": "con una mirada de hielo y un pie derecho de plomo,"
+ },
+ {
+  "i": 8,
+  "start": 25.84,
+  "end": 28.96,
+  "syl": 18,
+  "text": "que forjó una alianza indestructible con una máquina roja."
+ },
+ {
+  "i": 9,
+  "start": 29.62,
+  "end": 31.41,
+  "syl": 10,
+  "text": "Cuatro mundiales consecutivos."
+ },
+ {
+  "i": 10,
+  "start": 31.9,
+  "end": 33.56,
+  "syl": 11,
+  "text": "Una era de dominio absoluto."
+ },
+ {
+  "i": 11,
+  "start": 34.27,
+  "end": 34.55,
+  "syl": 1,
+  "text": "Hoy,"
+ },
+ {
+  "i": 12,
+  "start": 34.88,
+  "end": 39.82,
+  "syl": 32,
+  "text": "desentrañamos el mito del hombre que llevó al Mitsubishi Lancer Evolution a la cima del mundo:"
+ },
+ {
+  "i": 13,
+  "start": 40.32,
+  "end": 41.7,
+  "syl": 6,
+  "text": "el gran Tommi Mäkinen."
+ },
+ {
+  "i": 14,
+  "start": 41.7,
+  "end": 45.95,
+  "syl": 24,
+  "text": "A diferencia de otros prodigios que nacen con un volante bajo el brazo,"
+ },
+ {
+  "i": 15,
+  "start": 46.25,
+  "end": 48.84,
+  "syl": 15,
+  "text": "la historia de Mäkinen no fue una línea recta."
+ },
+ {
+  "i": 16,
+  "start": 49.43,
+  "end": 50.64,
+  "syl": 7,
+  "text": "Nacido en Puuppola,"
+ },
+ {
+  "i": 17,
+  "start": 50.64,
+  "end": 51.2,
+  "syl": 3,
+  "text": "Finlandia,"
+ },
+ {
+  "i": 18,
+  "start": 51.55,
+  "end": 53.03,
+  "syl": 10,
+  "text": "Tommi era un piloto tardío."
+ },
+ {
+  "i": 19,
+  "start": 53.56,
+  "end": 56.06,
+  "syl": 19,
+  "text": "Trabajaba conduciendo tractores y maquinaria forestal,"
+ },
+ {
+  "i": 20,
+  "start": 56.06,
+  "end": 61.49,
+  "syl": 31,
+  "text": "desarrollando una sensibilidad especial para controlar bestias pesadas sobre hielo y barro."
+ },
+ {
+  "i": 21,
+  "start": 62.07,
+  "end": 63.39,
+  "syl": 5,
+  "text": "Durante años,"
+ },
+ {
+  "i": 22,
+  "start": 63.39,
+  "end": 65.01,
+  "syl": 11,
+  "text": "peleó en categorías inferiores,"
+ },
+ {
+  "i": 23,
+  "start": 65.01,
+  "end": 68.34,
+  "syl": 18,
+  "text": "buscando patrocinios y arañando oportunidades."
+ },
+ {
+  "i": 24,
+  "start": 68.34,
+  "end": 71.09,
+  "syl": 14,
+  "text": "Pero en 1994,"
+ },
+ {
+  "i": 25,
+  "start": 71.65,
+  "end": 72.87,
+  "syl": 4,
+  "text": "todo cambió."
+ },
+ {
+  "i": 26,
+  "start": 72.87,
+  "end": 73.58,
+  "syl": 5,
+  "text": "Con 30 años,"
+ },
+ {
+  "i": 27,
+  "start": 73.58,
+  "end": 78.56,
+  "syl": 33,
+  "text": "consiguió un asiento en un Ford Escort RS Cosworth para el Rally de los 1000 Lagos en su tierra natal."
+ },
+ {
+  "i": 28,
+  "start": 79.14,
+  "end": 80.57,
+  "syl": 9,
+  "text": "Tommi no solo participó;"
+ },
+ {
+  "i": 29,
+  "start": 81.02,
+  "end": 83.88,
+  "syl": 17,
+  "text": "aplastó a la competencia y se llevó la victoria."
+ },
+ {
+  "i": 30,
+  "start": 84.48,
+  "end": 85.07,
+  "syl": 3,
+  "text": "Ese día,"
+ },
+ {
+  "i": 31,
+  "start": 85.33,
+  "end": 87.12,
+  "syl": 10,
+  "text": "el mundo descubrió a un genio."
+ },
+ {
+  "i": 32,
+  "start": 87.66,
+  "end": 88.52,
+  "syl": 5,
+  "text": "Y en los boxes,"
+ },
+ {
+  "i": 33,
+  "start": 88.64,
+  "end": 90.81,
+  "syl": 14,
+  "text": "el legendario jefe de equipo de Ralliart,"
+ },
+ {
+  "i": 34,
+  "start": 90.93,
+  "end": 91.52,
+  "syl": 3,
+  "text": "Andrew Cowan,"
+ },
+ {
+  "i": 35,
+  "start": 91.52,
+  "end": 96.26,
+  "syl": 29,
+  "text": "supo exactamente a quién necesitaba fichar para su equipo oficial Mitsubishi."
+ },
+ {
+  "i": 36,
+  "start": 96.88,
+  "end": 98.57,
+  "syl": 12,
+  "text": "En 1995,"
+ },
+ {
+  "i": 37,
+  "start": 98.73,
+  "end": 101.49,
+  "syl": 16,
+  "text": "Mäkinen se subió al Mitsubishi Lancer Evolution."
+ },
+ {
+  "i": 38,
+  "start": 102.0,
+  "end": 105.52,
+  "syl": 16,
+  "text": "Y aquí es donde la historia se vuelve mágica."
+ },
+ {
+  "i": 39,
+  "start": 105.52,
+  "end": 109.74,
+  "syl": 18,
+  "text": "Piloto y máquina se fusionaron en un solo ente."
+ },
+ {
+  "i": 40,
+  "start": 109.96,
+  "end": 113.49,
+  "syl": 19,
+  "text": "El \"Evo\" era un coche de la vieja escuela del Grupo A."
+ },
+ {
+  "i": 41,
+  "start": 113.49,
+  "end": 120.77,
+  "syl": 45,
+  "text": "Mientras rivales como Subaru y Ford empezaban a construir los nuevos \"World Rally Cars\" —prototipos con mayor libertad técnica y chasis ensanchados—,"
+ },
+ {
+  "i": 42,
+  "start": 120.77,
+  "end": 124.72,
+  "syl": 18,
+  "text": "Mitsubishi y Mäkinen se mantuvieron fieles al Grupo A,"
+ },
+ {
+  "i": 43,
+  "start": 125.03,
+  "end": 128.64,
+  "syl": 24,
+  "text": "utilizando una carrocería basada estrictamente en el coche de calle."
+ },
+ {
+  "i": 44,
+  "start": 129.21,
+  "end": 131.54,
+  "syl": 19,
+  "text": "¿Cómo lograban ganar a coches sobre el papel superiores?"
+ },
+ {
+  "i": 45,
+  "start": 131.54,
+  "end": 136.17,
+  "syl": 24,
+  "text": "La respuesta estaba en la electrónica y en el corazón de la bestia."
+ },
+ {
+  "i": 46,
+  "start": 136.7,
+  "end": 141.58,
+  "syl": 29,
+  "text": "Bajo el capó latía el indestructible motor 4G63 turboalimentado,"
+ },
+ {
+  "i": 47,
+  "start": 141.88,
+  "end": 142.73,
+  "syl": 6,
+  "text": "y bajo el chasis,"
+ },
+ {
+  "i": 48,
+  "start": 142.99,
+  "end": 147.67,
+  "syl": 32,
+  "text": "Mitsubishi desarrolló un sistema de tracción con diferenciales activos que rozaba la brujería."
+ },
+ {
+  "i": 49,
+  "start": 147.67,
+  "end": 153.46,
+  "syl": 35,
+  "text": "Tommi ayudó a calibrar esa electrónica para que el coche rotara exactamente como él quería."
+ },
+ {
+  "i": 50,
+  "start": 153.89,
+  "end": 155.51,
+  "syl": 12,
+  "text": "No necesitaba un coche más ancho;"
+ },
+ {
+  "i": 51,
+  "start": 155.93,
+  "end": 159.69,
+  "syl": 18,
+  "text": "tenía el arma más afilada del parque de asistencia."
+ },
+ {
+  "i": 52,
+  "start": 159.69,
+  "end": 163.66,
+  "syl": 23,
+  "text": "De 1996 a 1999,"
+ },
+ {
+  "i": 53,
+  "start": 163.66,
+  "end": 165.42,
+  "syl": 10,
+  "text": "Tommi Mäkinen instauró una tiranía."
+ },
+ {
+  "i": 54,
+  "start": 165.98,
+  "end": 168.34,
+  "syl": 15,
+  "text": "Cuatro campeonatos del mundo consecutivos,"
+ },
+ {
+  "i": 55,
+  "start": 168.66,
+  "end": 172.09,
+  "syl": 20,
+  "text": "un récord que nadie había logrado antes en la historia del rally."
+ },
+ {
+  "i": 56,
+  "start": 172.62,
+  "end": 176.51,
+  "syl": 23,
+  "text": "Su rivalidad con el Subaru de Colin McRae definió una generación."
+ },
+ {
+  "i": 57,
+  "start": 177.01,
+  "end": 179.94,
+  "syl": 13,
+  "text": "Era el duelo del fuego contra el hielo."
+ },
+ {
+  "i": 58,
+  "start": 179.94,
+  "end": 182.15,
+  "syl": 11,
+  "text": "McRae era puro espectáculo,"
+ },
+ {
+  "i": 59,
+  "start": 182.15,
+  "end": 184.03,
+  "syl": 12,
+  "text": "derrapes largos y conducción visceral."
+ },
+ {
+  "i": 60,
+  "start": 184.51,
+  "end": 186.32,
+  "syl": 11,
+  "text": "Mäkinen era la precisión nórdica,"
+ },
+ {
+  "i": 61,
+  "start": 186.32,
+  "end": 188.01,
+  "syl": 7,
+  "text": "la eficiencia brutal."
+ },
+ {
+  "i": 62,
+  "start": 188.01,
+  "end": 194.58,
+  "syl": 33,
+  "text": "El clímax de esta locura llegó en el Mundial de 1998 frente a Carlos Sainz."
+ },
+ {
+  "i": 63,
+  "start": 194.58,
+  "end": 195.8,
+  "syl": 8,
+  "text": "En el último rally del año,"
+ },
+ {
+  "i": 64,
+  "start": 195.94,
+  "end": 196.73,
+  "syl": 5,
+  "text": "en Gran Bretaña,"
+ },
+ {
+  "i": 65,
+  "start": 197.05,
+  "end": 201.67,
+  "syl": 30,
+  "text": "Mäkinen arrancó una rueda de su Mitsubishi en una mancha de aceite y tuvo que retirarse."
+ },
+ {
+  "i": 66,
+  "start": 202.21,
+  "end": 204.01,
+  "syl": 12,
+  "text": "Parecía que el título era de Sainz."
+ },
+ {
+  "i": 67,
+  "start": 204.48,
+  "end": 206.82,
+  "syl": 16,
+  "text": "Pero a solo 300 metros de la meta final,"
+ },
+ {
+  "i": 68,
+  "start": 207.12,
+  "end": 209.49,
+  "syl": 14,
+  "text": "el motor del Corolla del español reventó."
+ },
+ {
+  "i": 69,
+  "start": 210.03,
+  "end": 210.43,
+  "syl": 2,
+  "text": "Mäkinen,"
+ },
+ {
+  "i": 70,
+  "start": 210.43,
+  "end": 213.62,
+  "syl": 23,
+  "text": "que ya estaba haciendo las maletas en su hotel para volver a casa,"
+ },
+ {
+  "i": 71,
+  "start": 213.91,
+  "end": 215.79,
+  "syl": 12,
+  "text": "recibió una llamada telefónica."
+ },
+ {
+  "i": 72,
+  "start": 216.86,
+  "end": 222.31,
+  "syl": 36,
+  "text": "El granjero finlandés acababa de coronarse tricampeón del mundo sentado en la cama de su habitación."
+ },
+ {
+  "i": 73,
+  "start": 222.82,
+  "end": 224.22,
+  "syl": 9,
+  "text": "Pero no nos equivoquemos,"
+ },
+ {
+  "i": 74,
+  "start": 224.52,
+  "end": 226.73,
+  "syl": 14,
+  "text": "Mäkinen no era solo una calculadora fría."
+ },
+ {
+  "i": 75,
+  "start": 226.73,
+  "end": 229.73,
+  "syl": 14,
+  "text": "Su estilo de pilotaje era salvaje."
+ },
+ {
+  "i": 76,
+  "start": 230.04,
+  "end": 234.54,
+  "syl": 23,
+  "text": "Era un maestro absoluto de la técnica del pie izquierdo en el freno."
+ },
+ {
+  "i": 77,
+  "start": 234.54,
+  "end": 240.67,
+  "syl": 37,
+  "text": "Aceleraba a fondo con el derecho mientras usaba el freno para equilibrar el peso del coche en pleno vuelo,"
+ },
+ {
+  "i": 78,
+  "start": 240.67,
+  "end": 247.09,
+  "syl": 41,
+  "text": "obligando a los diferenciales activos del Mitsubishi a enviar la tracción exactamente a la rueda que más agarre tenía."
+ },
+ {
+  "i": 79,
+  "start": 247.09,
+  "end": 250.21,
+  "syl": 21,
+  "text": "Iba tan al límite que a veces la física le pasaba factura."
+ },
+ {
+  "i": 80,
+  "start": 250.8,
+  "end": 251.99,
+  "syl": 7,
+  "text": "Si el coche se rompía,"
+ },
+ {
+  "i": 81,
+  "start": 252.34,
+  "end": 253.72,
+  "syl": 9,
+  "text": "Tommi seguía acelerando."
+ },
+ {
+  "i": 82,
+  "start": 254.16,
+  "end": 256.76,
+  "syl": 14,
+  "text": "Lo hemos visto llegar a meta en tres ruedas,"
+ },
+ {
+  "i": 83,
+  "start": 256.76,
+  "end": 259.6,
+  "syl": 17,
+  "text": "o destrozar el coche en accidentes espeluznantes,"
+ },
+ {
+  "i": 84,
+  "start": 259.6,
+  "end": 262.42,
+  "syl": 18,
+  "text": "como sus salvajes vuelcos en Argentina o en Córcega."
+ },
+ {
+  "i": 85,
+  "start": 263.01,
+  "end": 265.91,
+  "syl": 15,
+  "text": "No importaba el daño físico o mecánico;"
+ },
+ {
+  "i": 86,
+  "start": 265.91,
+  "end": 268.45,
+  "syl": 15,
+  "text": "el cerebro de Mäkinen solo entendía una orden:"
+ },
+ {
+  "i": 87,
+  "start": 268.88,
+  "end": 271.25,
+  "syl": 16,
+  "text": "máxima velocidad hasta la línea de meta."
+ },
+ {
+  "i": 88,
+  "start": 271.85,
+  "end": 276.03,
+  "syl": 28,
+  "text": "Con la llegada del nuevo milenio y la maduración del reglamento WRC,"
+ },
+ {
+  "i": 89,
+  "start": 276.4,
+  "end": 278.61,
+  "syl": 13,
+  "text": "el milagro del Grupo A llegó a su fin."
+ },
+ {
+  "i": 90,
+  "start": 279.13,
+  "end": 284.72,
+  "syl": 28,
+  "text": "Peugeot irrumpió con el 206 y la era de Mitsubishi comenzó a apagarse."
+ },
+ {
+  "i": 91,
+  "start": 284.72,
+  "end": 286.28,
+  "syl": 12,
+  "text": "En un giro dramático del destino,"
+ },
+ {
+  "i": 92,
+  "start": 286.6,
+  "end": 291.24,
+  "syl": 26,
+  "text": "Mäkinen dejó la marca de su vida en 2002 para fichar por su eterno rival:"
+ },
+ {
+  "i": 93,
+  "start": 291.24,
+  "end": 292.46,
+  "syl": 3,
+  "text": "Subaru."
+ },
+ {
+  "i": 94,
+  "start": 292.46,
+  "end": 294.6,
+  "syl": 13,
+  "text": "Allí demostró que la magia seguía intacta,"
+ },
+ {
+  "i": 95,
+  "start": 294.78,
+  "end": 300.02,
+  "syl": 31,
+  "text": "ganando en su debut absoluto en el Rally de Montecarlo frente al joven prodigio Sébastien Loeb."
+ },
+ {
+  "i": 96,
+  "start": 300.64,
+  "end": 301.54,
+  "syl": 4,
+  "text": "En 2003,"
+ },
+ {
+  "i": 97,
+  "start": 301.7,
+  "end": 303.7,
+  "syl": 12,
+  "text": "tras 24 victorias en el mundial,"
+ },
+ {
+  "i": 98,
+  "start": 304.04,
+  "end": 306.07,
+  "syl": 11,
+  "text": "el Rey abdicó y colgó el casco,"
+ },
+ {
+  "i": 99,
+  "start": 306.32,
+  "end": 309.24,
+  "syl": 15,
+  "text": "dejando a Petter Solberg como su heredero."
+ },
+ {
+  "i": 100,
+  "start": 309.24,
+  "end": 311.23,
+  "syl": 13,
+  "text": "Pero las leyendas nunca se van del todo."
+ },
+ {
+  "i": 101,
+  "start": 311.8,
+  "end": 312.58,
+  "syl": 4,
+  "text": "Años después,"
+ },
+ {
+  "i": 102,
+  "start": 312.9,
+  "end": 314.35,
+  "syl": 10,
+  "text": "Tommi volvió al campeonato,"
+ },
+ {
+  "i": 103,
+  "start": 314.71,
+  "end": 318.99,
+  "syl": 24,
+  "text": "esta vez como el arquitecto y jefe del equipo Toyota Gazoo Racing,"
+ },
+ {
+  "i": 104,
+  "start": 319.25,
+  "end": 323.3,
+  "syl": 23,
+  "text": "creando la máquina campeona que devolvió a la marca a la gloria."
+ },
+ {
+  "i": 105,
+  "start": 323.3,
+  "end": 329.42,
+  "syl": 38,
+  "text": "Tommi Mäkinen nos enseñó que no necesitas el coche más sofisticado si tienes la voluntad más de hierro del planeta."
+ },
+ {
+  "i": 106,
+  "start": 330.02,
+  "end": 333.67,
+  "syl": 21,
+  "text": "Su nombre quedó inmortalizado no solo en los libros de historia,"
+ },
+ {
+  "i": 107,
+  "start": 333.67,
+  "end": 337.91,
+  "syl": 30,
+  "text": "sino en la tapa del maletero de uno de los mejores deportivos de calle jamás creados:"
+ },
+ {
+  "i": 108,
+  "start": 338.1,
+  "end": 341.15,
+  "syl": 17,
+  "text": "el Mitsubishi Lancer Evo VI Tommi Mäkinen Edition."
+ },
+ {
+  "i": 109,
+  "start": 341.15,
+  "end": 344.86,
+  "syl": 17,
+  "text": "¿Es para ti el mejor piloto de los años 90?"
+ },
+ {
+  "i": 110,
+  "start": 345.35,
+  "end": 346.68,
+  "syl": 10,
+  "text": "Cuéntamelo en los comentarios,"
+ },
+ {
+  "i": 111,
+  "start": 346.85,
+  "end": 350.59,
+  "syl": 24,
+  "text": "dale un buen like y suscríbete para mantener viva la herencia del motor."
+ },
+ {
+  "i": 112,
+  "start": 350.98,
+  "end": 352.57,
+  "syl": 10,
+  "text": "¡Nos vemos en el próximo tramo!"
+ }
+]

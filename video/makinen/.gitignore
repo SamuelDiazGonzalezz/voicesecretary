@@ -1,0 +1,7 @@
+node_modules
+build/
+vo/take16.wav
+out/*
+!out/makinen.mp4
+!out/hoja-de-contactos.jpg
+!out/vo-map.json
