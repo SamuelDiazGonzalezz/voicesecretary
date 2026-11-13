@@ -1696,11 +1696,11 @@ function axes(x0, y0, w, h, appear = 1) {
 // ---------------------------------------------------------------------------
 // Coche de rally moderno de perfil (frente a la derecha): un compacto de cinco puertas como los WRC actuales.
 // Origen en el suelo, a mitad de batalla. Ruedas de radio 92 con el centro a 92 del suelo.
-const LEN = 0.9; // el cliente lo pidió un poco menos largo
+const LEN = 0.82; // el cliente lo pidió más corto (dos veces)
 const CAR = { r: 92, wy: -92, fx: 345 * LEN, rx: -335 * LEN };
 // Proporciones de un WRC compacto: unas 6 veces el diámetro de la rueda de largo y 2 de alto.
 const BODY = [
-  [520, -52], [538, -96], [536, -130], [508, -164], [372, -186], [235, -200],     // paragolpes, morro y capó
+  [520, -52], [540, -100], [540, -150], [512, -196], [380, -220], [240, -232],     // paragolpes, morro y capó (por encima de la rueda)
   [86, -306], [-30, -324], [-280, -326], [-392, -316],                             // parabrisas y techo
   [-448, -288], [-488, -210], [-504, -164], [-514, -110], [-510, -52],             // portón casi vertical y paragolpes
 ];
@@ -1728,11 +1728,11 @@ function drawRallyCar(t, { cx, cy, s = 1, pitch = 0, droop = 0, rot = 0, appear 
   path(); ctx.fillStyle = COLOR.ink2; ctx.fill(); ctx.strokeStyle = COLOR.paper; ctx.lineWidth = 3 / s; ctx.stroke();
   // Ventanillas, pilar B y línea de la puerta.
   ctx.lineWidth = 2.4 / s;
-  ctx.beginPath(); ctx.moveTo(220, -206); ctx.lineTo(80, -296); ctx.lineTo(-270, -310); ctx.lineTo(-372, -302); ctx.lineTo(-420, -222); ctx.closePath(); ctx.stroke();
+  ctx.beginPath(); ctx.moveTo(224, -236); ctx.lineTo(80, -296); ctx.lineTo(-270, -310); ctx.lineTo(-372, -302); ctx.lineTo(-420, -222); ctx.closePath(); ctx.stroke();
   ctx.beginPath(); ctx.moveTo(-90, -308); ctx.lineTo(-94, -214); ctx.stroke();
   ctx.globalAlpha *= 0.5;
-  ctx.beginPath(); ctx.moveTo(222, -200); ctx.lineTo(214, -62); ctx.moveTo(-94, -214); ctx.lineTo(-98, -62); ctx.moveTo(-420, -218); ctx.lineTo(-424, -150); ctx.stroke();
-  ctx.beginPath(); ctx.moveTo(508, -150); ctx.lineTo(372, -170); ctx.stroke(); // línea del capó
+  ctx.beginPath(); ctx.moveTo(226, -230); ctx.lineTo(214, -62); ctx.moveTo(-94, -214); ctx.lineTo(-98, -62); ctx.moveTo(-420, -218); ctx.lineTo(-424, -150); ctx.stroke();
+  ctx.beginPath(); ctx.moveTo(512, -180); ctx.lineTo(380, -204); ctx.stroke(); // línea del capó
   ctx.globalAlpha /= 0.5;
   // Alerón de techo y faldón delantero (se recortan con la normativa Rally1).
   if (wing > 0) {
