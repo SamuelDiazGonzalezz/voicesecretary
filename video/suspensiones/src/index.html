@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>La evolución de las suspensiones</title>
+<style>
+  html, body { margin: 0; background: #0B0C0E; }
+  canvas { display: block; width: 100vw; height: auto; max-height: 100vh; object-fit: contain; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1920" height="1080"></canvas>
+<script type="module">
+  import { init, seek, CLIP_N, CLIP_USE } from './scenes.js';
+  import { DURATION } from './timeline.js';
+
+  const fonts = [400, 600, 700, 800, 900].map((w) => ['Overpass', `Overpass-${w}.woff2`, { weight: String(w) }]);
+  const images = ['amortiguadorRueda', 'amortiguadoresMorados', 'amortiguadoresRojos', 'asistenciaCitroen', 'asistenciaLancia', 'asistenciaS4',
+    'chasisTubular', 's4Despiece', 'stratos1975', 'suspensionS4', 'vanoMotor'];
+  const loadImg = (src) => new Promise((ok) => { const i = new Image(); i.onload = () => ok(i); i.onerror = () => ok(null); i.src = src; });
+  const assets = { clips: {} };
+
+  // Carga los fotogramas de un tramo de archivo solo mientras se usa (y libera los demás).
+  window.preload = async (t) => {
+    for (const seg of Object.keys(CLIP_N)) {
+      const need = CLIP_USE.some(([a, b, s]) => s === seg && t >= a && t <= b);
+      if (need && !assets.clips[seg]) {
+        const n = CLIP_N[seg];
+        assets.clips[seg] = await Promise.all(Array.from({ length: n }, (_, i) => loadImg(`../build/clip/${seg}/f${String(i + 1).padStart(3, '0')}.jpg`)));
+      } else if (!need && assets.clips[seg]) delete assets.clips[seg];
+    }
+  };
+
+  window.ready = (async () => {
+    await Promise.all(fonts.map(async ([family, file, desc]) => {
+      const f = new FontFace(family, `url(../assets/fonts/${file})`, desc);
+      await f.load();
+      document.fonts.add(f);
+    }));
+    for (const k of images) { const im = await loadImg(`../build/img/${k}.jpg`); if (im) assets[k] = im; }
+    assets.logo = await loadImg('../build/img/logo.png');
+    init(assets);
+    const canvas = document.getElementById('c');
+    window.seek = (t) => seek(canvas, t);
+    window.canvas = canvas;
+    await window.preload(0);
+    seek(canvas, 0);
+    if (!location.search.includes('still')) {
+      const t0 = performance.now();
+      const loop = async () => { const t = ((performance.now() - t0) / 1000) % DURATION; await window.preload(t); seek(canvas, t); requestAnimationFrame(loop); };
+      requestAnimationFrame(loop);
+    }
+    return Object.keys(assets);
+  })();
+</script>
+</body>
+</html>

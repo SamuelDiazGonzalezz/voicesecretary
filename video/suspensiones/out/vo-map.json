@@ -1,0 +1,926 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 1.09,
+  "syl": 7,
+  "text": "En el mundo del motor,"
+ },
+ {
+  "i": 1,
+  "start": 1.09,
+  "end": 4.17,
+  "syl": 18,
+  "text": "la gente está obsesionada con los caballos de fuerza,"
+ },
+ {
+  "i": 2,
+  "start": 4.31,
+  "end": 7.34,
+  "syl": 12,
+  "text": "los turbos y la aerodinámica."
+ },
+ {
+  "i": 3,
+  "start": 7.34,
+  "end": 8.16,
+  "syl": 5,
+  "text": "Pero en los rallys,"
+ },
+ {
+  "i": 4,
+  "start": 8.16,
+  "end": 9.25,
+  "syl": 8,
+  "text": "hay una regla no escrita,"
+ },
+ {
+  "i": 5,
+  "start": 9.58,
+  "end": 11.61,
+  "syl": 9,
+  "text": "una ley física inquebrantable:"
+ },
+ {
+  "i": 6,
+  "start": 12.21,
+  "end": 17.45,
+  "syl": 31,
+  "text": "la potencia no sirve de absolutamente nada si los neumáticos no están tocando el suelo."
+ },
+ {
+  "i": 7,
+  "start": 18.29,
+  "end": 27.1,
+  "syl": 51,
+  "text": "Ver a un World Rally Car volar 50 metros a 160 kilómetros por hora y aterrizar sobre un camino de piedras sin desintegrarse no es magia."
+ },
+ {
+  "i": 8,
+  "start": 27.44,
+  "end": 32.24,
+  "syl": 28,
+  "text": "Es el resultado de décadas de la ingeniería más extrema y torturosa del planeta."
+ },
+ {
+  "i": 9,
+  "start": 33.06,
+  "end": 38.38,
+  "syl": 35,
+  "text": "Hoy vamos a viajar a las entrañas del chasis y a diseccionar el verdadero corazón de un coche de rally:"
+ },
+ {
+  "i": 10,
+  "start": 38.94,
+  "end": 40.73,
+  "syl": 10,
+  "text": "la evolución de la suspensión."
+ },
+ {
+  "i": 11,
+  "start": 41.66,
+  "end": 44.06,
+  "syl": 10,
+  "text": "Viajemos a los años 70."
+ },
+ {
+  "i": 12,
+  "start": 44.06,
+  "end": 45.0,
+  "syl": 8,
+  "text": "Los tramos eran más largos,"
+ },
+ {
+  "i": 13,
+  "start": 45.0,
+  "end": 46.01,
+  "syl": 4,
+  "text": "más salvajes,"
+ },
+ {
+  "i": 14,
+  "start": 46.01,
+  "end": 47.36,
+  "syl": 4,
+  "text": "y los coches..."
+ },
+ {
+  "i": 15,
+  "start": 47.91,
+  "end": 48.28,
+  "syl": 2,
+  "text": "bueno,"
+ },
+ {
+  "i": 16,
+  "start": 48.6,
+  "end": 49.99,
+  "syl": 10,
+  "text": "los coches apenas sobrevivían."
+ },
+ {
+  "i": 17,
+  "start": 49.99,
+  "end": 51.76,
+  "syl": 6,
+  "text": "En esta época,"
+ },
+ {
+  "i": 18,
+  "start": 51.92,
+  "end": 54.71,
+  "syl": 15,
+  "text": "las suspensiones eran increíblemente primitivas."
+ },
+ {
+  "i": 19,
+  "start": 55.29,
+  "end": 59.54,
+  "syl": 25,
+  "text": "Muchos coches aún utilizaban ejes rígidos en la parte trasera y ballestas,"
+ },
+ {
+  "i": 20,
+  "start": 59.75,
+  "end": 62.49,
+  "syl": 17,
+  "text": "una tecnología heredada de los carros de caballos."
+ },
+ {
+  "i": 21,
+  "start": 63.14,
+  "end": 64.94,
+  "syl": 10,
+  "text": "El recorrido de la suspensión,"
+ },
+ {
+  "i": 22,
+  "start": 64.94,
+  "end": 65.45,
+  "syl": 3,
+  "text": "es decir,"
+ },
+ {
+  "i": 23,
+  "start": 65.65,
+  "end": 67.21,
+  "syl": 12,
+  "text": "lo que la rueda puede subir y bajar,"
+ },
+ {
+  "i": 24,
+  "start": 67.21,
+  "end": 69.66,
+  "syl": 14,
+  "text": "era de apenas 10 o 15 centímetros."
+ },
+ {
+  "i": 25,
+  "start": 69.66,
+  "end": 73.65,
+  "syl": 19,
+  "text": "Los amortiguadores eran simples tubos llenos de aceite."
+ },
+ {
+  "i": 26,
+  "start": 74.26,
+  "end": 76.61,
+  "syl": 15,
+  "text": "Cuando el aceite se calentaba por los baches,"
+ },
+ {
+  "i": 27,
+  "start": 76.61,
+  "end": 76.99,
+  "syl": 2,
+  "text": "hervía,"
+ },
+ {
+  "i": 28,
+  "start": 77.25,
+  "end": 82.58,
+  "syl": 28,
+  "text": "creaba burbujas (un fenómeno llamado cavitación) y perdía todas sus propiedades."
+ },
+ {
+  "i": 29,
+  "start": 83.21,
+  "end": 84.29,
+  "syl": 6,
+  "text": "En los tramos largos,"
+ },
+ {
+  "i": 30,
+  "start": 84.46,
+  "end": 87.44,
+  "syl": 19,
+  "text": "los pilotos terminaban conduciendo sobre los muelles puros,"
+ },
+ {
+  "i": 31,
+  "start": 87.57,
+  "end": 88.93,
+  "syl": 7,
+  "text": "rebotando sin control."
+ },
+ {
+  "i": 32,
+  "start": 89.34,
+  "end": 95.39,
+  "syl": 33,
+  "text": "Era una época donde el piloto tenía que luchar contra el coche tanto como contra el cronómetro."
+ },
+ {
+  "i": 33,
+  "start": 95.39,
+  "end": 98.51,
+  "syl": 22,
+  "text": "Pero llegaron los años 80 y estalló la bomba del Grupo B."
+ },
+ {
+  "i": 34,
+  "start": 99.08,
+  "end": 105.57,
+  "syl": 37,
+  "text": "Los coches pasaron de 250 a 500 caballos de fuerza y adoptaron la tracción a las cuatro ruedas."
+ },
+ {
+  "i": 35,
+  "start": 106.22,
+  "end": 106.89,
+  "syl": 4,
+  "text": "De repente,"
+ },
+ {
+  "i": 36,
+  "start": 107.07,
+  "end": 110.57,
+  "syl": 22,
+  "text": "las velocidades de paso por curva y los saltos se multiplicaron."
+ },
+ {
+  "i": 37,
+  "start": 111.13,
+  "end": 113.81,
+  "syl": 15,
+  "text": "La suspensión tradicional se rompía en pedazos."
+ },
+ {
+  "i": 38,
+  "start": 114.28,
+  "end": 116.33,
+  "syl": 12,
+  "text": "Los ingenieros estaban desesperados."
+ },
+ {
+  "i": 39,
+  "start": 116.82,
+  "end": 120.65,
+  "syl": 26,
+  "text": "El calor generado por las fricciones internas destrozaba el aceite en minutos."
+ },
+ {
+  "i": 40,
+  "start": 120.65,
+  "end": 122.89,
+  "syl": 8,
+  "text": "¿La solución del Grupo B?"
+ },
+ {
+  "i": 41,
+  "start": 123.39,
+  "end": 124.79,
+  "syl": 7,
+  "text": "Multiplicar el hardware."
+ },
+ {
+  "i": 42,
+  "start": 125.38,
+  "end": 131.42,
+  "syl": 37,
+  "text": "Coches como el Lancia Delta S4 o el Audi Quattro implementaron sistemas de doble amortiguador por rueda."
+ },
+ {
+  "i": 43,
+  "start": 131.97,
+  "end": 134.09,
+  "syl": 14,
+  "text": "Si un amortiguador se sobrecalentaba,"
+ },
+ {
+  "i": 44,
+  "start": 134.09,
+  "end": 134.8,
+  "syl": 3,
+  "text": "ponían dos."
+ },
+ {
+  "i": 45,
+  "start": 135.36,
+  "end": 135.76,
+  "syl": 3,
+  "text": "Además,"
+ },
+ {
+  "i": 46,
+  "start": 135.9,
+  "end": 137.08,
+  "syl": 7,
+  "text": "la geometría cambió."
+ },
+ {
+  "i": 47,
+  "start": 137.62,
+  "end": 146.84,
+  "syl": 51,
+  "text": "Se instauró el esquema de dobles triángulos y estructuras tubulares de titanio para soportar las fuerzas G laterales que ahora permitía la tracción total."
+ },
+ {
+  "i": 48,
+  "start": 146.84,
+  "end": 150.49,
+  "syl": 22,
+  "text": "Pero seguir añadiendo peso no era la solución definitiva."
+ },
+ {
+  "i": 49,
+  "start": 150.49,
+  "end": 152.16,
+  "syl": 9,
+  "text": "Se necesitaba más ciencia."
+ },
+ {
+  "i": 50,
+  "start": 152.51,
+  "end": 153.58,
+  "syl": 7,
+  "text": "En los años 90,"
+ },
+ {
+  "i": 51,
+  "start": 153.77,
+  "end": 154.53,
+  "syl": 5,
+  "text": "con el Grupo A,"
+ },
+ {
+  "i": 52,
+  "start": 154.88,
+  "end": 157.25,
+  "syl": 14,
+  "text": "los coches debían basarse en chasis de calle,"
+ },
+ {
+  "i": 53,
+  "start": 157.62,
+  "end": 161.03,
+  "syl": 21,
+  "text": "por lo que el esquema MacPherson se convirtió en el estándar mundial."
+ },
+ {
+  "i": 54,
+  "start": 161.47,
+  "end": 164.83,
+  "syl": 21,
+  "text": "Pero lo que cambió radicalmente fue el interior del amortiguador."
+ },
+ {
+  "i": 55,
+  "start": 165.33,
+  "end": 166.85,
+  "syl": 11,
+  "text": "Entramos en la era de los fluidos."
+ },
+ {
+  "i": 56,
+  "start": 166.85,
+  "end": 170.82,
+  "syl": 23,
+  "text": "Para solucionar el problema de la cavitación y el calentamiento,"
+ },
+ {
+  "i": 57,
+  "start": 171.1,
+  "end": 173.4,
+  "syl": 15,
+  "text": "las marcas introdujeron el depósito remoto."
+ },
+ {
+  "i": 58,
+  "start": 173.94,
+  "end": 180.36,
+  "syl": 42,
+  "text": "Los ingenieros sacaron parte del volumen interno del amortiguador a un cilindro externo conectado por un latiguillo trenzado."
+ },
+ {
+  "i": 59,
+  "start": 180.36,
+  "end": 182.17,
+  "syl": 8,
+  "text": "Dentro de ese cilindro,"
+ },
+ {
+  "i": 60,
+  "start": 182.17,
+  "end": 184.49,
+  "syl": 13,
+  "text": "metieron gas nitrógeno a alta presión,"
+ },
+ {
+  "i": 61,
+  "start": 184.75,
+  "end": 186.57,
+  "syl": 12,
+  "text": "separado del aceite por un pistón."
+ },
+ {
+  "i": 62,
+  "start": 187.06,
+  "end": 188.88,
+  "syl": 12,
+  "text": "Este gas presurizaba el sistema,"
+ },
+ {
+  "i": 63,
+  "start": 189.17,
+  "end": 191.73,
+  "syl": 16,
+  "text": "impidiendo físicamente que el aceite hirviera,"
+ },
+ {
+  "i": 64,
+  "start": 191.86,
+  "end": 193.85,
+  "syl": 13,
+  "text": "sin importar a qué temperatura llegara."
+ },
+ {
+  "i": 65,
+  "start": 194.37,
+  "end": 195.14,
+  "syl": 3,
+  "text": "Ahora,"
+ },
+ {
+  "i": 66,
+  "start": 195.14,
+  "end": 199.23,
+  "syl": 29,
+  "text": "Colin McRae podía ir rebotando contra las piedras de Grecia durante 40 kilómetros,"
+ },
+ {
+  "i": 67,
+  "start": 199.23,
+  "end": 201.59,
+  "syl": 12,
+  "text": "y en el kilómetro 41,"
+ },
+ {
+  "i": 68,
+  "start": 201.74,
+  "end": 205.18,
+  "syl": 22,
+  "text": "la suspensión seguía funcionando exactamente igual que en la salida."
+ },
+ {
+  "i": 69,
+  "start": 205.18,
+  "end": 209.45,
+  "syl": 23,
+  "text": "Con la llegada de los World Rally Cars en 1997,"
+ },
+ {
+  "i": 70,
+  "start": 209.68,
+  "end": 210.85,
+  "syl": 8,
+  "text": "el reglamento se abrió."
+ },
+ {
+  "i": 71,
+  "start": 211.31,
+  "end": 215.54,
+  "syl": 27,
+  "text": "Los recorridos de suspensión se estiraron más allá de los 25 centímetros."
+ },
+ {
+  "i": 72,
+  "start": 215.88,
+  "end": 219.62,
+  "syl": 28,
+  "text": "Y los ingenieros atacaron el mayor enemigo de la dinámica de un vehículo:"
+ },
+ {
+  "i": 73,
+  "start": 220.03,
+  "end": 221.48,
+  "syl": 8,
+  "text": "la masa no suspendida."
+ },
+ {
+  "i": 74,
+  "start": 221.48,
+  "end": 229.45,
+  "syl": 48,
+  "text": "La regla de oro de la ingeniería de suspensiones es que todo lo que está conectado directamente a la rueda debe ser lo más ligero posible,"
+ },
+ {
+  "i": 75,
+  "start": 229.66,
+  "end": 231.92,
+  "syl": 16,
+  "text": "para que pueda reaccionar rápido a los baches."
+ },
+ {
+  "i": 76,
+  "start": 232.35,
+  "end": 233.02,
+  "syl": 5,
+  "text": "Para lograrlo,"
+ },
+ {
+  "i": 77,
+  "start": 233.16,
+  "end": 235.26,
+  "syl": 15,
+  "text": "inventaron el amortiguador MacPherson invertido."
+ },
+ {
+  "i": 78,
+  "start": 235.26,
+  "end": 239.37,
+  "syl": 24,
+  "text": "En lugar de poner el tubo grueso abajo y la varilla fina arriba,"
+ },
+ {
+  "i": 79,
+  "start": 239.59,
+  "end": 240.57,
+  "syl": 6,
+  "text": "le dieron la vuelta."
+ },
+ {
+  "i": 80,
+  "start": 240.97,
+  "end": 242.41,
+  "syl": 9,
+  "text": "El grueso tubo contenedor,"
+ },
+ {
+  "i": 81,
+  "start": 242.53,
+  "end": 243.25,
+  "syl": 4,
+  "text": "que pesa más,"
+ },
+ {
+  "i": 82,
+  "start": 243.49,
+  "end": 245.84,
+  "syl": 14,
+  "text": "se ancla rígidamente al chasis del coche,"
+ },
+ {
+  "i": 83,
+  "start": 246.06,
+  "end": 249.54,
+  "syl": 22,
+  "text": "mientras que la parte más ligera es la que sube y baja con la rueda."
+ },
+ {
+  "i": 84,
+  "start": 249.95,
+  "end": 252.99,
+  "syl": 22,
+  "text": "Esto no solo hizo que la rueda reaccionara en milisegundos,"
+ },
+ {
+  "i": 85,
+  "start": 253.32,
+  "end": 261.69,
+  "syl": 51,
+  "text": "sino que aportó una rigidez estructural monstruosa capaz de aguantar fuerzas laterales en asfalto que destrozarían un coche de calle en la primera curva."
+ },
+ {
+  "i": 86,
+  "start": 262.12,
+  "end": 263.42,
+  "syl": 9,
+  "text": "Pero si miras un rally hoy,"
+ },
+ {
+  "i": 87,
+  "start": 263.6,
+  "end": 264.96,
+  "syl": 9,
+  "text": "verás algo antinatural."
+ },
+ {
+  "i": 88,
+  "start": 265.45,
+  "end": 267.29,
+  "syl": 11,
+  "text": "Cuando un WRC salta,"
+ },
+ {
+  "i": 89,
+  "start": 267.59,
+  "end": 268.97,
+  "syl": 9,
+  "text": "el coche vuela nivelado,"
+ },
+ {
+  "i": 90,
+  "start": 269.25,
+  "end": 270.9,
+  "syl": 10,
+  "text": "y al aterrizar no rebota."
+ },
+ {
+  "i": 91,
+  "start": 271.31,
+  "end": 273.04,
+  "syl": 11,
+  "text": "Y cuando pasa sobre agujeros,"
+ },
+ {
+  "i": 92,
+  "start": 273.04,
+  "end": 278.27,
+  "syl": 32,
+  "text": "parece que la carrocería flota plana mientras las ruedas se vuelven locas buscando el fondo del bache."
+ },
+ {
+  "i": 93,
+  "start": 278.75,
+  "end": 279.69,
+  "syl": 6,
+  "text": "¿Cómo es posible?"
+ },
+ {
+  "i": 94,
+  "start": 280.15,
+  "end": 284.44,
+  "syl": 25,
+  "text": "Bienvenidos a la magia de las válvulas de frecuencia y los topes hidráulicos."
+ },
+ {
+  "i": 95,
+  "start": 284.89,
+  "end": 285.59,
+  "syl": 5,
+  "text": "En el pasado,"
+ },
+ {
+  "i": 96,
+  "start": 285.74,
+  "end": 288.77,
+  "syl": 22,
+  "text": "si la suspensión llegaba al límite de su recorrido en un salto,"
+ },
+ {
+  "i": 97,
+  "start": 289.01,
+  "end": 290.4,
+  "syl": 10,
+  "text": "golpeaba un taco de goma."
+ },
+ {
+  "i": 98,
+  "start": 290.82,
+  "end": 296.43,
+  "syl": 37,
+  "text": "El impacto se transfería a la columna vertebral del piloto y el coche rebotaba violentamente hacia arriba."
+ },
+ {
+  "i": 99,
+  "start": 296.72,
+  "end": 297.05,
+  "syl": 1,
+  "text": "Hoy,"
+ },
+ {
+  "i": 100,
+  "start": 297.18,
+  "end": 303.19,
+  "syl": 34,
+  "text": "los amortiguadores de WRC tienen amortiguadores más pequeños dentro del amortiguador."
+ },
+ {
+  "i": 101,
+  "start": 303.19,
+  "end": 304.83,
+  "syl": 8,
+  "text": "Son los topes hidráulicos."
+ },
+ {
+  "i": 102,
+  "start": 305.23,
+  "end": 307.94,
+  "syl": 17,
+  "text": "En los últimos 3 o 4 centímetros de recorrido,"
+ },
+ {
+  "i": 103,
+  "start": 308.18,
+  "end": 312.15,
+  "syl": 30,
+  "text": "un pistón secundario entra en un cilindro cerrado de aceite con agujeros minúsculos,"
+ },
+ {
+  "i": 104,
+  "start": 312.15,
+  "end": 314.31,
+  "syl": 13,
+  "text": "frenando la rueda de forma progresiva."
+ },
+ {
+  "i": 105,
+  "start": 314.31,
+  "end": 318.74,
+  "syl": 27,
+  "text": "Absorbe una tonelada de energía en milisegundos y la disipa como calor."
+ },
+ {
+  "i": 106,
+  "start": 318.74,
+  "end": 319.53,
+  "syl": 5,
+  "text": "Al mismo tiempo,"
+ },
+ {
+  "i": 107,
+  "start": 319.95,
+  "end": 325.14,
+  "syl": 34,
+  "text": "sistemas de control de rebote utilizan válvulas inteligentes que detectan si la rueda está en el aire."
+ },
+ {
+  "i": 108,
+  "start": 325.14,
+  "end": 326.38,
+  "syl": 7,
+  "text": "Si hay un agujero,"
+ },
+ {
+  "i": 109,
+  "start": 326.74,
+  "end": 335.13,
+  "syl": 45,
+  "text": "la válvula se abre de golpe y dispara literalmente la rueda hacia abajo para que toque el fondo del bache y nunca pierda tracción,"
+ },
+ {
+  "i": 110,
+  "start": 335.3,
+  "end": 337.14,
+  "syl": 12,
+  "text": "sin arrastrar la carrocería con ella."
+ },
+ {
+  "i": 111,
+  "start": 337.57,
+  "end": 337.94,
+  "syl": 1,
+  "text": "Hoy,"
+ },
+ {
+  "i": 112,
+  "start": 338.06,
+  "end": 340.28,
+  "syl": 12,
+  "text": "con los nuevos coches híbridos Rally1,"
+ },
+ {
+  "i": 113,
+  "start": 340.57,
+  "end": 342.28,
+  "syl": 10,
+  "text": "el desafío es mayor que nunca."
+ },
+ {
+  "i": 114,
+  "start": 342.28,
+  "end": 344.74,
+  "syl": 14,
+  "text": "Los coches pesan 100 kilos más por las baterías,"
+ },
+ {
+  "i": 115,
+  "start": 344.74,
+  "end": 349.55,
+  "syl": 26,
+  "text": "la aerodinámica ha sido recortada y la caja de cambios es más simple."
+ },
+ {
+  "i": 116,
+  "start": 349.95,
+  "end": 355.48,
+  "syl": 31,
+  "text": "¿Quién tiene que cargar con todo ese estrés adicional para mantener el coche en la carretera?"
+ },
+ {
+  "i": 117,
+  "start": 355.79,
+  "end": 356.5,
+  "syl": 3,
+  "text": "Exacto,"
+ },
+ {
+  "i": 118,
+  "start": 356.5,
+  "end": 357.67,
+  "syl": 4,
+  "text": "la suspensión."
+ },
+ {
+  "i": 119,
+  "start": 357.67,
+  "end": 359.99,
+  "syl": 16,
+  "text": "Los recorridos superan hoy los 30 centímetros."
+ },
+ {
+  "i": 120,
+  "start": 360.4,
+  "end": 363.89,
+  "syl": 24,
+  "text": "Los amortiguadores actuales son ordenadores analógicos de fluidos,"
+ },
+ {
+  "i": 121,
+  "start": 364.05,
+  "end": 366.38,
+  "syl": 16,
+  "text": "calibrados al milímetro para cada piloto,"
+ },
+ {
+  "i": 122,
+  "start": 366.6,
+  "end": 368.15,
+  "syl": 9,
+  "text": "cada rally y cada clima."
+ },
+ {
+  "i": 123,
+  "start": 368.59,
+  "end": 371.01,
+  "syl": 16,
+  "text": "Puedes ponerle a un coche mil caballos de fuerza,"
+ },
+ {
+  "i": 124,
+  "start": 371.24,
+  "end": 374.02,
+  "syl": 15,
+  "text": "pero el verdadero milagro de la ingeniería,"
+ },
+ {
+  "i": 125,
+  "start": 374.02,
+  "end": 379.56,
+  "syl": 37,
+  "text": "la razón por la que un WRC puede desafiar las leyes de la física en los peores terrenos del mundo,"
+ },
+ {
+  "i": 126,
+  "start": 379.9,
+  "end": 382.02,
+  "syl": 12,
+  "text": "está escondido detrás de las llantas."
+ },
+ {
+  "i": 127,
+  "start": 382.52,
+  "end": 385.36,
+  "syl": 19,
+  "text": "Si te apasiona la ingeniería real detrás de las carreras,"
+ },
+ {
+  "i": 128,
+  "start": 385.51,
+  "end": 386.64,
+  "syl": 7,
+  "text": "suscríbete al canal,"
+ },
+ {
+  "i": 129,
+  "start": 386.82,
+  "end": 389.26,
+  "syl": 14,
+  "text": "deja un buen like y dime en los comentarios:"
+ },
+ {
+  "i": 130,
+  "start": 389.6,
+  "end": 393.11,
+  "syl": 25,
+  "text": "¿De qué otra tecnología del motor quieres que hablemos en el próximo vídeo?"
+ },
+ {
+  "i": 131,
+  "start": 393.5,
+  "end": 394.31,
+  "syl": 6,
+  "text": "¡Hasta la próxima!"
+ }
+]

@@ -1,0 +1,9 @@
+{
+  "intro": { "from": 28.4,  "dur": 5.2 },
+  "ford":  { "from": 47.0,  "dur": 2.8 },
+  "vw":    { "from": 67.0,  "dur": 2.6 },
+  "c3":    { "from": 81.0,  "dur": 2.8 },
+  "crest": { "from": 101.0, "dur": 3.0 },
+  "land":  { "from": 111.0, "dur": 2.8 },
+  "fly":   { "from": 129.0, "dur": 2.8 }
+}
