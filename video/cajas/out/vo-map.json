@@ -1,0 +1,898 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 1.62,
+  "syl": 7,
+  "text": "En un tramo de rally,"
+ },
+ {
+  "i": 1,
+  "start": 1.62,
+  "end": 5.05,
+  "syl": 23,
+  "text": "un piloto cambia de marcha una media de 40 veces por kilómetro."
+ },
+ {
+  "i": 2,
+  "start": 5.65,
+  "end": 8.09,
+  "syl": 16,
+  "text": "En un coche de calle con cambio manual tradicional,"
+ },
+ {
+  "i": 3,
+  "start": 8.36,
+  "end": 10.36,
+  "syl": 13,
+  "text": "cada cambio requiere pisar el embrague,"
+ },
+ {
+  "i": 4,
+  "start": 10.54,
+  "end": 12.7,
+  "syl": 14,
+  "text": "mover la palanca y volver a acelerar."
+ },
+ {
+  "i": 5,
+  "start": 13.3,
+  "end": 15.64,
+  "syl": 14,
+  "text": "Eso toma unos 0,4 segundos."
+ },
+ {
+  "i": 6,
+  "start": 16.15,
+  "end": 20.76,
+  "syl": 29,
+  "text": "Si multiplicamos eso por los 300 kilómetros cronometrados de un rally del mundial..."
+ },
+ {
+  "i": 7,
+  "start": 21.34,
+  "end": 26.36,
+  "syl": 29,
+  "text": "un piloto perdería literalmente más de 10 minutos enteros solo cambiando de marcha."
+ },
+ {
+  "i": 8,
+  "start": 26.89,
+  "end": 27.91,
+  "syl": 8,
+  "text": "En el automovilismo,"
+ },
+ {
+  "i": 9,
+  "start": 28.07,
+  "end": 30.05,
+  "syl": 10,
+  "text": "10 minutos es una eternidad."
+ },
+ {
+  "i": 10,
+  "start": 30.77,
+  "end": 38.25,
+  "syl": 45,
+  "text": "La búsqueda para eliminar ese tiempo muerto desató una de las guerras de ingeniería más fascinantes del Grupo B y el WRC."
+ },
+ {
+  "i": 11,
+  "start": 38.77,
+  "end": 41.28,
+  "syl": 17,
+  "text": "No se trataba solo de hacer engranajes más fuertes,"
+ },
+ {
+  "i": 12,
+  "start": 41.64,
+  "end": 43.59,
+  "syl": 14,
+  "text": "sino de reescribir las leyes de la fricción,"
+ },
+ {
+  "i": 13,
+  "start": 43.59,
+  "end": 45.96,
+  "syl": 11,
+  "text": "el par motor y la electrónica."
+ },
+ {
+  "i": 14,
+  "start": 46.46,
+  "end": 53.98,
+  "syl": 47,
+  "text": "Hoy vamos a abrir las carcasas de transmisión más extremas del mundo para entender la evolución definitiva de las cajas de cambios en el rally."
+ },
+ {
+  "i": 15,
+  "start": 54.86,
+  "end": 58.13,
+  "syl": 18,
+  "text": "A finales de los 70 y principios de los 80,"
+ },
+ {
+  "i": 16,
+  "start": 58.13,
+  "end": 63.29,
+  "syl": 31,
+  "text": "los coches de rally Grupo 4 y los primeros Grupo B usaban cajas de cambios con patrón en \"H\","
+ },
+ {
+  "i": 17,
+  "start": 63.57,
+  "end": 65.5,
+  "syl": 14,
+  "text": "similares a las de cualquier coche de calle."
+ },
+ {
+  "i": 18,
+  "start": 66.05,
+  "end": 68.85,
+  "syl": 17,
+  "text": "Pero los motores empezaron a escupir 300,"
+ },
+ {
+  "i": 19,
+  "start": 68.85,
+  "end": 69.92,
+  "syl": 4,
+  "text": "400,"
+ },
+ {
+  "i": 20,
+  "start": 69.92,
+  "end": 71.4,
+  "syl": 9,
+  "text": "y hasta 500 caballos."
+ },
+ {
+  "i": 21,
+  "start": 71.84,
+  "end": 74.73,
+  "syl": 18,
+  "text": "La caja tradicional se convirtió en el eslabón débil."
+ },
+ {
+  "i": 22,
+  "start": 75.62,
+  "end": 77.8,
+  "syl": 13,
+  "text": "El primer problema eran los engranajes."
+ },
+ {
+  "i": 23,
+  "start": 78.39,
+  "end": 84.14,
+  "syl": 31,
+  "text": "Los coches de calle usan engranajes helicoidales (con los dientes en diagonal) porque son silenciosos,"
+ },
+ {
+  "i": 24,
+  "start": 84.49,
+  "end": 89.41,
+  "syl": 32,
+  "text": "pero generan un enorme empuje lateral bajo carga que puede partir la carcasa de la caja."
+ },
+ {
+  "i": 25,
+  "start": 89.92,
+  "end": 92.82,
+  "syl": 21,
+  "text": "Los ingenieros pasaron a los engranajes de dientes rectos (straight-cut gears)."
+ },
+ {
+  "i": 26,
+  "start": 93.08,
+  "end": 94.99,
+  "syl": 5,
+  "text": "Son indestructibles,"
+ },
+ {
+  "i": 27,
+  "start": 94.99,
+  "end": 102.61,
+  "syl": 43,
+  "text": "no generan empuje axial y son los responsables de ese característico aullido agudo que define a los coches de carreras."
+ },
+ {
+  "i": 28,
+  "start": 103.61,
+  "end": 104.48,
+  "syl": 7,
+  "text": "El segundo problema,"
+ },
+ {
+  "i": 29,
+  "start": 104.48,
+  "end": 105.48,
+  "syl": 5,
+  "text": "y el más grave,"
+ },
+ {
+  "i": 30,
+  "start": 105.73,
+  "end": 107.1,
+  "syl": 9,
+  "text": "eran los sincronizadores."
+ },
+ {
+  "i": 31,
+  "start": 107.64,
+  "end": 114.82,
+  "syl": 45,
+  "text": "Un sincronizador es un cono de latón que funciona por fricción para igualar la velocidad del motor y la caja antes de engranar la marcha."
+ },
+ {
+  "i": 32,
+  "start": 115.31,
+  "end": 118.03,
+  "syl": 16,
+  "text": "Con 500 caballos de fuerza y cambios violentos,"
+ },
+ {
+  "i": 33,
+  "start": 118.29,
+  "end": 121.29,
+  "syl": 18,
+  "text": "la fricción derretía literalmente los sincronizadores."
+ },
+ {
+  "i": 34,
+  "start": 121.69,
+  "end": 122.77,
+  "syl": 6,
+  "text": "Las marchas rascaban,"
+ },
+ {
+  "i": 35,
+  "start": 122.77,
+  "end": 124.17,
+  "syl": 4,
+  "text": "saltaban o,"
+ },
+ {
+  "i": 36,
+  "start": 124.31,
+  "end": 125.51,
+  "syl": 3,
+  "text": "peor aún,"
+ },
+ {
+  "i": 37,
+  "start": 125.51,
+  "end": 126.6,
+  "syl": 6,
+  "text": "destruían la transmisión."
+ },
+ {
+  "i": 38,
+  "start": 127.06,
+  "end": 129.04,
+  "syl": 12,
+  "text": "Había que amputar el problema de raíz."
+ },
+ {
+  "i": 39,
+  "start": 129.97,
+  "end": 134.32,
+  "syl": 25,
+  "text": "La solución técnica llegó eliminando los sincronizadores por completo."
+ },
+ {
+  "i": 40,
+  "start": 134.32,
+  "end": 138.61,
+  "syl": 21,
+  "text": "Bienvenidos a la era de la Dog Box o caja de cangrejos (crabots)."
+ },
+ {
+  "i": 41,
+  "start": 139.13,
+  "end": 142.14,
+  "syl": 21,
+  "text": "En lugar de depender de la fricción para igualar las velocidades,"
+ },
+ {
+  "i": 42,
+  "start": 142.46,
+  "end": 147.15,
+  "syl": 31,
+  "text": "los ingenieros instalaron anillos de acoplamiento con tres o cuatro salientes de acero macizo,"
+ },
+ {
+  "i": 43,
+  "start": 147.15,
+  "end": 148.62,
+  "syl": 4,
+  "text": "llamados \"dogs\"."
+ },
+ {
+  "i": 44,
+  "start": 149.09,
+  "end": 152.33,
+  "syl": 17,
+  "text": "Entre estos salientes hay muchísimo espacio libre."
+ },
+ {
+  "i": 45,
+  "start": 152.33,
+  "end": 154.62,
+  "syl": 13,
+  "text": "Cuando el piloto tira de la palanca,"
+ },
+ {
+  "i": 46,
+  "start": 154.62,
+  "end": 156.7,
+  "syl": 8,
+  "text": "no hay una transición suave."
+ },
+ {
+  "i": 47,
+  "start": 156.7,
+  "end": 161.06,
+  "syl": 23,
+  "text": "Los dientes de acero chocan y se encajan de forma brutal y violenta."
+ },
+ {
+  "i": 48,
+  "start": 161.59,
+  "end": 162.35,
+  "syl": 4,
+  "text": "¿La ventaja?"
+ },
+ {
+  "i": 49,
+  "start": 162.35,
+  "end": 167.5,
+  "syl": 28,
+  "text": "Es indestructible y el piloto ya no necesita usar el embrague para subir de marcha."
+ },
+ {
+  "i": 50,
+  "start": 167.5,
+  "end": 173.82,
+  "syl": 42,
+  "text": "Solo tiene que levantar el pie del acelerador una fracción de segundo para liberar la tensión de los engranajes (descargar el par),"
+ },
+ {
+  "i": 51,
+  "start": 174.11,
+  "end": 176.69,
+  "syl": 16,
+  "text": "tirar de la palanca y volver a pisar a fondo."
+ },
+ {
+  "i": 52,
+  "start": 177.14,
+  "end": 180.11,
+  "syl": 16,
+  "text": "El cambio pasa a durar 0,1 segundos."
+ },
+ {
+  "i": 53,
+  "start": 180.77,
+  "end": 182.68,
+  "syl": 12,
+  "text": "El impacto en el tren motriz es colosal,"
+ },
+ {
+  "i": 54,
+  "start": 182.68,
+  "end": 185.74,
+  "syl": 20,
+  "text": "y por eso requiere ejes de transmisión de acero forjado,"
+ },
+ {
+  "i": 55,
+  "start": 185.74,
+  "end": 188.12,
+  "syl": 12,
+  "text": "pero en el Grupo B y el Grupo A,"
+ },
+ {
+  "i": 56,
+  "start": 188.12,
+  "end": 191.01,
+  "syl": 13,
+  "text": "esta tecnología salvó campeonatos."
+ },
+ {
+  "i": 57,
+  "start": 191.65,
+  "end": 192.76,
+  "syl": 7,
+  "text": "A pesar de los crabots,"
+ },
+ {
+  "i": 58,
+  "start": 192.93,
+  "end": 196.69,
+  "syl": 17,
+  "text": "el patrón en \"H\" tenía un fallo humano crítico."
+ },
+ {
+  "i": 59,
+  "start": 196.69,
+  "end": 199.48,
+  "syl": 19,
+  "text": "A altas velocidades y soportando enormes fuerzas G,"
+ },
+ {
+  "i": 60,
+  "start": 199.79,
+  "end": 201.82,
+  "syl": 14,
+  "text": "un piloto podía equivocarse de carril."
+ },
+ {
+  "i": 61,
+  "start": 202.34,
+  "end": 208.11,
+  "syl": 34,
+  "text": "Pasar de 5ª marcha a 2ª en lugar de a 4ª causaba lo que los mecánicos llaman el \"Money Shift\":"
+ },
+ {
+  "i": 62,
+  "start": 208.4,
+  "end": 211.44,
+  "syl": 19,
+  "text": "un exceso de revoluciones que hacía explotar el motor,"
+ },
+ {
+  "i": 63,
+  "start": 211.61,
+  "end": 213.9,
+  "syl": 13,
+  "text": "costando decenas de miles de dólares."
+ },
+ {
+  "i": 64,
+  "start": 214.53,
+  "end": 215.78,
+  "syl": 9,
+  "text": "A mediados de los 90,"
+ },
+ {
+  "i": 65,
+  "start": 215.95,
+  "end": 219.03,
+  "syl": 20,
+  "text": "la ingeniería de las motocicletas llegó a los coches de rally:"
+ },
+ {
+  "i": 66,
+  "start": 219.41,
+  "end": 220.49,
+  "syl": 6,
+  "text": "la caja secuencial."
+ },
+ {
+  "i": 67,
+  "start": 220.49,
+  "end": 226.81,
+  "syl": 31,
+  "text": "La palanca dejó de moverse en H para moverse solo hacia atrás y hacia adelante."
+ },
+ {
+  "i": 68,
+  "start": 226.81,
+  "end": 228.06,
+  "syl": 8,
+  "text": "Tirar para subir marcha,"
+ },
+ {
+  "i": 69,
+  "start": 228.06,
+  "end": 229.34,
+  "syl": 8,
+  "text": "empujar para reducir."
+ },
+ {
+  "i": 70,
+  "start": 229.76,
+  "end": 234.1,
+  "syl": 26,
+  "text": "Aprovechando las propias fuerzas G del cuerpo del piloto al acelerar y frenar."
+ },
+ {
+  "i": 71,
+  "start": 234.74,
+  "end": 235.63,
+  "syl": 6,
+  "text": "Mecánicamente,"
+ },
+ {
+  "i": 72,
+  "start": 235.76,
+  "end": 241.45,
+  "syl": 30,
+  "text": "la palanca está conectada a un cilindro llamado tambor desmodrómico o barrilete."
+ },
+ {
+  "i": 73,
+  "start": 241.45,
+  "end": 245.51,
+  "syl": 23,
+  "text": "Este tambor tiene unos surcos mecanizados con precisión micrométrica."
+ },
+ {
+  "i": 74,
+  "start": 245.51,
+  "end": 246.82,
+  "syl": 8,
+  "text": "Al tirar de la palanca,"
+ },
+ {
+  "i": 75,
+  "start": 246.82,
+  "end": 248.2,
+  "syl": 8,
+  "text": "el tambor gira unos grados,"
+ },
+ {
+  "i": 76,
+  "start": 248.48,
+  "end": 252.66,
+  "syl": 24,
+  "text": "y sus surcos mueven las horquillas internas exactamente a la marcha siguiente."
+ },
+ {
+  "i": 77,
+  "start": 253.18,
+  "end": 256.94,
+  "syl": 23,
+  "text": "Era mecánicamente imposible saltarse una marcha o equivocarse."
+ },
+ {
+  "i": 78,
+  "start": 257.64,
+  "end": 261.8,
+  "syl": 26,
+  "text": "Con la llegada del reglamento World Rally Car en 1997,"
+ },
+ {
+  "i": 79,
+  "start": 261.96,
+  "end": 264.46,
+  "syl": 18,
+  "text": "pasamos de la mecánica pura a la mecatrónica."
+ },
+ {
+  "i": 80,
+  "start": 265.01,
+  "end": 267.06,
+  "syl": 12,
+  "text": "Los ingenieros se hicieron una pregunta:"
+ },
+ {
+  "i": 81,
+  "start": 267.57,
+  "end": 271.21,
+  "syl": 27,
+  "text": "¿y si podemos cambiar de marcha sin que el piloto tenga que soltar el acelerador?"
+ },
+ {
+  "i": 82,
+  "start": 271.21,
+  "end": 276.84,
+  "syl": 35,
+  "text": "Sustituyeron la palanca física por actuadores electrohidráulicos conectados al tambor de la caja,"
+ },
+ {
+  "i": 83,
+  "start": 276.84,
+  "end": 279.28,
+  "syl": 16,
+  "text": "accionados por una pequeña leva en el volante."
+ },
+ {
+  "i": 84,
+  "start": 279.28,
+  "end": 283.74,
+  "syl": 26,
+  "text": "Pero la verdadera magia ocurre en la centralita electrónica (ECU)."
+ },
+ {
+  "i": 85,
+  "start": 284.06,
+  "end": 287.9,
+  "syl": 21,
+  "text": "Cuando el piloto toca la leva con el acelerador a fondo,"
+ },
+ {
+  "i": 86,
+  "start": 288.19,
+  "end": 297.51,
+  "syl": 49,
+  "text": "la ECU realiza un \"Corte de Encendido\" (Ignition Cut) o corta la inyección de combustible durante exactamente 30 o 40 milisegundos."
+ },
+ {
+  "i": 87,
+  "start": 297.93,
+  "end": 301.4,
+  "syl": 24,
+  "text": "Ese microcorte es suficiente para descargar de fuerza los engranajes."
+ },
+ {
+  "i": 88,
+  "start": 301.4,
+  "end": 305.72,
+  "syl": 26,
+  "text": "El actuador hidráulico empuja el tambor con una presión de 150 bares,"
+ },
+ {
+  "i": 89,
+  "start": 305.72,
+  "end": 308.67,
+  "syl": 12,
+  "text": "la marcha entra de un golpe violento,"
+ },
+ {
+  "i": 90,
+  "start": 308.67,
+  "end": 311.16,
+  "syl": 11,
+  "text": "y el motor vuelve a encenderse."
+ },
+ {
+  "i": 91,
+  "start": 311.72,
+  "end": 314.57,
+  "syl": 19,
+  "text": "Todo esto ocurre en menos de 50 milisegundos."
+ },
+ {
+  "i": 92,
+  "start": 314.91,
+  "end": 317.32,
+  "syl": 17,
+  "text": "El piloto nunca levanta el pie del acelerador."
+ },
+ {
+  "i": 93,
+  "start": 317.74,
+  "end": 320.53,
+  "syl": 18,
+  "text": "Es una entrega de potencia continua e ininterrumpida."
+ },
+ {
+  "i": 94,
+  "start": 320.53,
+  "end": 324.01,
+  "syl": 17,
+  "text": "El coche no deja de acelerar ni un solo instante."
+ },
+ {
+  "i": 95,
+  "start": 324.62,
+  "end": 329.78,
+  "syl": 29,
+  "text": "Pero una caja de cambios de WRC no es solo una máquina de empalmar marchas;"
+ },
+ {
+  "i": 96,
+  "start": 329.78,
+  "end": 332.39,
+  "syl": 17,
+  "text": "es el corazón del equilibrio dinámico del coche."
+ },
+ {
+  "i": 97,
+  "start": 332.9,
+  "end": 341.38,
+  "syl": 53,
+  "text": "Fabricantes como Xtrac y Ricardo comenzaron a esculpir carcasas de aluminio y magnesio ultraligero que son verdaderas obras de arte arquitectónico."
+ },
+ {
+  "i": 98,
+  "start": 341.9,
+  "end": 343.54,
+  "syl": 11,
+  "text": "En el WRC moderno,"
+ },
+ {
+  "i": 99,
+  "start": 343.73,
+  "end": 347.77,
+  "syl": 25,
+  "text": "la caja de cambios es transversal y actúa como el cerebro de la tracción total."
+ },
+ {
+  "i": 100,
+  "start": 347.77,
+  "end": 350.81,
+  "syl": 18,
+  "text": "Dentro de la misma carcasa que alberga los engranajes,"
+ },
+ {
+  "i": 101,
+  "start": 350.81,
+  "end": 355.65,
+  "syl": 27,
+  "text": "los ingenieros alojan el diferencial delantero y el diferencial central activo."
+ },
+ {
+  "i": 102,
+  "start": 356.12,
+  "end": 358.95,
+  "syl": 18,
+  "text": "La obsesión por el centro de gravedad llegó al extremo."
+ },
+ {
+  "i": 103,
+  "start": 359.43,
+  "end": 361.71,
+  "syl": 16,
+  "text": "En lugar de colgar la caja a un lado del motor,"
+ },
+ {
+  "i": 104,
+  "start": 361.93,
+  "end": 362.92,
+  "syl": 5,
+  "text": "la reubicaron,"
+ },
+ {
+  "i": 105,
+  "start": 363.12,
+  "end": 369.12,
+  "syl": 37,
+  "text": "inclinaron y miniaturizaron para colocar sus cientos de kilos lo más bajo posible y lo más cerca del piloto."
+ },
+ {
+  "i": 106,
+  "start": 369.12,
+  "end": 371.75,
+  "syl": 14,
+  "text": "Esto reduce el momento de inercia polar."
+ },
+ {
+  "i": 107,
+  "start": 371.75,
+  "end": 373.13,
+  "syl": 6,
+  "text": "En física simple:"
+ },
+ {
+  "i": 108,
+  "start": 373.13,
+  "end": 379.72,
+  "syl": 36,
+  "text": "un coche con todo su peso en el centro pivota sobre su eje en las curvas como una bailarina sobre hielo."
+ },
+ {
+  "i": 109,
+  "start": 380.25,
+  "end": 387.38,
+  "syl": 45,
+  "text": "La caja de cambios pasó de ser un lastre necesario a ser el componente que define la agilidad pura de un World Rally Car en la tierra."
+ },
+ {
+  "i": 110,
+  "start": 388.07,
+  "end": 390.51,
+  "syl": 17,
+  "text": "A pesar de haber tocado el cielo tecnológico,"
+ },
+ {
+  "i": 111,
+  "start": 390.51,
+  "end": 392.8,
+  "syl": 15,
+  "text": "en el automovilismo el reglamento manda."
+ },
+ {
+  "i": 112,
+  "start": 393.23,
+  "end": 396.59,
+  "syl": 21,
+  "text": "Con la llegada de los coches híbridos Rally1 en 2022,"
+ },
+ {
+  "i": 113,
+  "start": 396.87,
+  "end": 398.67,
+  "syl": 10,
+  "text": "la FIA impuso recortes de costes."
+ },
+ {
+  "i": 114,
+  "start": 398.67,
+  "end": 405.06,
+  "syl": 34,
+  "text": "Las sofisticadas levas electrohidráulicas y los diferenciales centrales activos fueron prohibidos."
+ },
+ {
+  "i": 115,
+  "start": 405.48,
+  "end": 413.06,
+  "syl": 49,
+  "text": "Los ingenieros tuvieron que dar un paso atrás en el tiempo y devolver a los pilotos una inmensa palanca secuencial mecánica unida al túnel de transmisión."
+ },
+ {
+  "i": 116,
+  "start": 413.06,
+  "end": 414.33,
+  "syl": 4,
+  "text": "Sin embargo,"
+ },
+ {
+  "i": 117,
+  "start": 414.33,
+  "end": 417.56,
+  "syl": 18,
+  "text": "bajo esa apariencia analógica y nostálgica,"
+ },
+ {
+  "i": 118,
+  "start": 417.82,
+  "end": 419.1,
+  "syl": 7,
+  "text": "los engranajes rectos,"
+ },
+ {
+  "i": 119,
+  "start": 419.28,
+  "end": 424.07,
+  "syl": 25,
+  "text": "los crabots de acero aeroespacial y el tambor de precisión siguen ahí,"
+ },
+ {
+  "i": 120,
+  "start": 424.07,
+  "end": 430.34,
+  "syl": 42,
+  "text": "acoplados ahora a motores eléctricos de 100 kW que entregan su brutal par instantáneo directamente a los ejes."
+ },
+ {
+  "i": 121,
+  "start": 430.87,
+  "end": 433.65,
+  "syl": 19,
+  "text": "Las cajas de cambios en el rally nacieron para sobrevivir,"
+ },
+ {
+  "i": 122,
+  "start": 433.65,
+  "end": 440.11,
+  "syl": 40,
+  "text": "evolucionaron para ahorrar milésimas y terminaron moldeando la forma misma en la que se conduce al límite."
+ },
+ {
+  "i": 123,
+  "start": 440.67,
+  "end": 449.04,
+  "syl": 46,
+  "text": "La próxima vez que escuches el aullido agudo de una transmisión y el violento impacto metálico de un cambio de marcha en un tramo forestal,"
+ },
+ {
+  "i": 124,
+  "start": 449.04,
+  "end": 452.96,
+  "syl": 23,
+  "text": "sabrás que estás escuchando 40 años de pura guerra de ingeniería."
+ },
+ {
+  "i": 125,
+  "start": 452.96,
+  "end": 455.62,
+  "syl": 20,
+  "text": "Si quieres seguir destripando los secretos mecánicos del motor,"
+ },
+ {
+  "i": 126,
+  "start": 455.75,
+  "end": 456.92,
+  "syl": 7,
+  "text": "suscríbete al canal,"
+ },
+ {
+  "i": 127,
+  "start": 457.1,
+  "end": 462.71,
+  "syl": 33,
+  "text": "deja tu opinión sobre qué tecnología te parece más brutal y nos vemos en el próximo análisis."
+ }
+]

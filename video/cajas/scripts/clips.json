@@ -1,0 +1,8 @@
+{
+  "intro":  { "from": 7.0,  "dur": 5.0 },
+  "onA":    { "from": 0.0,  "dur": 6.0 },
+  "onB":    { "from": 25.5, "dur": 8.0 },
+  "tyre":   { "from": 15.0, "dur": 4.5 },
+  "aerial": { "from": 20.5, "dur": 3.0 },
+  "t16":    { "from": 52.0, "dur": 3.5 }
+}
