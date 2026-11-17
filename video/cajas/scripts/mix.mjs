@@ -58,7 +58,7 @@ const musicDuck = r('out', 'tmp', 'music-duck.wav');
 
 const mixWav = r('out', 'tmp', 'mix-pre.wav');
 ff(['-i', voWav, '-i', musicDuck, '-i', clipWav, '-filter_complex',
-  '[0:a]asplit=3[vk][vk2][vm];[1:a]volume=-10dB[m];'
+  '[0:a]asplit=3[vk][vk2][vm];[1:a]volume=-13dB[m];'
   + '[m][vk]sidechaincompress=threshold=0.04:ratio=3.5:attack=25:release=350:knee=4[md];'
   + '[2:a][vk2]sidechaincompress=threshold=0.05:ratio=2:attack=15:release=250:knee=4[cd];'
   + '[vm][md][cd]amix=inputs=3:normalize=0[out]',

@@ -76,7 +76,7 @@ El cliente pidió explicar «las cajas de cambios y su movimiento con todo detal
 ### 3. El sonido del coche en los onboards (petición del cliente)
 El cliente pidió que en las partes de los onboards **baje la música** para que se oiga el coche, **sin tocar la voz**. Así que:
 - en cada tramo de onboard suena el **audio real de su vídeo, exactamente el mismo trozo** y a la misma cámara lenta que la imagen. La mezcla lee las ventanas de uso y las velocidades directamente del montaje (`CLIP_USE`), así que imagen y sonido no pueden desincronizarse;
-- la **música baja unos 10 dB** en esos tramos, con rampas de 0,4 s para que no se note el corte;
+- la **música baja unos 10 dB** en esos tramos (y 3 dB menos en todo el vídeo, a petición del cliente tras la primera entrega), con rampas de 0,4 s para que no se note el corte;
 - **la voz no cambia.** El coche solo se comprime ligeramente (2:1) cuando habla el locutor, para que nunca lo tape.
 
 ### 4. Identidad
