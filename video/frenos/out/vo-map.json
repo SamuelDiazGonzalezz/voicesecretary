@@ -1,0 +1,1367 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 0.86,
+  "syl": 5,
+  "text": "En la física,"
+ },
+ {
+  "i": 1,
+  "start": 1.05,
+  "end": 3.18,
+  "syl": 13,
+  "text": "la energía no se crea ni se destruye,"
+ },
+ {
+  "i": 2,
+  "start": 3.47,
+  "end": 4.62,
+  "syl": 6,
+  "text": "solo se transforma."
+ },
+ {
+  "i": 3,
+  "start": 4.62,
+  "end": 10.65,
+  "syl": 33,
+  "text": "Cuando un coche de rally de 1.200 kilos vuela por un tramo a 190 kilómetros por hora,"
+ },
+ {
+  "i": 4,
+  "start": 10.65,
+  "end": 13.9,
+  "syl": 15,
+  "text": "lleva encima una energía cinética brutal."
+ },
+ {
+  "i": 5,
+  "start": 14.53,
+  "end": 18.69,
+  "syl": 28,
+  "text": "Para detener esa masa en menos de 60 metros antes de caer por un barranco,"
+ },
+ {
+  "i": 6,
+  "start": 19.02,
+  "end": 21.62,
+  "syl": 18,
+  "text": "los frenos tienen que hacer un milagro termodinámico:"
+ },
+ {
+  "i": 7,
+  "start": 22.02,
+  "end": 26.43,
+  "syl": 24,
+  "text": "convertir toda esa velocidad en puro calor en menos de dos segundos."
+ },
+ {
+  "i": 8,
+  "start": 27.27,
+  "end": 31.54,
+  "syl": 28,
+  "text": "Si el motor de un WRC genera unos 500 caballos para acelerar,"
+ },
+ {
+  "i": 9,
+  "start": 31.95,
+  "end": 37.09,
+  "syl": 34,
+  "text": "sus frenos generan el equivalente a más de 2.000 caballos de potencia negativa para detenerlo."
+ },
+ {
+  "i": 10,
+  "start": 37.95,
+  "end": 38.58,
+  "syl": 3,
+  "text": "En el rally,"
+ },
+ {
+  "i": 11,
+  "start": 38.75,
+  "end": 40.76,
+  "syl": 12,
+  "text": "los frenos no sirven para ir despacio;"
+ },
+ {
+  "i": 12,
+  "start": 41.15,
+  "end": 44.1,
+  "syl": 17,
+  "text": "sirven para poder ir más rápido durante más tiempo."
+ },
+ {
+  "i": 13,
+  "start": 45.01,
+  "end": 46.25,
+  "syl": 10,
+  "text": "Hoy vamos a desmontar las pinzas,"
+ },
+ {
+  "i": 14,
+  "start": 46.25,
+  "end": 51.81,
+  "syl": 37,
+  "text": "hervir el líquido y analizar la metalurgia detrás de la evolución más infravalorada del automovilismo:"
+ },
+ {
+  "i": 15,
+  "start": 51.81,
+  "end": 54.38,
+  "syl": 14,
+  "text": "los frenos en el Campeonato Mundial de Rallys."
+ },
+ {
+  "i": 16,
+  "start": 54.38,
+  "end": 55.86,
+  "syl": 7,
+  "text": "En los años 60,"
+ },
+ {
+  "i": 17,
+  "start": 56.7,
+  "end": 59.38,
+  "syl": 16,
+  "text": "los rallys se corrían con coches prácticamente de serie."
+ },
+ {
+  "i": 18,
+  "start": 59.38,
+  "end": 61.82,
+  "syl": 12,
+  "text": "Muchos aún equipaban frenos de tambor."
+ },
+ {
+  "i": 19,
+  "start": 61.82,
+  "end": 63.38,
+  "syl": 10,
+  "text": "Un tambor es una trampa térmica:"
+ },
+ {
+  "i": 20,
+  "start": 64.26,
+  "end": 69.19,
+  "syl": 27,
+  "text": "las zapatas rozan por dentro de un cilindro cerrado donde el aire apenas entra."
+ },
+ {
+  "i": 21,
+  "start": 69.19,
+  "end": 73.66,
+  "syl": 21,
+  "text": "En el descenso de un puerto de montaña como el Col de Turini,"
+ },
+ {
+  "i": 22,
+  "start": 73.66,
+  "end": 79.33,
+  "syl": 29,
+  "text": "la temperatura se disparaba en minutos y el tambor se dilataba físicamente,"
+ },
+ {
+  "i": 23,
+  "start": 79.5,
+  "end": 80.93,
+  "syl": 10,
+  "text": "alejándose de las zapatas."
+ },
+ {
+  "i": 24,
+  "start": 81.31,
+  "end": 85.32,
+  "syl": 23,
+  "text": "El piloto pisaba el pedal y no ocurría absolutamente nada."
+ },
+ {
+  "i": 25,
+  "start": 86.3,
+  "end": 87.33,
+  "syl": 7,
+  "text": "En los años 70,"
+ },
+ {
+  "i": 26,
+  "start": 87.51,
+  "end": 92.52,
+  "syl": 29,
+  "text": "con la llegada del Grupo 4 y coches como el Lancia Stratos o el Ford Escort RS,"
+ },
+ {
+  "i": 27,
+  "start": 92.83,
+  "end": 95.87,
+  "syl": 19,
+  "text": "los discos de freno macizos se convirtieron en el estándar."
+ },
+ {
+  "i": 28,
+  "start": 96.5,
+  "end": 98.32,
+  "syl": 9,
+  "text": "Al estar expuestos al aire,"
+ },
+ {
+  "i": 29,
+  "start": 98.32,
+  "end": 100.21,
+  "syl": 9,
+  "text": "disipaban mejor el calor."
+ },
+ {
+  "i": 30,
+  "start": 100.21,
+  "end": 100.77,
+  "syl": 4,
+  "text": "Sin embargo,"
+ },
+ {
+  "i": 31,
+  "start": 101.02,
+  "end": 103.88,
+  "syl": 21,
+  "text": "los ingenieros se toparon con el mayor enemigo de la frenada:"
+ },
+ {
+  "i": 32,
+  "start": 104.32,
+  "end": 106.52,
+  "syl": 10,
+  "text": "el Brake Fade o fatiga térmica,"
+ },
+ {
+  "i": 33,
+  "start": 106.67,
+  "end": 108.41,
+  "syl": 9,
+  "text": "que atacaba por dos frentes."
+ },
+ {
+  "i": 34,
+  "start": 109.17,
+  "end": 109.58,
+  "syl": 3,
+  "text": "Primero,"
+ },
+ {
+  "i": 35,
+  "start": 109.76,
+  "end": 110.94,
+  "syl": 7,
+  "text": "el fade de las pastillas:"
+ },
+ {
+  "i": 36,
+  "start": 110.94,
+  "end": 113.0,
+  "syl": 9,
+  "text": "al calentarse demasiado,"
+ },
+ {
+  "i": 37,
+  "start": 113.19,
+  "end": 116.72,
+  "syl": 19,
+  "text": "las resinas que unían el material de fricción se vaporizaban,"
+ },
+ {
+  "i": 38,
+  "start": 116.72,
+  "end": 120.25,
+  "syl": 23,
+  "text": "creando un colchón microscópico de gas entre la pastilla y el disco."
+ },
+ {
+  "i": 39,
+  "start": 120.75,
+  "end": 121.94,
+  "syl": 7,
+  "text": "El pedal seguía duro,"
+ },
+ {
+  "i": 40,
+  "start": 122.13,
+  "end": 123.6,
+  "syl": 9,
+  "text": "pero el coche no frenaba."
+ },
+ {
+  "i": 41,
+  "start": 124.47,
+  "end": 125.04,
+  "syl": 3,
+  "text": "Segundo,"
+ },
+ {
+  "i": 42,
+  "start": 125.36,
+  "end": 126.53,
+  "syl": 6,
+  "text": "el fade del líquido:"
+ },
+ {
+  "i": 43,
+  "start": 127.07,
+  "end": 129.28,
+  "syl": 14,
+  "text": "el calor pasaba del disco a la pastilla,"
+ },
+ {
+  "i": 44,
+  "start": 129.51,
+  "end": 133.8,
+  "syl": 21,
+  "text": "de la pastilla a los pistones y de ahí al líquido de frenos."
+ },
+ {
+  "i": 45,
+  "start": 133.8,
+  "end": 135.18,
+  "syl": 8,
+  "text": "Cuando el líquido hervía,"
+ },
+ {
+  "i": 46,
+  "start": 135.18,
+  "end": 136.36,
+  "syl": 9,
+  "text": "generaba burbujas de gas."
+ },
+ {
+  "i": 47,
+  "start": 136.86,
+  "end": 137.74,
+  "syl": 6,
+  "text": "Y como los gases,"
+ },
+ {
+  "i": 48,
+  "start": 137.89,
+  "end": 139.41,
+  "syl": 10,
+  "text": "a diferencia de los líquidos,"
+ },
+ {
+  "i": 49,
+  "start": 139.41,
+  "end": 140.53,
+  "syl": 7,
+  "text": "sí se pueden comprimir,"
+ },
+ {
+  "i": 50,
+  "start": 140.76,
+  "end": 144.02,
+  "syl": 14,
+  "text": "el pedal se hundía hasta el fondo del suelo."
+ },
+ {
+  "i": 51,
+  "start": 144.02,
+  "end": 150.08,
+  "syl": 38,
+  "text": "Los pilotos tenían que bombear el freno a 150 por hora rezando por recuperar presión antes de la curva."
+ },
+ {
+  "i": 52,
+  "start": 151.04,
+  "end": 156.01,
+  "syl": 31,
+  "text": "Llegaron los años 80 y el Grupo B multiplicó la potencia hasta los 500 caballos."
+ },
+ {
+  "i": 53,
+  "start": 156.22,
+  "end": 159.32,
+  "syl": 18,
+  "text": "Los coches aceleraban de 0 a 100 en 3 segundos,"
+ },
+ {
+  "i": 54,
+  "start": 159.69,
+  "end": 163.38,
+  "syl": 23,
+  "text": "pero frenar esas bestias en carreteras estrechas era una pesadilla."
+ },
+ {
+  "i": 55,
+  "start": 163.87,
+  "end": 167.48,
+  "syl": 17,
+  "text": "Los discos macizos se rajaban por el choque térmico."
+ },
+ {
+  "i": 56,
+  "start": 167.48,
+  "end": 169.62,
+  "syl": 13,
+  "text": "La ingeniería respondió con dos armas clave."
+ },
+ {
+  "i": 57,
+  "start": 169.62,
+  "end": 170.85,
+  "syl": 3,
+  "text": "Primero,"
+ },
+ {
+  "i": 58,
+  "start": 171.2,
+  "end": 173.19,
+  "syl": 12,
+  "text": "los discos ventilados y perforados:"
+ },
+ {
+  "i": 59,
+  "start": 173.75,
+  "end": 179.15,
+  "syl": 32,
+  "text": "dos caras de hierro fundido separadas por aletas internas que actuaban como una bomba centrífuga,"
+ },
+ {
+  "i": 60,
+  "start": 179.47,
+  "end": 183.77,
+  "syl": 28,
+  "text": "succionando aire frío desde el centro del buje y expulsándolo por el borde exterior."
+ },
+ {
+  "i": 61,
+  "start": 183.77,
+  "end": 184.24,
+  "syl": 3,
+  "text": "Segundo,"
+ },
+ {
+  "i": 62,
+  "start": 184.81,
+  "end": 190.64,
+  "syl": 34,
+  "text": "pinzas fijas de aluminio de 4 pistones fabricadas por especialistas como AP Racing y Brembo,"
+ },
+ {
+  "i": 63,
+  "start": 190.64,
+  "end": 193.26,
+  "syl": 14,
+  "text": "que aplicaban una presión mucho más uniforme."
+ },
+ {
+  "i": 64,
+  "start": 193.26,
+  "end": 197.57,
+  "syl": 22,
+  "text": "Pero el invento más icónico y visual del Grupo B fueron los Turbofans."
+ },
+ {
+  "i": 65,
+  "start": 197.79,
+  "end": 206.69,
+  "syl": 43,
+  "text": "¿Alguna vez te has preguntado por qué el Audi Quattro o el Lancia 037 llevaban esas tapas con aspas sobre las llantas?"
+ },
+ {
+  "i": 66,
+  "start": 206.69,
+  "end": 208.72,
+  "syl": 7,
+  "text": "No era estética."
+ },
+ {
+  "i": 67,
+  "start": 209.25,
+  "end": 211.39,
+  "syl": 13,
+  "text": "En un tramo revirado con curvas lentas,"
+ },
+ {
+  "i": 68,
+  "start": 211.59,
+  "end": 217.65,
+  "syl": 38,
+  "text": "el coche no iba lo suficientemente rápido en recta como para que el flujo de aire natural enfriara los frenos."
+ },
+ {
+  "i": 69,
+  "start": 218.13,
+  "end": 220.96,
+  "syl": 16,
+  "text": "Esas tapas actuaban como extractores activos:"
+ },
+ {
+  "i": 70,
+  "start": 221.38,
+  "end": 222.36,
+  "syl": 6,
+  "text": "al girar la rueda,"
+ },
+ {
+  "i": 71,
+  "start": 222.49,
+  "end": 230.67,
+  "syl": 54,
+  "text": "las aletas creaban una zona de baja presión que literalmente succionaba el aire a 700 grados del interior del paso de rueda y lo escupía hacia afuera."
+ },
+ {
+  "i": 72,
+  "start": 230.67,
+  "end": 235.31,
+  "syl": 26,
+  "text": "Era aerodinámica aplicada directamente a la termodinámica."
+ },
+ {
+  "i": 73,
+  "start": 236.05,
+  "end": 240.48,
+  "syl": 24,
+  "text": "Aquí es donde la ingeniería de los rallys rompe todas las reglas de los circuitos."
+ },
+ {
+  "i": 74,
+  "start": 240.96,
+  "end": 242.71,
+  "syl": 9,
+  "text": "En Fórmula 1 o GT3,"
+ },
+ {
+  "i": 75,
+  "start": 242.92,
+  "end": 244.36,
+  "syl": 9,
+  "text": "cuanto más grande es el disco,"
+ },
+ {
+  "i": 76,
+  "start": 244.36,
+  "end": 245.05,
+  "syl": 2,
+  "text": "mejor."
+ },
+ {
+  "i": 77,
+  "start": 245.57,
+  "end": 246.62,
+  "syl": 8,
+  "text": "En el WRC,"
+ },
+ {
+  "i": 78,
+  "start": 246.62,
+  "end": 249.09,
+  "syl": 13,
+  "text": "eso solo es cierto la mitad del tiempo."
+ },
+ {
+  "i": 79,
+  "start": 249.65,
+  "end": 250.81,
+  "syl": 7,
+  "text": "En los rallys de asfalto,"
+ },
+ {
+  "i": 80,
+  "start": 250.81,
+  "end": 253.58,
+  "syl": 14,
+  "text": "los coches montan llantas de 18 pulgadas,"
+ },
+ {
+  "i": 81,
+  "start": 253.84,
+  "end": 260.1,
+  "syl": 37,
+  "text": "lo que permite meter discos gigantescos de hasta 380 milímetros mordidos por pinzas de 6 pistones."
+ },
+ {
+  "i": 82,
+  "start": 260.1,
+  "end": 263.24,
+  "syl": 15,
+  "text": "El asfalto ofrece un agarre descomunal,"
+ },
+ {
+  "i": 83,
+  "start": 263.24,
+  "end": 269.1,
+  "syl": 33,
+  "text": "lo que significa que el neumático puede soportar fuerzas de frenado brutales antes de bloquearse."
+ },
+ {
+  "i": 84,
+  "start": 269.56,
+  "end": 272.27,
+  "syl": 16,
+  "text": "Pero cuando el campeonato viaja a la tierra,"
+ },
+ {
+  "i": 85,
+  "start": 272.27,
+  "end": 273.76,
+  "syl": 7,
+  "text": "la nieve o la grava,"
+ },
+ {
+  "i": 86,
+  "start": 273.76,
+  "end": 277.5,
+  "syl": 20,
+  "text": "los equipos desmontan todo y ponen frenos mucho más pequeños,"
+ },
+ {
+  "i": 87,
+  "start": 277.5,
+  "end": 278.94,
+  "syl": 9,
+  "text": "de unos 300 milímetros."
+ },
+ {
+  "i": 88,
+  "start": 279.47,
+  "end": 279.8,
+  "syl": 2,
+  "text": "¿Por qué?"
+ },
+ {
+  "i": 89,
+  "start": 280.44,
+  "end": 282.64,
+  "syl": 13,
+  "text": "Por dos razones físicas fundamentales."
+ },
+ {
+  "i": 90,
+  "start": 283.17,
+  "end": 283.59,
+  "syl": 3,
+  "text": "Primero,"
+ },
+ {
+  "i": 91,
+  "start": 283.98,
+  "end": 290.69,
+  "syl": 39,
+  "text": "en tierra necesitas neumáticos con un perfil muy alto y flexible para absorber rocas y saltos sin reventar la llanta,"
+ },
+ {
+  "i": 92,
+  "start": 291.01,
+  "end": 294.29,
+  "syl": 22,
+  "text": "lo que obliga a bajar el tamaño de la llanta a 15 pulgadas."
+ },
+ {
+  "i": 93,
+  "start": 294.7,
+  "end": 296.93,
+  "syl": 12,
+  "text": "Un disco grande simplemente no cabe."
+ },
+ {
+  "i": 94,
+  "start": 297.45,
+  "end": 298.05,
+  "syl": 3,
+  "text": "Segundo,"
+ },
+ {
+  "i": 95,
+  "start": 298.17,
+  "end": 299.18,
+  "syl": 5,
+  "text": "y más importante:"
+ },
+ {
+  "i": 96,
+  "start": 299.44,
+  "end": 300.36,
+  "syl": 5,
+  "text": "la adherencia."
+ },
+ {
+  "i": 97,
+  "start": 300.88,
+  "end": 301.93,
+  "syl": 6,
+  "text": "Sobre grava suelta,"
+ },
+ {
+  "i": 98,
+  "start": 302.08,
+  "end": 305.0,
+  "syl": 20,
+  "text": "el límite de frenado no lo pone la potencia de la pinza,"
+ },
+ {
+  "i": 99,
+  "start": 305.17,
+  "end": 307.55,
+  "syl": 16,
+  "text": "sino el agarre del neumático contra la tierra."
+ },
+ {
+  "i": 100,
+  "start": 307.82,
+  "end": 309.86,
+  "syl": 14,
+  "text": "Si pones un freno demasiado agresivo,"
+ },
+ {
+  "i": 101,
+  "start": 310.05,
+  "end": 315.74,
+  "syl": 28,
+  "text": "bloquearás las ruedas al instante y el coche se convertirá en un trineo sin dirección."
+ },
+ {
+  "i": 102,
+  "start": 315.9,
+  "end": 316.27,
+  "syl": 3,
+  "text": "Además,"
+ },
+ {
+  "i": 103,
+  "start": 316.27,
+  "end": 318.09,
+  "syl": 11,
+  "text": "un disco más pequeño pesa menos,"
+ },
+ {
+  "i": 104,
+  "start": 318.09,
+  "end": 323.62,
+  "syl": 35,
+  "text": "reduciendo la masa no suspendida y permitiendo que la suspensión reaccione más rápido sobre los baches."
+ },
+ {
+  "i": 105,
+  "start": 324.23,
+  "end": 325.24,
+  "syl": 7,
+  "text": "En los años 90,"
+ },
+ {
+  "i": 106,
+  "start": 325.43,
+  "end": 330.08,
+  "syl": 29,
+  "text": "los equipos de rally miraron a la Fórmula 1 y probaron los frenos de carbono-carbono."
+ },
+ {
+  "i": 107,
+  "start": 330.64,
+  "end": 335.11,
+  "syl": 22,
+  "text": "Son ultraligeros y aguantan más de 1.200 grados sin fatigarse."
+ },
+ {
+  "i": 108,
+  "start": 335.59,
+  "end": 337.07,
+  "syl": 7,
+  "text": "Parecían el santo grial,"
+ },
+ {
+  "i": 109,
+  "start": 337.36,
+  "end": 339.4,
+  "syl": 11,
+  "text": "pero en los rallys fueron un desastre."
+ },
+ {
+  "i": 110,
+  "start": 339.91,
+  "end": 344.24,
+  "syl": 30,
+  "text": "El carbono necesita estar a más de 400 grados para empezar a frenar de verdad."
+ },
+ {
+  "i": 111,
+  "start": 344.76,
+  "end": 345.51,
+  "syl": 5,
+  "text": "En un circuito,"
+ },
+ {
+  "i": 112,
+  "start": 345.65,
+  "end": 347.17,
+  "syl": 10,
+  "text": "los frenos siempre están calientes."
+ },
+ {
+  "i": 113,
+  "start": 347.17,
+  "end": 349.26,
+  "syl": 8,
+  "text": "Pero en un tramo de rally,"
+ },
+ {
+  "i": 114,
+  "start": 349.49,
+  "end": 353.29,
+  "syl": 25,
+  "text": "tras una recta larga bajo la lluvia o en un enlace por carretera abierta,"
+ },
+ {
+  "i": 115,
+  "start": 353.52,
+  "end": 355.03,
+  "syl": 7,
+  "text": "los discos se enfriaban."
+ },
+ {
+  "i": 116,
+  "start": 355.5,
+  "end": 356.8,
+  "syl": 10,
+  "text": "Al llegar a la primera curva,"
+ },
+ {
+  "i": 117,
+  "start": 357.01,
+  "end": 360.8,
+  "syl": 24,
+  "text": "el piloto pisaba el freno y el coche simplemente no deceleraba."
+ },
+ {
+  "i": 118,
+  "start": 361.32,
+  "end": 364.0,
+  "syl": 12,
+  "text": "Sumado a su coste astronómico,"
+ },
+ {
+  "i": 119,
+  "start": 364.0,
+  "end": 366.12,
+  "syl": 13,
+  "text": "la FIA los prohibió definitivamente,"
+ },
+ {
+  "i": 120,
+  "start": 366.12,
+  "end": 369.36,
+  "syl": 14,
+  "text": "obligando a usar discos de hierro fundido."
+ },
+ {
+  "i": 121,
+  "start": 369.36,
+  "end": 375.2,
+  "syl": 37,
+  "text": "Con el carbono fuera de juego y los coches WRC de los 2000 yendo cada vez más rápido en asfalto,"
+ },
+ {
+  "i": 122,
+  "start": 375.54,
+  "end": 378.59,
+  "syl": 14,
+  "text": "el calor volvió a ser un problema crítico."
+ },
+ {
+  "i": 123,
+  "start": 378.59,
+  "end": 381.25,
+  "syl": 17,
+  "text": "La solución de los ingenieros de marcas como Subaru,"
+ },
+ {
+  "i": 124,
+  "start": 381.25,
+  "end": 383.99,
+  "syl": 11,
+  "text": "Ford y Citroën rozó la ciencia ficción:"
+ },
+ {
+  "i": 125,
+  "start": 384.54,
+  "end": 386.48,
+  "syl": 10,
+  "text": "pinzas refrigeradas por agua."
+ },
+ {
+  "i": 126,
+  "start": 387.08,
+  "end": 396.15,
+  "syl": 61,
+  "text": "Instalaron un depósito de agua en el chasis conectado mediante una bomba eléctrica a canales microscópicos taladrados dentro del propio bloque de aluminio de la pinza de freno."
+ },
+ {
+  "i": 127,
+  "start": 396.15,
+  "end": 399.06,
+  "syl": 15,
+  "text": "El agua circulaba rodeando los pistones,"
+ },
+ {
+  "i": 128,
+  "start": 399.28,
+  "end": 402.43,
+  "syl": 21,
+  "text": "absorbiendo el calor antes de que llegara al líquido de frenos,"
+ },
+ {
+  "i": 129,
+  "start": 402.65,
+  "end": 404.35,
+  "syl": 12,
+  "text": "y pasaba por un pequeño radiador."
+ },
+ {
+  "i": 130,
+  "start": 404.86,
+  "end": 411.25,
+  "syl": 35,
+  "text": "Era tan efectivo que permitía frenar mucho más tarde durante todo el tramo sin perder tacto en el pedal."
+ },
+ {
+  "i": 131,
+  "start": 411.25,
+  "end": 411.77,
+  "syl": 4,
+  "text": "Sin embargo,"
+ },
+ {
+  "i": 132,
+  "start": 411.97,
+  "end": 412.85,
+  "syl": 5,
+  "text": "añadía peso,"
+ },
+ {
+  "i": 133,
+  "start": 412.99,
+  "end": 415.36,
+  "syl": 14,
+  "text": "complejidad y disparaba los presupuestos,"
+ },
+ {
+  "i": 134,
+  "start": 415.68,
+  "end": 423.06,
+  "syl": 47,
+  "text": "por lo que la FIA terminó prohibiendo la refrigeración líquida para volver a la ingeniería pura de flujo de aire y materiales exóticos."
+ },
+ {
+  "i": 135,
+  "start": 424.03,
+  "end": 425.01,
+  "syl": 7,
+  "text": "En un coche de calle,"
+ },
+ {
+  "i": 136,
+  "start": 425.18,
+  "end": 429.44,
+  "syl": 27,
+  "text": "el freno de mano es un simple cable de acero que apenas sirve para aparcar."
+ },
+ {
+  "i": 137,
+  "start": 429.44,
+  "end": 430.42,
+  "syl": 6,
+  "text": "En un coche de rally,"
+ },
+ {
+  "i": 138,
+  "start": 430.61,
+  "end": 432.94,
+  "syl": 13,
+  "text": "es un instrumento quirúrgico de conducción."
+ },
+ {
+  "i": 139,
+  "start": 433.49,
+  "end": 437.25,
+  "syl": 26,
+  "text": "Para girar en horquillas donde el radio de giro del volante no es suficiente,"
+ },
+ {
+  "i": 140,
+  "start": 437.58,
+  "end": 440.09,
+  "syl": 18,
+  "text": "los ingenieros diseñaron el freno de mano hidráulico."
+ },
+ {
+  "i": 141,
+  "start": 440.09,
+  "end": 444.06,
+  "syl": 21,
+  "text": "Es una palanca vertical colocada a centímetros del volante,"
+ },
+ {
+  "i": 142,
+  "start": 444.34,
+  "end": 449.85,
+  "syl": 33,
+  "text": "conectada directamente a su propio cilindro maestro dentro de la línea hidráulica trasera."
+ },
+ {
+  "i": 143,
+  "start": 449.85,
+  "end": 451.09,
+  "syl": 6,
+  "text": "Con un leve tirón,"
+ },
+ {
+  "i": 144,
+  "start": 451.09,
+  "end": 453.4,
+  "syl": 14,
+  "text": "inyecta una presión brutal a las pinzas traseras,"
+ },
+ {
+  "i": 145,
+  "start": 453.61,
+  "end": 456.88,
+  "syl": 20,
+  "text": "bloqueando las ruedas al instante para hacer pivotar la zaga."
+ },
+ {
+  "i": 146,
+  "start": 457.31,
+  "end": 459.76,
+  "syl": 14,
+  "text": "Pero hay un problema mecánico oculto:"
+ },
+ {
+  "i": 147,
+  "start": 459.76,
+  "end": 461.22,
+  "syl": 9,
+  "text": "en un coche de tracción total,"
+ },
+ {
+  "i": 148,
+  "start": 461.5,
+  "end": 465.29,
+  "syl": 22,
+  "text": "las cuatro ruedas están conectadas entre sí a través de la transmisión."
+ },
+ {
+  "i": 149,
+  "start": 465.93,
+  "end": 471.17,
+  "syl": 29,
+  "text": "Si bloqueas las ruedas traseras de golpe mientras el motor sigue empujando las delanteras,"
+ },
+ {
+  "i": 150,
+  "start": 471.17,
+  "end": 474.05,
+  "syl": 18,
+  "text": "destrozarías el diferencial central y calarías el motor."
+ },
+ {
+  "i": 151,
+  "start": 474.8,
+  "end": 477.61,
+  "syl": 17,
+  "text": "La solución es una obra maestra de sincronización:"
+ },
+ {
+  "i": 152,
+  "start": 478.08,
+  "end": 480.57,
+  "syl": 16,
+  "text": "la base de la palanca tiene un sensor de presión."
+ },
+ {
+  "i": 153,
+  "start": 481.07,
+  "end": 484.48,
+  "syl": 24,
+  "text": "En el milisegundo exacto en que el piloto tira del freno de mano,"
+ },
+ {
+  "i": 154,
+  "start": 484.78,
+  "end": 489.02,
+  "syl": 29,
+  "text": "la centralita recibe la señal y desacopla hidráulicamente el diferencial central,"
+ },
+ {
+  "i": 155,
+  "start": 489.02,
+  "end": 491.77,
+  "syl": 16,
+  "text": "desconectando el eje trasero del delantero."
+ },
+ {
+  "i": 156,
+  "start": 492.27,
+  "end": 493.54,
+  "syl": 8,
+  "text": "El motor sigue rugiendo,"
+ },
+ {
+  "i": 157,
+  "start": 493.54,
+  "end": 498.45,
+  "syl": 32,
+  "text": "las ruedas delanteras traccionan hacia la salida de la curva y las traseras deslizan bloqueadas."
+ },
+ {
+  "i": 158,
+  "start": 498.45,
+  "end": 501.45,
+  "syl": 13,
+  "text": "En cuanto el piloto suelta la palanca,"
+ },
+ {
+  "i": 159,
+  "start": 501.7,
+  "end": 505.45,
+  "syl": 24,
+  "text": "el diferencial vuelve a cerrarse de golpe y el coche sale disparado."
+ },
+ {
+  "i": 160,
+  "start": 506.15,
+  "end": 508.29,
+  "syl": 13,
+  "text": "Todo esto se combina con la Pedal Box:"
+ },
+ {
+  "i": 161,
+  "start": 508.61,
+  "end": 516.64,
+  "syl": 45,
+  "text": "dos bombas de freno independientes —una para el eje delantero y otra para el trasero— unidas por una barra basculante llamada balance bar."
+ },
+ {
+  "i": 162,
+  "start": 517.23,
+  "end": 519.2,
+  "syl": 15,
+  "text": "Con una pequeña ruleta en el salpicadero,"
+ },
+ {
+  "i": 163,
+  "start": 519.44,
+  "end": 527.84,
+  "syl": 56,
+  "text": "el piloto puede desplazar el reparto de frenada hacia adelante o hacia atrás en mitad de un tramo si empieza a llover o si los neumáticos traseros se degradan."
+ },
+ {
+  "i": 164,
+  "start": 528.7,
+  "end": 529.18,
+  "syl": 3,
+  "text": "Hoy en día,"
+ },
+ {
+  "i": 165,
+  "start": 529.18,
+  "end": 531.8,
+  "syl": 14,
+  "text": "sin carbono y sin refrigeración por agua,"
+ },
+ {
+  "i": 166,
+  "start": 532.13,
+  "end": 534.77,
+  "syl": 19,
+  "text": "¿cómo sobreviven los frenos de los coches Rally1 modernos,"
+ },
+ {
+  "i": 167,
+  "start": 534.77,
+  "end": 537.68,
+  "syl": 17,
+  "text": "que además pesan 100 kilos más que sus predecesores?"
+ },
+ {
+  "i": 168,
+  "start": 537.68,
+  "end": 541.42,
+  "syl": 18,
+  "text": "La respuesta está en la metalurgia aeroespacial."
+ },
+ {
+  "i": 169,
+  "start": 541.91,
+  "end": 548.6,
+  "syl": 41,
+  "text": "Las pinzas actuales son bloques monolíticos esculpidos mediante fresado CNC en aleaciones de aluminio-litio,"
+ },
+ {
+  "i": 170,
+  "start": 548.8,
+  "end": 554.06,
+  "syl": 32,
+  "text": "ofreciendo una rigidez extrema para que la pinza no se abra bajo presiones de más de 100 bares,"
+ },
+ {
+  "i": 171,
+  "start": 554.44,
+  "end": 556.26,
+  "syl": 12,
+  "text": "lo que arruinaría el tacto del pedal."
+ },
+ {
+  "i": 172,
+  "start": 556.88,
+  "end": 559.79,
+  "syl": 19,
+  "text": "Los pistones que empujan las pastillas ya no son de acero,"
+ },
+ {
+  "i": 173,
+  "start": 559.95,
+  "end": 561.9,
+  "syl": 13,
+  "text": "sino de titanio hueco y perforado."
+ },
+ {
+  "i": 174,
+  "start": 562.43,
+  "end": 564.8,
+  "syl": 15,
+  "text": "El titanio es un pésimo conductor térmico;"
+ },
+ {
+  "i": 175,
+  "start": 565.21,
+  "end": 570.63,
+  "syl": 33,
+  "text": "actúa como un escudo que impide que los 800 grados del disco viajen hacia el líquido de frenos."
+ },
+ {
+  "i": 176,
+  "start": 571.24,
+  "end": 571.75,
+  "syl": 3,
+  "text": "Además,"
+ },
+ {
+  "i": 177,
+  "start": 571.92,
+  "end": 574.49,
+  "syl": 19,
+  "text": "con la llegada de la tecnología híbrida en los Rally1,"
+ },
+ {
+  "i": 178,
+  "start": 574.76,
+  "end": 578.23,
+  "syl": 21,
+  "text": "los ingenieros tuvieron que integrar un nuevo jugador en la ecuación:"
+ },
+ {
+  "i": 179,
+  "start": 578.69,
+  "end": 580.18,
+  "syl": 10,
+  "text": "la frenada regenerativa."
+ },
+ {
+  "i": 180,
+  "start": 580.66,
+  "end": 582.85,
+  "syl": 15,
+  "text": "Al soltar el acelerador y pisar el freno,"
+ },
+ {
+  "i": 181,
+  "start": 583.11,
+  "end": 588.4,
+  "syl": 31,
+  "text": "la unidad eléctrica trasera de 100 kW invierte su función y actúa como un generador,"
+ },
+ {
+  "i": 182,
+  "start": 588.67,
+  "end": 590.95,
+  "syl": 18,
+  "text": "frenando el eje trasero para recargar la batería."
+ },
+ {
+  "i": 183,
+  "start": 590.95,
+  "end": 593.85,
+  "syl": 15,
+  "text": "El reto de ingeniería es el blending o mezclado:"
+ },
+ {
+  "i": 184,
+  "start": 593.85,
+  "end": 601.62,
+  "syl": 43,
+  "text": "lograr que la transición entre el freno eléctrico y el freno hidráulico sea completamente transparente para el pie del piloto,"
+ },
+ {
+  "i": 185,
+  "start": 601.8,
+  "end": 606.03,
+  "syl": 27,
+  "text": "para que sienta exactamente la misma mordida y progresividad curva tras curva."
+ },
+ {
+  "i": 186,
+  "start": 606.03,
+  "end": 609.4,
+  "syl": 20,
+  "text": "Cualquiera puede pisar el acelerador a fondo en una recta."
+ },
+ {
+  "i": 187,
+  "start": 609.85,
+  "end": 619.35,
+  "syl": 61,
+  "text": "Lo que separa a un piloto rápido de un campeón del mundo es la confianza ciega en lo que ocurre cuando pisa el pedal central a 180 por hora frente a un muro de piedra."
+ },
+ {
+  "i": 188,
+  "start": 620.0,
+  "end": 627.44,
+  "syl": 48,
+  "text": "De los tambores que se derretían en los Alpes a las pinzas de aluminio-litio con pistones de titanio y sensores de desacoplamiento instantáneo,"
+ },
+ {
+  "i": 189,
+  "start": 627.84,
+  "end": 635.66,
+  "syl": 48,
+  "text": "la evolución de los frenos es la historia silenciosa de cómo la ingeniería permitió a los pilotos desafiar el instinto de supervivencia humano."
+ },
+ {
+  "i": 190,
+  "start": 636.48,
+  "end": 639.87,
+  "syl": 21,
+  "text": "Si te ha gustado este viaje a las entrañas mecánicas del rally,"
+ },
+ {
+  "i": 191,
+  "start": 639.87,
+  "end": 640.79,
+  "syl": 7,
+  "text": "suscríbete al canal,"
+ },
+ {
+  "i": 192,
+  "start": 641.0,
+  "end": 643.75,
+  "syl": 13,
+  "text": "dale a like y dime en los comentarios:"
+ },
+ {
+  "i": 193,
+  "start": 643.75,
+  "end": 647.45,
+  "syl": 24,
+  "text": "¿qué otro componente del rally quieres que exploremos en el próximo video?"
+ },
+ {
+  "i": 194,
+  "start": 647.45,
+  "end": 649.05,
+  "syl": 10,
+  "text": "¡Nos vemos en el próximo tramo!"
+ }
+]
