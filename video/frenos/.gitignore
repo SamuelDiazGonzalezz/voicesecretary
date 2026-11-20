@@ -5,3 +5,6 @@ out/*
 !out/frenos.mp4
 !out/hoja-de-contactos.jpg
 !out/vo-map.json
+!out/tmp/
+out/tmp/*
+!out/tmp/*.js
