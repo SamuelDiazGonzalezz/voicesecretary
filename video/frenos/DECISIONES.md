@@ -131,15 +131,22 @@ El cliente pidió que cada vídeo tenga su música. Esta va en **Mi menor**:
    - **el depósito,** cuyo rótulo cruzaba la tubería;
    - **la frase del freno de mano,** que invadía la foto.
 5. **v1:** fotogramas de los 70 planos revisados de nuevo y render completo a 60 fps, mezcla y hoja de contactos.
+6. **El render se cortó** en el fotograma 15.840 de 39.300 (el navegador se cerró). Lo cambié a **tramos de 60 s**, cada uno en su propio proceso con hasta tres intentos, que luego se unen sin recodificar. Así un fallo solo obliga a repetir un minuto.
+7. **v2, revisión del último instante de cada plano.** La v1 miraba un fotograma por plano, pero algunos subtítulos aparecen tarde. Al revisar el final de los 70 planos encontré:
+   - en la frenada regenerativa y en el desacoplamiento del diferencial, el subtítulo tocaba el dibujo del coche: lo acorté («Actúa como un generador», «La centralita desacopla el diferencial»);
+   - en el pistón de titanio, «ESCUDO TÉRMICO» quedaba sobre el disco incandescente y «800°» casi en el borde inferior: los recoloqué y desplacé la sección a la derecha para dejar aire al titular.
+
+   Volví a renderizar solo los dos minutos afectados.
+8. **Peso:** a CRF 22 el máster pesaba 118 MB, por encima del límite de 100 MB de GitHub. Lo codifiqué a CRF 24 desde el máster intermedio a 60 fps (calidad casi sin pérdidas), no desde el MP4 ya comprimido.
 
 ## Tiempo total
 
-Unas 4 horas desde el encargo:
+Unas 5 horas desde el encargo:
 - 30 min de material y alineación;
 - 1 h 45 min de los componentes y los 70 planos;
 - 30 min de revisión y correcciones;
 - 15 min de música y mezcla;
-- unos 80 min de render.
+- unos 80 min de render y 30 min más de la revisión v2, el render parcial y la mezcla final.
 
 ## Material de terceros
 

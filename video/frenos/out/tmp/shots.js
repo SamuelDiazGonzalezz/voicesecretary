@@ -783,7 +783,7 @@ function sDecouple(t, s0) {
   if (sig > 0) { ctx.save(); ctx.globalAlpha = 1 - prog(t, at(155) + 1.5, at(155) + 2.0); ctx.fillStyle = COLOR.yellow; ctx.beginPath(); ctx.arc(1320, 560, 30 + 40 * ((t * 2) % 1), 0, Math.PI * 2); ctx.globalAlpha *= 0.3 * (1 - ((t * 2) % 1)); ctx.fill(); ctx.restore(); }
   pin(t, 1320 - 40 * 0.95, 560 - 120 * 0.95, 1180, 900, 'SENSOR DE PRESIÓN', at(152) + 0.2, COLOR.blue);
   pin(t, 1320, 560 + 44 * 0.95, 1520, 900, 'DESACOPLADO', at(154) + 1.6, COLOR.yellow);
-  side(t, 'UNA OBRA MAESTRA DE SINCRONIZACIÓN', ['En el milisegundo', 'exacto'], at(153) - 0.1, { y: 360, size: 96, maxW: 560, label: 'La centralita desacopla el diferencial central', labelT: at(154) + 0.4 });
+  side(t, 'UNA OBRA MAESTRA DE SINCRONIZACIÓN', ['En el milisegundo', 'exacto'], at(153) - 0.1, { y: 360, size: 96, maxW: 560, label: 'La centralita desacopla el diferencial', labelT: at(154) + 0.4 });
   label(ctx, 'El eje trasero, desconectado del delantero', M, 700, COLOR.yellow, prog(t, at(155), at(155) + 0.5), { size: 32, spacing: 0, weight: 700 });
 }
 // El motor tira de las delanteras, las traseras deslizan; al soltar, el diferencial se cierra.
@@ -886,15 +886,15 @@ function sTitanium(t, s0) {
   bg(); dots(0.03);
   const ti = ease.inOut(prog(t, at(173), at(173) + 1.0));
   const hp = prog(t, at(175), at(175) + 2.0) * 0.62;
-  focus(1403, 485, 1.7, 1500, 560, () => drawSection(t, { cx: 1280, cy: 700, s: 1.0, clamp: 1, heat: 0.9, padHeat: 0.75, fluidHeat: 0, ti, heatPath: hp }));
+  focus(1403, 485, 1.7, 1560, 560, () => drawSection(t, { cx: 1280, cy: 700, s: 1.0, clamp: 1, heat: 0.9, padHeat: 0.75, fluidHeat: 0, ti, heatPath: hp }));
   scrim(860, 0.92);
   const sh = ease.out(prog(t, at(175) + 1.6, at(175) + 2.2));
   if (sh > 0) {
-    ctx.save(); ctx.globalAlpha = sh; ctx.strokeStyle = COLOR.blue; ctx.lineWidth = 10; ctx.lineCap = 'round'; ctx.beginPath(); ctx.moveTo(1412, 430); ctx.lineTo(1412, 690); ctx.stroke(); ctx.restore();
-    label(ctx, 'ESCUDO TÉRMICO', 1412, 400, COLOR.blue, sh, { size: 22, spacing: 6, weight: 700, align: 'center' });
+    ctx.save(); ctx.globalAlpha = sh; ctx.strokeStyle = COLOR.blue; ctx.lineWidth = 10; ctx.lineCap = 'round'; ctx.beginPath(); ctx.moveTo(1472, 430); ctx.lineTo(1472, 690); ctx.stroke(); ctx.restore();
+    label(ctx, 'ESCUDO TÉRMICO', 1472, 140, COLOR.blue, sh, { size: 22, spacing: 6, weight: 700, align: 'center' });
   }
   const hot = ease.out(prog(t, at(175) + 0.6, at(175) + 1.1));
-  if (hot > 0) { ctx.save(); ctx.globalAlpha = hot; ctx.font = FONT.display(800, 90); ctx.fillStyle = COLOR.fire; ctx.textAlign = 'center'; ctx.fillText('800°', 1291, 1040); ctx.restore(); }
+  if (hot > 0) { ctx.save(); ctx.globalAlpha = hot; ctx.font = FONT.display(800, 90); ctx.fillStyle = COLOR.fire; ctx.textAlign = 'right'; ctx.fillText('800°', 1250, 960); ctx.restore(); }
   side(t, 'LOS PISTONES YA NO SON DE ACERO', ['Titanio hueco', 'y perforado'], at(173) + 0.1, { y: 380, size: 100, maxW: 560, label: 'Un pésimo conductor térmico', labelT: at(174) + 0.3 });
 }
 // Frenada regenerativa: la unidad eléctrica trasera actúa como generador.
@@ -916,7 +916,7 @@ function sRegen(t, s0) {
     flowLine(r3, t, { color: COLOR.yellow, width: 6, amount: regen });
   }
   label(ctx, 'FRENA EL EJE TRASERO', 1320 - 300 * 0.95, 560 + 330, COLOR.blue, prog(t, at(182), at(182) + 0.5), { size: 20, spacing: 6, weight: 700, align: 'center' });
-  side(t, 'TECNOLOGÍA HÍBRIDA EN LOS RALLY1', ['La frenada', 'regenerativa'], at(179) + 0.1, { y: 380, size: 110, maxW: 560, label: 'El motor eléctrico actúa como un generador', labelT: at(181) + 2.4 });
+  side(t, 'TECNOLOGÍA HÍBRIDA EN LOS RALLY1', ['La frenada', 'regenerativa'], at(179) + 0.1, { y: 380, size: 110, maxW: 560, label: 'Actúa como un generador', labelT: at(181) + 2.4 });
 }
 // Blending: eléctrico + hidráulico = la misma frenada.
 function sBlend(t, s0) {
