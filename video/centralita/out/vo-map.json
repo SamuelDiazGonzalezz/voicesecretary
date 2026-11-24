@@ -1,0 +1,842 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 2.12,
+  "syl": 11,
+  "text": "En el automovilismo moderno,"
+ },
+ {
+  "i": 1,
+  "start": 2.12,
+  "end": 10.61,
+  "syl": 51,
+  "text": "un motor de combustión interna con 500 caballos de potencia y un sistema híbrido es completamente inútil sin una mente que lo gobierne en microsegundos."
+ },
+ {
+  "i": 2,
+  "start": 11.33,
+  "end": 14.45,
+  "syl": 20,
+  "text": "Mientras un coche de calle procesa miles de datos por segundo,"
+ },
+ {
+  "i": 3,
+  "start": 14.69,
+  "end": 18.2,
+  "syl": 22,
+  "text": "la centralita de un coche del WRC calcula la inyección,"
+ },
+ {
+  "i": 4,
+  "start": 18.38,
+  "end": 19.5,
+  "syl": 5,
+  "text": "el encendido,"
+ },
+ {
+  "i": 5,
+  "start": 19.5,
+  "end": 24.13,
+  "syl": 28,
+  "text": "la presión del turbo y la distribución de par entre los ejes hasta 1.000 veces por segundo."
+ },
+ {
+  "i": 6,
+  "start": 24.77,
+  "end": 26.51,
+  "syl": 9,
+  "text": "Si el motor es el músculo,"
+ },
+ {
+  "i": 7,
+  "start": 26.51,
+  "end": 31.51,
+  "syl": 24,
+  "text": "la centralita o ECU (Engine Control Unit) es el sistema nervioso central."
+ },
+ {
+  "i": 8,
+  "start": 32.24,
+  "end": 33.89,
+  "syl": 11,
+  "text": "En los tramos del WRC,"
+ },
+ {
+  "i": 9,
+  "start": 33.89,
+  "end": 37.65,
+  "syl": 22,
+  "text": "donde las condiciones de agarre cambian cada metro entre asfalto,"
+ },
+ {
+  "i": 10,
+  "start": 37.65,
+  "end": 38.54,
+  "syl": 5,
+  "text": "barro o hielo,"
+ },
+ {
+  "i": 11,
+  "start": 38.97,
+  "end": 41.25,
+  "syl": 16,
+  "text": "el piloto ya no pilota solo contra el crono,"
+ },
+ {
+  "i": 12,
+  "start": 41.43,
+  "end": 47.13,
+  "syl": 36,
+  "text": "sino contra algoritmos matemáticos complejos que deciden cómo entregar cada vatio de potencia al suelo."
+ },
+ {
+  "i": 13,
+  "start": 47.75,
+  "end": 58.32,
+  "syl": 64,
+  "text": "Hoy vamos a abrir la carcasa de las centralitas más avanzadas del planeta para entender su evolución desde la prehistoria del carburador hasta la ingeniería mecatrónica de los actuales Rally1."
+ },
+ {
+  "i": 14,
+  "start": 59.24,
+  "end": 61.13,
+  "syl": 15,
+  "text": "Para entender la revolución electrónica,"
+ },
+ {
+  "i": 15,
+  "start": 61.28,
+  "end": 63.16,
+  "syl": 12,
+  "text": "debemos recordar de dónde venimos."
+ },
+ {
+  "i": 16,
+  "start": 63.87,
+  "end": 67.26,
+  "syl": 23,
+  "text": "En las décadas de 1960 y 1970,"
+ },
+ {
+  "i": 17,
+  "start": 67.6,
+  "end": 70.94,
+  "syl": 24,
+  "text": "los motores de rally se alimentaban mediante carburadores mecánicos."
+ },
+ {
+  "i": 18,
+  "start": 71.59,
+  "end": 75.49,
+  "syl": 27,
+  "text": "La mezcla de aire y gasolina dependía puramente de la presión atmosférica,"
+ },
+ {
+  "i": 19,
+  "start": 75.7,
+  "end": 81.23,
+  "syl": 28,
+  "text": "el tamaño de los chiclés y la depresión creada por el aire al pasar por el colector."
+ },
+ {
+  "i": 20,
+  "start": 81.23,
+  "end": 82.94,
+  "syl": 10,
+  "text": "Eran sistemas 100% mecánicos,"
+ },
+ {
+  "i": 21,
+  "start": 83.09,
+  "end": 86.91,
+  "syl": 25,
+  "text": "temperamentales y ciegos ante la altitud o la temperatura exterior."
+ },
+ {
+  "i": 22,
+  "start": 87.58,
+  "end": 90.37,
+  "syl": 18,
+  "text": "Si subías un puerto de montaña en el Rally de Montecarlo,"
+ },
+ {
+  "i": 23,
+  "start": 90.63,
+  "end": 91.66,
+  "syl": 8,
+  "text": "el aire perdía densidad,"
+ },
+ {
+  "i": 24,
+  "start": 91.66,
+  "end": 96.15,
+  "syl": 23,
+  "text": "el motor se enriquecía de más y el coche perdía docenas de caballos."
+ },
+ {
+  "i": 25,
+  "start": 96.93,
+  "end": 99.47,
+  "syl": 18,
+  "text": "A finales de los 70 y principios de los 80,"
+ },
+ {
+  "i": 26,
+  "start": 99.62,
+  "end": 105.97,
+  "syl": 44,
+  "text": "con la llegada de la inyección electrónica rudimentaria (como el sistema Bosch K-Jetronic en los primeros Audi Quattro de competición),"
+ },
+ {
+  "i": 27,
+  "start": 105.97,
+  "end": 111.19,
+  "syl": 28,
+  "text": "la gasolina dejó de ser aspirada por vacío y empezó a ser inyectada a presión."
+ },
+ {
+  "i": 28,
+  "start": 111.9,
+  "end": 112.52,
+  "syl": 4,
+  "text": "Sin embargo,"
+ },
+ {
+  "i": 29,
+  "start": 112.69,
+  "end": 118.04,
+  "syl": 36,
+  "text": "aquellas primeras centralitas eran cajas analógicas con transistores básicos y circuitos impresos rígidos."
+ },
+ {
+  "i": 30,
+  "start": 118.04,
+  "end": 121.21,
+  "syl": 13,
+  "text": "No se podían reprogramar en tiempo real;"
+ },
+ {
+  "i": 31,
+  "start": 121.65,
+  "end": 125.45,
+  "syl": 21,
+  "text": "para cambiar el mapa de encendido o el caudal de combustible,"
+ },
+ {
+  "i": 32,
+  "start": 125.45,
+  "end": 132.52,
+  "syl": 44,
+  "text": "los ingenieros tenían que abrir físicamente la caja y soldar nuevos chips de memoria ROM en la placa base en pleno parque de asistencia."
+ },
+ {
+  "i": 33,
+  "start": 133.23,
+  "end": 138.55,
+  "syl": 34,
+  "text": "Con la prohibición del Grupo B y la llegada del reglamento Grupo A a finales de los 80 y 90,"
+ },
+ {
+  "i": 34,
+  "start": 138.91,
+  "end": 146.66,
+  "syl": 49,
+  "text": "los motores se estandarizaron a bloques de 2 litros con turbocompresor y una brida restrictora obligatoria que ahogaba la entrada de aire."
+ },
+ {
+  "i": 35,
+  "start": 146.66,
+  "end": 149.84,
+  "syl": 18,
+  "text": "El gran problema técnico era el turbo lag o retardo:"
+ },
+ {
+  "i": 36,
+  "start": 150.28,
+  "end": 153.88,
+  "syl": 25,
+  "text": "cuando el piloto soltaba el acelerador para frenar en una curva lenta,"
+ },
+ {
+  "i": 37,
+  "start": 154.22,
+  "end": 155.61,
+  "syl": 8,
+  "text": "los gases de escape caían,"
+ },
+ {
+  "i": 38,
+  "start": 155.61,
+  "end": 156.95,
+  "syl": 8,
+  "text": "el turbo se detenía y,"
+ },
+ {
+  "i": 39,
+  "start": 156.95,
+  "end": 158.78,
+  "syl": 8,
+  "text": "al volver a acelerar,"
+ },
+ {
+  "i": 40,
+  "start": 159.06,
+  "end": 162.06,
+  "syl": 17,
+  "text": "el coche sufría un vacío de potencia desesperante."
+ },
+ {
+  "i": 41,
+  "start": 162.57,
+  "end": 167.64,
+  "syl": 30,
+  "text": "La ingeniería dio un salto cuántico gracias al desarrollo de software avanzado en las ECU,"
+ },
+ {
+  "i": 42,
+  "start": 167.77,
+  "end": 173.98,
+  "syl": 27,
+  "text": "dando lugar al sistema Anti-Lag o ELS (Exhaust Gas Recirculation System)."
+ },
+ {
+  "i": 43,
+  "start": 174.46,
+  "end": 176.64,
+  "syl": 16,
+  "text": "Los ingenieros programaron la centralita para que,"
+ },
+ {
+  "i": 44,
+  "start": 176.64,
+  "end": 179.42,
+  "syl": 18,
+  "text": "cuando el piloto levantara el pie del acelerador,"
+ },
+ {
+  "i": 45,
+  "start": 179.7,
+  "end": 181.59,
+  "syl": 11,
+  "text": "ocurriera una magia diabólica:"
+ },
+ {
+  "i": 46,
+  "start": 182.13,
+  "end": 192.83,
+  "syl": 67,
+  "text": "la ECU ordenaba cortar el encendido en los cilindros mientras seguía inyectando gasolina pura y manteniendo la válvula de mariposa ligeramente abierta mediante un actuador electrónico."
+ },
+ {
+  "i": 47,
+  "start": 193.29,
+  "end": 201.72,
+  "syl": 54,
+  "text": "Esa gasolina sin quemar viajaba por los colectores de escape a más de 800 grados y detonaba violentamente antes de llegar a la turbina del turbo."
+ },
+ {
+  "i": 48,
+  "start": 202.19,
+  "end": 209.5,
+  "syl": 43,
+  "text": "La onda expansiva mantenía el eje del turbocompresor girando a 100.000 revoluciones por minuto incluso con el coche frenando."
+ },
+ {
+  "i": 49,
+  "start": 209.99,
+  "end": 218.67,
+  "syl": 50,
+  "text": "El resultado son las icónicas y violentas detonaciones (el famoso petardeo) y una respuesta de par instantánea al volver a pisar el acelerador."
+ },
+ {
+  "i": 50,
+  "start": 219.15,
+  "end": 221.25,
+  "syl": 13,
+  "text": "La centralita ya no solo medía datos;"
+ },
+ {
+  "i": 51,
+  "start": 221.6,
+  "end": 226.29,
+  "syl": 29,
+  "text": "creaba explosiones controladas dentro del escape para desafiar la física del turbo."
+ },
+ {
+  "i": 52,
+  "start": 226.29,
+  "end": 231.04,
+  "syl": 26,
+  "text": "Con la creación de la categoría World Rally Car en 1997,"
+ },
+ {
+  "i": 53,
+  "start": 231.04,
+  "end": 233.7,
+  "syl": 15,
+  "text": "la electrónica desató todo su potencial."
+ },
+ {
+  "i": 54,
+  "start": 233.7,
+  "end": 241.09,
+  "syl": 43,
+  "text": "Las centralitas dejaron de ser meras controladoras del motor para convertirse en el cerebro dinámico de todo el vehículo,"
+ },
+ {
+  "i": 55,
+  "start": 241.32,
+  "end": 244.08,
+  "syl": 17,
+  "text": "gestionando los diferenciales activos delantero,"
+ },
+ {
+  "i": 56,
+  "start": 244.08,
+  "end": 245.24,
+  "syl": 6,
+  "text": "central y trasero."
+ },
+ {
+  "i": 57,
+  "start": 245.71,
+  "end": 247.81,
+  "syl": 14,
+  "text": "Mediante sensores de velocidad de rueda,"
+ },
+ {
+  "i": 58,
+  "start": 247.97,
+  "end": 249.21,
+  "syl": 10,
+  "text": "acelerómetros de tres ejes,"
+ },
+ {
+  "i": 59,
+  "start": 249.21,
+  "end": 252.0,
+  "syl": 17,
+  "text": "ángulo de giro del volante y presión de frenada,"
+ },
+ {
+  "i": 60,
+  "start": 252.0,
+  "end": 256.96,
+  "syl": 26,
+  "text": "la ECU calculaba en tiempo real el deslizamiento de cada neumático."
+ },
+ {
+  "i": 61,
+  "start": 257.4,
+  "end": 260.23,
+  "syl": 19,
+  "text": "Si el eje delantero perdía tracción en una curva de grava,"
+ },
+ {
+  "i": 62,
+  "start": 260.54,
+  "end": 269.37,
+  "syl": 53,
+  "text": "la centralita enviaba una orden hidráulica a los embragues multidisco del diferencial central en menos de 10 milisegundos para transferir par al eje trasero,"
+ },
+ {
+  "i": 63,
+  "start": 269.58,
+  "end": 273.0,
+  "syl": 20,
+  "text": "haciendo que el coche rotara de forma perfectamente neutra."
+ },
+ {
+  "i": 64,
+  "start": 273.52,
+  "end": 274.02,
+  "syl": 3,
+  "text": "Además,"
+ },
+ {
+  "i": 65,
+  "start": 274.21,
+  "end": 276.32,
+  "syl": 15,
+  "text": "apareció la telemetría por radioenlace."
+ },
+ {
+  "i": 66,
+  "start": 276.82,
+  "end": 282.59,
+  "syl": 38,
+  "text": "Los ingenieros en el box ya no tenían que esperar a que el coche terminara el tramo y descargara los datos por cable;"
+ },
+ {
+  "i": 67,
+  "start": 282.92,
+  "end": 286.31,
+  "syl": 22,
+  "text": "podían monitorizar en directo los parámetros vitales del motor,"
+ },
+ {
+  "i": 68,
+  "start": 286.54,
+  "end": 293.98,
+  "syl": 44,
+  "text": "presiones de aceite y fallos eléctricos mientras el piloto volaba a 180 km/h por un bosque en Finlandia."
+ },
+ {
+  "i": 69,
+  "start": 294.22,
+  "end": 297.86,
+  "syl": 25,
+  "text": "Si un sensor de picado de biela detectaba combustible de mala calidad,"
+ },
+ {
+  "i": 70,
+  "start": 298.16,
+  "end": 307.8,
+  "syl": 63,
+  "text": "la centralita corregía el avance del encendido automáticamente para salvar el motor de una detonación catastrófica antes de que el piloto pudiera notar la pérdida de potencia."
+ },
+ {
+  "i": 71,
+  "start": 308.72,
+  "end": 313.37,
+  "syl": 25,
+  "text": "Llegamos a la era actual de los Rally1 híbridos (2022 en adelante)."
+ },
+ {
+  "i": 72,
+  "start": 313.89,
+  "end": 314.26,
+  "syl": 2,
+  "text": "Aquí,"
+ },
+ {
+  "i": 73,
+  "start": 314.44,
+  "end": 318.91,
+  "syl": 27,
+  "text": "la FIA introdujo un cambio regulatorio radical por motivos de contención de costes:"
+ },
+ {
+  "i": 74,
+  "start": 318.91,
+  "end": 325.53,
+  "syl": 35,
+  "text": "se prohibió el software libre y se implementó una centralita ECU estándar única para todos los equipos,"
+ },
+ {
+  "i": 75,
+  "start": 325.53,
+  "end": 331.67,
+  "syl": 36,
+  "text": "suministrada por un proveedor homologado (actualmente bajo especificaciones de Magneti Marelli)."
+ },
+ {
+  "i": 76,
+  "start": 332.22,
+  "end": 336.74,
+  "syl": 27,
+  "text": "Aunque todos los equipos usan físicamente el mismo hardware y la misma unidad central,"
+ },
+ {
+  "i": 77,
+  "start": 337.12,
+  "end": 342.99,
+  "syl": 36,
+  "text": "la verdadera guerra de ingeniería se libra en el software privativo y en la calibración de los mapas de gestión."
+ },
+ {
+  "i": 78,
+  "start": 343.85,
+  "end": 347.65,
+  "syl": 22,
+  "text": "La ECU actual gestiona un ecosistema mecatrónico brutal:"
+ },
+ {
+  "i": 79,
+  "start": 348.13,
+  "end": 349.15,
+  "syl": 4,
+  "text": "por un lado,"
+ },
+ {
+  "i": 80,
+  "start": 349.15,
+  "end": 353.69,
+  "syl": 29,
+  "text": "controla el motor térmico de 1.6 litros con inyección directa y brida de admisión;"
+ },
+ {
+  "i": 81,
+  "start": 354.2,
+  "end": 354.91,
+  "syl": 3,
+  "text": "por otro,"
+ },
+ {
+  "i": 82,
+  "start": 355.03,
+  "end": 362.91,
+  "syl": 45,
+  "text": "se comunica mediante buses CAN de alta velocidad con la Unidad de Control de Energía (PCU) del sistema híbrido de Compact Dynamics,"
+ },
+ {
+  "i": 83,
+  "start": 362.91,
+  "end": 366.99,
+  "syl": 20,
+  "text": "que integra un motor eléctrico (MGU) de 100 kW."
+ },
+ {
+  "i": 84,
+  "start": 367.67,
+  "end": 373.07,
+  "syl": 30,
+  "text": "La centralita calcula constantemente la estrategia de despliegue de energía (power deployment)."
+ },
+ {
+  "i": 85,
+  "start": 373.49,
+  "end": 381.39,
+  "syl": 51,
+  "text": "Sabe exactamente en qué milisegundo del tramo el piloto necesita los 134 caballos eléctricos extra (al salir de una curva lenta,"
+ },
+ {
+  "i": 86,
+  "start": 381.39,
+  "end": 390.16,
+  "syl": 53,
+  "text": "tras pisar el acelerador a fondo) y cuándo debe cortar la asistencia para optimizar la regeneración de energía durante la frenada regenerativa,"
+ },
+ {
+  "i": 87,
+  "start": 390.33,
+  "end": 396.13,
+  "syl": 38,
+  "text": "asegurando que la batería de 3.9 kWh no supere sus límites térmicos de seguridad."
+ },
+ {
+  "i": 88,
+  "start": 397.14,
+  "end": 401.14,
+  "syl": 23,
+  "text": "Para que la centralita de un Rally1 tome decisiones en milisegundos,"
+ },
+ {
+  "i": 89,
+  "start": 401.14,
+  "end": 406.06,
+  "syl": 33,
+  "text": "depende de un ejército de sensores aeronáuticos capaces de resistir vibraciones extremas,"
+ },
+ {
+  "i": 90,
+  "start": 406.2,
+  "end": 408.57,
+  "syl": 14,
+  "text": "barro y temperaturas de más de mil grados."
+ },
+ {
+  "i": 91,
+  "start": 408.57,
+  "end": 414.66,
+  "syl": 28,
+  "text": "En el corazón del software se encuentran los mapas tridimensionales o tablas Look-Up Tables."
+ },
+ {
+  "i": 92,
+  "start": 414.66,
+  "end": 416.22,
+  "syl": 4,
+  "text": "Por ejemplo,"
+ },
+ {
+  "i": 93,
+  "start": 416.54,
+  "end": 422.87,
+  "syl": 38,
+  "text": "el mapa de avance de encendido es una malla 3D donde el eje X es el régimen del motor (RPM),"
+ },
+ {
+  "i": 94,
+  "start": 423.19,
+  "end": 433.1,
+  "syl": 52,
+  "text": "el eje Y es la carga (presión absoluta del colector o MAP) y el eje Z es el grado exacto de avance antes del Punto Muerto Superior (PMS)."
+ },
+ {
+  "i": 95,
+  "start": 433.78,
+  "end": 438.57,
+  "syl": 25,
+  "text": "La centralita interpola millones de puntos por segundo entre estos valores."
+ },
+ {
+  "i": 96,
+  "start": 438.69,
+  "end": 439.38,
+  "syl": 3,
+  "text": "Además,"
+ },
+ {
+  "i": 97,
+  "start": 439.38,
+  "end": 444.46,
+  "syl": 26,
+  "text": "gestiona el control de salida (Launch Control) perfecto para los arranques en los tramos:"
+ },
+ {
+  "i": 98,
+  "start": 444.46,
+  "end": 447.61,
+  "syl": 20,
+  "text": "el piloto pisa el embrague y el acelerador a fondo,"
+ },
+ {
+  "i": 99,
+  "start": 447.61,
+  "end": 451.85,
+  "syl": 29,
+  "text": "y la ECU bloquea las revoluciones exactamente en el régimen óptimo de par,"
+ },
+ {
+  "i": 100,
+  "start": 452.14,
+  "end": 459.42,
+  "syl": 49,
+  "text": "gestionando el deslizamiento del embrague mediante cortes de inyección aleatorios para evitar que las ruedas patinen en exceso sobre la gravilla."
+ },
+ {
+  "i": 101,
+  "start": 459.79,
+  "end": 469.62,
+  "syl": 55,
+  "text": "Y todo esto protegido por algoritmos de redundancia y cifrado de seguridad muy estrictos para evitar que los equipos espien los mapas de inyección de sus rivales."
+ },
+ {
+  "i": 102,
+  "start": 469.62,
+  "end": 479.41,
+  "syl": 58,
+  "text": "El reto más reciente al que se enfrentan los ingenieros de software en el WRC es la transición hacia los combustibles 100% sostenibles y sintéticos obligatorios por la FIA."
+ },
+ {
+  "i": 103,
+  "start": 479.41,
+  "end": 482.88,
+  "syl": 20,
+  "text": "A diferencia de la gasolina de petróleo tradicional,"
+ },
+ {
+  "i": 104,
+  "start": 483.21,
+  "end": 487.2,
+  "syl": 24,
+  "text": "los nuevos biocombustibles avanzados tienen propiedades físico-químicas,"
+ },
+ {
+  "i": 105,
+  "start": 487.34,
+  "end": 490.9,
+  "syl": 22,
+  "text": "densidades y puntos de vaporización ligeramente diferentes."
+ },
+ {
+  "i": 106,
+  "start": 491.28,
+  "end": 497.95,
+  "syl": 41,
+  "text": "La centralita moderna ha tenido que ser recalibrada mediante algoritmos adaptativos en bucle cerrado (closed-loop control)."
+ },
+ {
+  "i": 107,
+  "start": 498.35,
+  "end": 500.97,
+  "syl": 17,
+  "text": "Utilizando sondas lambda de banda ancha ultrarrápidas,"
+ },
+ {
+  "i": 108,
+  "start": 500.97,
+  "end": 513.66,
+  "syl": 73,
+  "text": "la ECU mide en tiempo real el oxígeno residual en los gases de escape y ajusta dinámicamente el tiempo de apertura de los inyectores (el duty cycle) para mantener la relación estequiométrica perfecta,"
+ },
+ {
+  "i": 109,
+  "start": 513.97,
+  "end": 519.78,
+  "syl": 39,
+  "text": "garantizando que el motor entregue cada caballo disponible sin importar las variaciones del combustible ecológico."
+ },
+ {
+  "i": 110,
+  "start": 520.38,
+  "end": 524.69,
+  "syl": 29,
+  "text": "El automovilismo moderno ya no se escribe solo con llave inglesa y grasa de motor;"
+ },
+ {
+  "i": 111,
+  "start": 525.09,
+  "end": 527.24,
+  "syl": 15,
+  "text": "se escribe con líneas de código binario,"
+ },
+ {
+  "i": 112,
+  "start": 527.5,
+  "end": 533.99,
+  "syl": 43,
+  "text": "algoritmos de control predictivo y microprocesadores capaces de procesar la realidad física a la velocidad de la luz."
+ },
+ {
+  "i": 113,
+  "start": 534.44,
+  "end": 543.51,
+  "syl": 59,
+  "text": "Desde las cajas analógicas con chips soldados a mano en el Grupo B hasta las potentes centralitas mecatrónicas que gobiernan la potencia térmica e híbrida en los actuales Rally1,"
+ },
+ {
+  "i": 114,
+  "start": 543.51,
+  "end": 551.51,
+  "syl": 45,
+  "text": "la centralita es el cerebro invisible que permite al piloto desafiar los límites de la física en los caminos más duros del planeta."
+ },
+ {
+  "i": 115,
+  "start": 551.51,
+  "end": 556.25,
+  "syl": 26,
+  "text": "Si te ha gustado este viaje técnico a las entrañas del software de competición,"
+ },
+ {
+  "i": 116,
+  "start": 556.53,
+  "end": 557.64,
+  "syl": 7,
+  "text": "suscríbete al canal,"
+ },
+ {
+  "i": 117,
+  "start": 557.87,
+  "end": 560.18,
+  "syl": 14,
+  "text": "déjanos un like y dime en los comentarios:"
+ },
+ {
+  "i": 118,
+  "start": 560.56,
+  "end": 564.72,
+  "syl": 24,
+  "text": "¿qué otro componente del rally quieres que exploremos en el próximo video?"
+ },
+ {
+  "i": 119,
+  "start": 564.72,
+  "end": 566.07,
+  "syl": 10,
+  "text": "¡Nos vemos en el próximo tramo!"
+ }
+]
