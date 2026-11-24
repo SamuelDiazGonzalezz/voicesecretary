@@ -75,7 +75,7 @@ const final = r('out', 'centralita.mp4');
 ff(['-i', r('out', 'render-60fps.mp4'), '-i', mixFinal,
   '-filter_complex', '[0:v]tmix=frames=2:weights=1 1,fps=30,format=yuv420p[v]',
   '-map', '[v]', '-map', '1:a',
-  '-c:v', 'libx264', '-preset', 'slow', '-crf', '24', '-profile:v', 'high', '-level', '4.2',
+  '-c:v', 'libx264', '-preset', 'slow', '-crf', '26', '-profile:v', 'high', '-level', '4.2',
   '-x264-params', 'keyint=60:min-keyint=30', '-colorspace', 'bt709', '-color_primaries', 'bt709', '-color_trc', 'bt709',
   '-c:a', 'aac', '-b:a', '320k', '-movflags', '+faststart', '-t', String(DURATION), final]);
 console.log('final ->', final);
