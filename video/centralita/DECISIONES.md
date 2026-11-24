@@ -143,6 +143,8 @@ En **Si menor a 100 BPM**:
    - **etiquetas superpuestas** en el embrague multidisco y en la caja de la PCU.
 5. **v1:** volví a revisar los 134 fotogramas. Ajusté los rótulos de los sensores, la caja de la PCU, el tamaño de los mapas 3D y la turbina, que quedaba en el borde.
 6. **Render** a 60 fps por tramos de 60 s (con reintento), mezcla, hoja de contactos y revisión del máster.
+7. **Peso:** a CRF 24 el máster pesaba 129 MB, y a CRF 26, 105 MB; el límite de GitHub es 100 MB. Lo codifiqué a CRF 27 desde el máster intermedio a 60 fps (casi sin pérdidas), no desde un MP4 ya comprimido, copiando el audio ya mezclado.
+8. **Hoja de contactos:** la rejilla de 8 × 9 de la serie se quedaba en el minuto 6; la amplié a 8 × 15 para que cubra los 9:32.
 
 ## Tiempo total
 
